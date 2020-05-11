@@ -366,146 +366,47 @@
 			<section class="chat-bot" id="learn">
 
         <!-- Here code of dialogflow started -->
-        <iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/10825e64-6034-4174-8ccc-fb20b0231741"></iframe>
+        <!-- <iframe width="100%" height="700" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/10825e64-6034-4174-8ccc-fb20b0231741"></iframe> -->
 
-        <div id="preloader" style="opacity: 0; display: none;">
-          <noscript>
-            <h1>This application does'not work without javascript</h1>
-          </noscript>
-          <div class="logo"></div>
-        </div>
-
-        <div class="b-agent-demo">
-          <div class="b-agent-demo_header">
-            <div class="b-agent-demo_header-icon">
-              <div class="b-agent-demo_header-icon-align-helper">
-                <img
-                  id="agent-avatar"
-                  src="https://www.gstatic.com/dialogflow-console/common/assets/img/logo-short.png"
-                  srcset="
-                    https://console.dialogflow.com/api-client/assets/img/logo-short.png 2x,
-                    https://console.dialogflow.com/api-client/assets/img/logo-short.png 1x
-                  "
-                />
-              </div>
-            </div>
-            <div class="b-agent-demo_header-wrapper">
-              <div class="b-agent-demo_header-agent-name">Mental Wellness Chatbot</div>
-              <div class="b-agent-demo_header-description">
-                Here you can interact with our bot and it will help you in improving your emtoional wellness.
-              </div>
-            </div>
-          </div>
-          <div class="b-agent-demo_powered_by">
-            <a href="https://dialogflow.com" target="_blank">
-              <img
-                src="https://console.dialogflow.com/api-client/assets/img/logo-black.png"
-              />
-
-              <span>Powered by</span>
-            </a>
-          </div>
-          <div class="b-agent-demo_result" id="resultWrapper">
-            <table class="b-agent-demo_result-table">
-              <tbody>
-                <tr>
-                  <td id="result"></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          <div class="clearfix"></div>
-          <div class="b-agent-demo_input">
-            <form id="agentDemoForm">
-              <input
-                type="text"
-                name="q"
-                id="query"
-                placeholder="Ask something..."
-              />
-              <i
-                class="b-agent-demo_input-microphone material-icons-extended"
-                id="mic"
-                style="display: block;"
-                >mic</i
-              >
-
-              <!--div class="b-agent-demo_input-microphone material-icons-extended mic-black" id="mic"></div-->
-            </form>
-          </div>
-        </div>
-
-        <script>
-          AGENT_LANGUAGE = "en";
-          AGENT_AVATAR_ID = "";
-          SERVICE_BASE_URL = "https://console.dialogflow.com/api-client/";
-
-          // non-blocking CSS delivery
-
-          var loadDeferredStyles = function() {
-            var addStylesNode = document.getElementById("deferred-styles");
-            var replacement = document.createElement("div");
-            replacement.innerHTML = addStylesNode.textContent;
-            document.body.appendChild(replacement);
-            addStylesNode.parentElement.removeChild(addStylesNode);
-          };
-
-          var raf =
-            window.requestAnimationFrame ||
-            window.mozRequestAnimationFrame ||
-            window.webkitRequestAnimationFrame ||
-            window.msRequestAnimationFrame;
-
-          if (raf) {
-            raf(function() {
-              window.setTimeout(loadDeferredStyles, 0);
-            });
-          } else {
-            window.addEventListener("load", loadDeferredStyles);
-          }
-
-          window["addStyleString"] = function(str) {
-            var node = document.createElement("style");
-            node.innerHTML = str;
-            document.head.appendChild(node);
-          };
-        </script>
-        <script
-          defer=""
-          src="https://assets.dialogflow.com/b/dialogflow_ui_20190207_1905_dumbledore_RC01/js/bundles/agentDemo.bundle.min.js"
-        ></script>
-        <!-- Google Analytics -->
-        <script>
-          window.ga =
-            window.ga ||
-            function() {
-              (ga.q = ga.q || []).push(arguments);
-            };
-          ga.l = +new Date();
-          ga("create", "UA-50971730-1", "auto");
-          ga("send", "pageview");
-        </script>
-        <script
-          async=""
-          src="https://www.google-analytics.com/analytics.js"
-        ></script>
-
-        <div>
-          <link
-            href="https://fonts.googleapis.com/css?family=Roboto:400,300&amp;subset=latin,cyrillic"
-            rel="stylesheet"
-            type="text/css"
-          />
-          <link
-            href="https://fonts.googleapis.com/icon?family=Material+Icons+Extended"
-            rel="stylesheet"
-          />
-          <link
-            href="https://cdn.jsdelivr.net/fontawesome/4.6.3/css/font-awesome.min.css"
-            rel="stylesheet"
-            type="text/css"
-          />
-        </div>
+				<script type="text/javascript">
+      /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
+      (function(d, m){
+        var kommunicateSettings = {
+					"appId":"3a3960457e42c8754ac7fd948544dbd7c", //"popupWidget":true,"automaticChatOpenOnNavigation":true};
+					"onInit": function () {
+                // var iframeStyle = document.createElement('style');
+                // var classSettings = ".change-kommunicate-iframe-height{height:100%!important;width:100%!important;right:0!important;bottom:0!important;max-height: 100%!important;}";
+                // iframeStyle.type = 'text/css';
+                // iframeStyle.innerHTML = classSettings;
+                // document.getElementsByTagName('head')[0].appendChild(iframeStyle);
+                // var launcherIconStyle = "@media(min-width: 510px){.mck-sidebox.fade.in,.mck-box .mck-box-sm{width:100%; height:100%;max-height:100%!important;border-radius:0px!important;}.mck-sidebox{right:0!important;bottom:0!important;}}";
+                // Kommunicate.customizeWidgetCss(launcherIconStyle);
+								//
+                // var iframe = parent.document.getElementById("kommunicate-widget-iframe"),
+                //     launcher = KommunicateGlobal.document.getElementById('mck-sidebox-launcher'),
+                //     preChatPopup = KommunicateGlobal.document.querySelector('#chat-popup-widget-container .chat-popup-widget-text-wrapper'),
+                //     closeButton = KommunicateGlobal.document.getElementById('km-chat-widget-close-button');
+								//
+                // [launcher, preChatPopup].forEach(function (element) {
+                //     element.addEventListener('click', function () {
+                //         iframe.classList.add("change-kommunicate-iframe-height");
+                //     });
+                // });
+								//
+                // closeButton.addEventListener('click', function () {
+                //     iframe.classList.remove("change-kommunicate-iframe-height");
+                // });
+                // Kommunicate.launchConversation();
+                // KommunicateGlobal.document.getElementById('mck-sidebox-launcher').click()
+								Kommunicate.launchConversation();
+            }
+        };
+        var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+        s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
+        var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
+        window.kommunicate = m; m._globals = kommunicateSettings;
+      })(document, window.kommunicate || {});
+  </script>
 
 
 
