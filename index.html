@@ -12,6 +12,25 @@
 		<link rel="stylesheet" href="vendors/jquery-flipster/css/jquery.flipster.css">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="shortcut icon" href="images/favicon.png" />
+
+		<style>
+		  .footer_start {
+				position: fixed;
+				left: 0;
+				bottom: 0;
+				width: 100%;
+				background-color: white;
+				color: white;
+				text-align: center;
+		  	padding-bottom: 10px;
+				z-index: 100;
+		  }
+
+			.start_btn {
+				/* box-shadow: 10px 1px blue; */
+			}
+		</style>
+
 	</head>
 	<body data-spy="scroll" data-target=".navbar" data-offset="50">
 
@@ -32,9 +51,6 @@
 							<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="learn.html">Learn</a>
-						</li>
-						<li class="nav-item">
 							<a class="nav-link" href="plans.html">Plans</a>
 						</li>
 						<li class="nav-item">
@@ -45,6 +61,9 @@
 			</div>
 		</nav>
 
+		<div class="footer_start">
+			<button class="btn btn-secondary mt-3 start_btn" onclick="openChat()">Start Learning</button>
+		</div>
 
 
 
@@ -282,7 +301,7 @@
 							<div class="pricing-box">
 								<img src="images/starter.svg" alt="starter">
 								<h5 class="font-weight-medium title-text">Start Free Learning</h5>
-								<a href="learn.html" class="btn btn-outline-primary">Start Now</a>
+								<button class="btn btn-outline-primary"  onclick="openChat()">Start Now</button>
 							</div>
 						</div>
 
