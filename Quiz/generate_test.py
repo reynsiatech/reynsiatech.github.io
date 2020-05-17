@@ -30,7 +30,9 @@ final_html_code = """
 <a href="#" class="brand-logo">UnchaAI</a>
 </div>
 </nav>
-<div class="test_title">
+<div class="row">
+<div class="col s12 m8 l6 offset-m2 offset-l3">
+<div class="test_title" style="text-align: center">
 <h3>
 """
 
@@ -116,6 +118,8 @@ for i in range(no_of_questions):
 
 
 final_html_code += """
+</div>
+</div>
 </div>
 <script>
 $(document).ready(function(){
