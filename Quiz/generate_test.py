@@ -27,7 +27,7 @@ final_html_code = """
 <body>
 <nav>
 <div class="nav-wrapper" style="background-color: #5E50F9;">
-<a href="#" class="brand-logo">UnchaAI</a>
+<a href="#" class="brand-logo">unchaAI</a>
 </div>
 </nav>
 <div class="row">
