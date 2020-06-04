@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="css/topic_list.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <div class="dropdown">
+      <a href="#" class="js-link">Loda Lahsun Adhrak<i class="fa fa-chevron-down"></i></a>
+      <ul class="js-dropdown-list">
+        <li><a href="http://www.google.com">Google.com</a></li>
+        <li>Option 2</li>
+        <li>Option 3</li>
+        <li>* Reset</li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
+      <ul class="js-dropdown-list">
+        <li><a href="http://www.google.com">Google.com</a></li>
+        <li>Option 2</li>
+        <li>Option 3</li>
+        <li>* Reset</li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
+      <ul class="js-dropdown-list">
+        <li><a href="http://www.google.com">Google.com</a></li>
+        <li>Option 2</li>
+        <li>Option 3</li>
+        <li>* Reset</li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
+      <ul class="js-dropdown-list">
+        <li><a href="http://www.google.com">Google.com</a></li>
+        <li>Option 2</li>
+        <li>Option 3</li>
+        <li>* Reset</li>
+      </ul>
+    </div>
+  </body>
+
+
+  <script>
+    $(function() {
+var list = $('.js-dropdown-list');
+var link = $('.js-link');
+link.click(function(e) {
+  e.preventDefault();
+  list.slideToggle(200);
+});
+list.find('li').click(function() {
+  var text = $(this).html();
+  var icon = '<i class="fa fa-chevron-down"></i>';
+  link.html(text+icon);
+  list.slideToggle(200);
+  if (text === '* Reset') {
+    link.html('Select one option'+icon);
+  }
+});
+});
+  </script>
+</html>
