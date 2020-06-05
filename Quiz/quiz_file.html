@@ -90,9 +90,17 @@
             <div class="modal-content">
                 <h5>Are you sure, you want to submit the quiz?</h5>
             </div>
+            <div class="row">
+                <div class="col s10 offset-s1">
+                    <form>
+                        <input type="text" name="name" placeholder="Enter your name!!" id="name">
+                        <input type="text" name="mobile_no" placeholder="Enter your mobile no!!" id="mobile_no">
+                    </form>
+                </div>
+            </div>
             <div class="modal-footer">
                 <button class="modal-close btn waves-effect waves-light blue">Cancel</button>
-                <button class="modal-close btn waves-effect waves-light blue" onclick="evaluate_quiz()">Submit</button>
+                <button class="btn waves-effect waves-light blue" onclick="evaluate_quiz()">Submit</button>
             </div>
         </div>
 
@@ -131,6 +139,7 @@
                 $("#quiz_solution").hide();
             });
             var correect_answers = ["A", "B"];
+
             function print_score(score) {
                 $("#question_form").remove();
                 $("#submit_button").remove();
@@ -147,18 +156,25 @@
                     }
                 }
                 var score = (num_correct/len) * 100;
-                print_score(score);
+                return score;
             }
 
             function evaluate_quiz(){
-                var num_quest = $(".question").length;
-                var user_answers = [];
-                for (var i = 1; i <= num_quest; i++) {
-                    var ans = $("input[name = 'quest"+i+"']:checked").val();
-                    if (ans) {user_answers.push(ans);}
-                    else {user_answers.push("");}
+                var name = document.getElementById("name").value;
+                var mobile_no = document.getElementById("mobile_no").value;
+                if (name != "" && mobile_no != "") {
+                    $('.modal').modal('close');
+                    var num_quest = $(".question").length;
+                    var user_answers = [];
+                    for (var i = 1; i <= num_quest; i++) {
+                        var ans = $("input[name = 'quest"+i+"']:checked").val();
+                        if (ans) {user_answers.push(ans);}
+                        else {user_answers.push("");}
+                    }
+                    var score = get_results(user_answers);
+                    submit_form(name, mobile_no, score);
+                    print_score(score);
                 }
-                get_results(user_answers);
             }
 
             function see_solution() {
@@ -166,6 +182,24 @@
                 $("#quiz_solution").show();
             }
 
+
+            function submit_form(name, mobile_no, score) {
+                $.ajax({
+                    url: 'https://script.google.com/macros/s/AKfycby-uchi8wXfa0Y0g0tKY9KeUbpRSMlGLnWgGmeMGwatPhrhqWI/exec',
+                    type: 'POST',
+                    data: {
+                        "Name": name,
+                        "Mobile_No": mobile_no,
+                        "Score": score
+                    },
+                    error: function() {
+                        console.log("Your form didn't submitted!!!")
+                    },
+                    success: function(data) {
+                        
+                    },
+                });
+            }
         </script>
 
     </body>
