@@ -64,7 +64,7 @@
 
 
 
-		<div class="page-body-wrapper" style="margin-bottom: 100px;">
+		<div class="page-body-wrapper">
 			<section id="home" class="home">
 				<div class="container">
 					<div class="row">
@@ -105,12 +105,24 @@
 					</div>
 
 					<div class="row">
+
+						<div class="col-sm-4 text-center text-lg-left">
+							<div class="services-box pb-lg-0">
+								<img src="images/growth-strategy.svg" alt="growth-strategy">
+								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Personal Guidance
+								</h6>
+								<p>Professional tutor will guide you personally over study plans based on your performance
+								</p>
+							</div>
+						</div>
+
+
 						<div class="col-sm-4 text-center text-lg-left">
 							<div class="services-box">
 								<img src="images/integrated-marketing.svg" alt="integrated-marketing">
 								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Track Weak Points
 								</h6>
-								<p>Smart test analytics will figure out your weak points and teach you accordingly
+								<p>Based on your Quiz performance, tutor wll figure out your weak points and guide you accordingly
 								</p>
 							</div>
 						</div>
@@ -120,23 +132,10 @@
 								<img src="images/design-development.svg" alt="design-development">
 								<h6 class="text-dark mb-3 mt-4 font-weight-medium">On Demand Content
 								</h6>
-								<p>Get the only content which you need which keeps you away from your dreams
+								<p>Get the only content which you need to perform best in IIT-JEE
 								</p>
 							</div>
 						</div>
-
-						<div class="col-sm-4 text-center text-lg-left">
-							<div class="services-box pb-lg-0">
-								<img src="images/growth-strategy.svg" alt="growth-strategy">
-								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Personal Guidance
-								</h6>
-								<p>Get engaging video lessons and test series from AI  chatbot
-								</p>
-							</div>
-						</div>
-
-
-
 
 
 					</div>
@@ -149,9 +148,9 @@
 						<div class="col-sm-4 text-center text-lg-left">
 							<div class="services-box">
 								<img src="images/digital-strategy.svg" alt="digital-strategy">
-								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Online Expert Support
+								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Online Mentorship Support
 								</h6>
-								<p>Get the online support from best teachers and students from top IITs
+								<p>Get weekly mentorship from top IITians who clear your doubts regarding JEE and motivate you
 								</p>
 							</div>
 						</div>
@@ -170,15 +169,46 @@
 						<div class="col-sm-4 text-center text-lg-left">
 							<div class="services-box pb-0">
 								<img src="images/saving-strategy.svg" alt="saving-strategy">
-								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Online One-to-One Learning
+								<h6 class="text-dark mb-3 mt-4 font-weight-medium">Access to Topic-wise Quiz
 								</h6>
-								<p>Get engaging content which is built only for you and enjoy the new way of teaching
+								<p>Get online quizzes topic-wise for assessing your performance in real time
 								</p>
 							</div>
 						</div>
 
 
 					</div>
+
+					<div class="row" style="margin-bottom: 50px;">
+						<div class="col-sm-12" id = "contact_form" style="text-align: center;">
+							<h5 class="text-dark mb-5">Please fill following form for opting these Service</h5>
+							<form>
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="form-group">
+											<input type="text" class="form-control" id="name" placeholder="Name*">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form-group">
+											<input type="text" class="form-control" id="mobile_no" placeholder="Mobile No*">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form-group">
+											<input type="email" class="form-control" id="email" placeholder="Email*">
+										</div>
+									</div>
+									<div class="col-sm-12">
+										<a href="#" class="btn btn-secondary" onclick="submit_form()">Purchase</a>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+
+
+
 				</div>
 			</section>
 
@@ -281,7 +311,7 @@
 			</section>
 
 
-			<section class="available-options" id="options">
+			<!-- <section class="available-options" id="options">
 				<div class="container">
 
 					<div class="row">
@@ -314,14 +344,127 @@
 
 					</div>
 				</div>
+			</section> -->
+
+
+			<section class="pricing-list" id="plans">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="d-sm-flex justify-content-between align-items-center mb-2">
+								<div>
+									<h3 class="font-weight-medium text-dark ">Checkout Our Plans for You!!</h3>
+									<h5 class="text-dark ">You can choose any plan from your convenience and continue to enjoy our best services</h5>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6">
+							<div class="pricing-box">
+								<img src="images/starter.svg" alt="starter">
+								<h5 class="font-weight-medium title-text">Free</h5>
+								<!-- <h6 class="font-weight-medium title-text">1 Month Plan</h6> -->
+								<h4 class="text-amount mb-4 mt-2">@ 0 Rs/month</h4>
+								<ul class="pricing-list">
+									<li>Access to full Organic Chemistry lectures</li>
+									<li>Access to Topic-Wise Quizes</li>
+									<li><s>Personal Guidance</s></li>
+									<li><s>Weak Points Tracking</s></li>
+									<li><s>Online Mentorship Support</s></li>
+									<li><s>All India Test Series</s></li>
+								</ul>
+
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<div class="pricing-box">
+								<img src="images/proffessional.svg" alt="gold">
+								<h5 class="font-weight-medium title-text">Premium</h5>
+								<!-- <h6 class="font-weight-medium title-text">6 Months Plan</h6> -->
+								<h4 class="text-amount mb-4 mt-2">@ 499 Rs/month</h4>
+								<ul class="pricing-list">
+									<li>Access to full Organic Chemistry lectures</li>
+									<li>Access to Topic-Wise Quizes</li>
+									<li>Personal Guidance</li>
+									<li>Weak Points Tracking</li>
+									<li>Online Mentorship Support</li>
+									<li>All India Test Series</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					
+
+					<div class="row" style="margin-bottom: 50px; margin-top: 50px;">
+						<div class="col-sm-12" id = "contact_form" style="text-align: center;">
+							<h5 class="text-dark mb-5">Please fill the following form for Premium Service</h5>
+							<form>
+								<div class="row">
+									<div class="col-sm-12">
+										<div class="form-group">
+											<input type="text" class="form-control" id="name" placeholder="Name*">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form-group">
+											<input type="text" class="form-control" id="mobile_no" placeholder="Mobile No*">
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<div class="form-group">
+											<input type="email" class="form-control" id="email" placeholder="Email*">
+										</div>
+									</div>
+									<div class="col-sm-12">
+										<a href="#" class="btn btn-secondary" onclick="submit_form()">Purchase</a>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+
+
+				</div>
+
 			</section>
 
 
 
 		</div>
 
+		<script>
 
-		</div>
+			function submit_form(){
+				var name = document.getElementById("name").value;
+				var mobile_no = document.getElementById("mobile_no").value;
+				var email = document.getElementById("email").value;
+
+				console.log(name, mobile_no, email, plan)
+				if (name != "" && mobile_no != "" && email != "") {
+					$.ajax({
+						url: 'https://script.google.com/macros/s/AKfycbwSorTKh5r-lV91GkRUaQKnGiqOiy5yJxVhc9_7hle3il8XHd1d/exec',
+						type: 'GET',
+						data: {
+							"name": name,
+							"mobile_no": mobile_no,
+							"email": email,
+							"plan": plan
+						},
+						error: function() {
+							console.log("Your form didn't submitted!!!")
+						},
+						success: function(data) {
+							window.location.href = "purchase.html";
+						},
+					});
+				}
+			}
+
+		</script>
+
+
+
 		<footer class="footer">
 			<div class="footer-top">
 				<div class="container">
