@@ -8,68 +8,113 @@
   </head>
 
   <body style="margin: 0px; padding: 0px;">
+    
     <div class="nav" style="width: 100%; height: 60px; margin: 0px; padding: 0px; background-color: #5E50F9;">
-                <h2 style="margin: 0; padding: 0px; margin-left: 10%; padding-top: 10px; color: #fff;">UnchaAI</h2>
+        <h2 style="margin: 0; padding: 0px; margin-left: 10%; padding-top: 10px; color: #fff;">UnchaAI</h2>
+    </div>
 
-<!--       <p>UnchaAI</p>
- -->
+    <div class="chemistry_topic_list">
+
+        <div class="dropdown">
+            <a href="#" class="js-link">Isomerism<i class="fa fa-chevron-down"></i></a>
+            <ul class="js-dropdown-list">
+                <li><a onclick='show_content(iframe_link = "https://www.youtube.com/embed/xNH2aIxGVeM?rel=0&modestbranding=1&showinfo=0", quiz_link = "Quiz/quiz_file.html")'>Structural Isomerism</a></li>
+                <li>Stereo Isomerism</li>
+            </ul>
+        </div>
+
+        <div class="dropdown">
+            <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
+            <ul class="js-dropdown-list">
+                <li><a href="http://www.google.com">Google.com</a></li>
+                <li>Option 2</li>
+                <li>Option 3</li>
+                <li>* Reset</li>
+            </ul>
+        </div>
+
+        <div class="dropdown">
+            <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
+            <ul class="js-dropdown-list">
+                <li><a href="http://www.google.com">Google.com</a></li>
+                <li>Option 2</li>
+                <li>Option 3</li>
+                <li>* Reset</li>
+            </ul>
+        </div>
+
+        <div class="dropdown">
+            <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
+            <ul class="js-dropdown-list">
+                <li><a href="http://www.google.com">Google.com</a></li>
+                <li>Option 2</li>
+                <li>Option 3</li>
+                <li>* Reset</li>
+            </ul>
+        </div>
+
+        
+
     </div>
-    <div class="dropdown">
-      <a href="#" class="js-link">Isomerism<i class="fa fa-chevron-down"></i></a>
-      <ul class="js-dropdown-list">
-        <li><a href="video_lecture.html">Structural Isomerism</a></li>
-        <li>Stereo Isomerism</li>
-       <!--  <li></li>
-        <li>* Reset</li> -->
-      </ul>
+
+    <div class="topic_data">
+        <div class="container-fluid" style="margin-top: 1%;">
+            <div class="jumbotron well">    
+                <div class="video-container" id="video_present">
+                    <!-- <iframe id="videos" src="https://www.youtube.com/embed/xNH2aIxGVeM?rel=0&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+                </div>
+            </div>
+        </div>
+        <div class="header text-center">
+            <h2>Video Lecture</h2>
+            <div class="button-section" id="quiz_link_present">
+                <!-- <a href="Quiz/quiz_file.html" class="btn btn-large-screen"></i>Start Practice</a> -->
+            </div>
+        </div>
     </div>
-    <div class="dropdown">
-      <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
-      <ul class="js-dropdown-list">
-        <li><a href="http://www.google.com">Google.com</a></li>
-        <li>Option 2</li>
-        <li>Option 3</li>
-        <li>* Reset</li>
-      </ul>
-    </div>
-    <div class="dropdown">
-      <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
-      <ul class="js-dropdown-list">
-        <li><a href="http://www.google.com">Google.com</a></li>
-        <li>Option 2</li>
-        <li>Option 3</li>
-        <li>* Reset</li>
-      </ul>
-    </div>
-    <div class="dropdown">
-      <a href="#" class="js-link">Select one option <i class="fa fa-chevron-down"></i></a>
-      <ul class="js-dropdown-list">
-        <li><a href="http://www.google.com">Google.com</a></li>
-        <li>Option 2</li>
-        <li>Option 3</li>
-        <li>* Reset</li>
-      </ul>
-    </div>
-  </body>
 
 
-  <script>
-    $(function() {
-var list = $('.js-dropdown-list');
-var link = $('.js-link');
-link.click(function(e) {
-  e.preventDefault();
-  list.slideToggle(200);
-});
-list.find('li').click(function() {
-  var text = $(this).html();
-  var icon = '<i class="fa fa-chevron-down"></i>';
-  link.html(text+icon);
-  list.slideToggle(200);
-  if (text === '* Reset') {
-    link.html('Select one option'+icon);
-  }
-});
-});
-  </script>
+</body>
+
+
+    <script>
+        $(function() {
+            var list = $('.js-dropdown-list');
+            var link = $('.js-link');
+            link.click(function(e) {
+                e.preventDefault();
+                list.slideToggle(200);
+            });
+            list.find('li').click(function() {
+                var text = $(this).html();
+                var icon = '<i class="fa fa-chevron-down"></i>';
+                link.html(text+icon);
+                list.slideToggle(200);
+                if (text === '* Reset') {
+                    link.html('Select one option'+icon);
+                }
+            });
+        });
+
+        $(document).ready(function(){
+            $(".topic_data").hide();
+        });
+
+
+        function show_content(iframe_link, quiz_link) {
+
+            var iframe_tag = '<iframe id="videos" src="' + iframe_link + '" frameborder="0" allowfullscreen></iframe>';
+            var quiz_tag = '<a href="' + quiz_link + '" class="btn btn-large-screen"></i>Start Practice</a>';
+
+            $(".chemistry_topic_list").hide();
+            $(".topic_data").show();
+
+            $("#video_present").append(iframe_tag);
+            $("#quiz_link_present").append(quiz_tag);
+
+            // console.log(iframe_tag, quiz_tag);
+
+        }
+
+    </script>
 </html>
