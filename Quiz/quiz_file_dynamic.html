@@ -134,6 +134,26 @@
 
         <script>
 
+            function append_data(req_data) {
+                data_len = Object.keys(req_data).length;
+
+                const markup = ``;
+
+                for (var i = 0; i < data_len; i++) {
+                    markup += `
+                        <div id="question${i}" class="question">
+                            <h5>Question #${i}</h5>
+                            ${req_data[i]["quest"]}
+                            <p><label><input name="quest${i}" value="A" type="radio" />${req_data[i]["option_1"]}</label></p>
+                            <p><label><input name="quest${i}" value="B" type="radio" />${req_data[i]["option_2"]}</label></p>
+                            <p><label><input name="quest${i}" value="C" type="radio" />${req_data[i]["option_3"]}</label></p>
+                            <p><label><input name="quest${i}" value="D" type="radio" />${req_data[i]["option_4"]}</label></p>
+                        </div>
+                    `;
+                    console.log(markup)
+            }
+
+
             $(document).ready(function(){
                 $('.modal').modal();
                 $("#quiz_score").hide();
@@ -158,8 +178,7 @@
                         }
                     }
                 });
-
-                console.log(req_data);
+                append_data(req_data);
             });
 
             var correect_answers = ["A", "B"];
