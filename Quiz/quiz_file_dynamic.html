@@ -25,66 +25,10 @@
 
 
 
-        <form id="question_form">
-            <div id="question1" class="question">
-                <h5>Question #1</h5>
-                <img class="responsive-img" src="https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg">
-                <p>
-                    <label>
-                        <input name="quest1" value="A" type="radio" />
-                        <span>Option A</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="quest1" value="B" type="radio" />
-                        <span>Option B</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="quest1" value="C" type="radio" />
-                        <span>Option C</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="quest1" value="D" type="radio" />
-                        <span>Option D</span>
-                    </label>
-                </p>
-            </div>
+        <div id="question_form">
+            
 
-            <div id="question2" class="question">
-                <h5>Question #2</h5>
-                <img class="responsive-img" src="https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg">
-                <p>
-                    <label>
-                        <input name="quest2" value="A" type="radio" />
-                        <span>Option A</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="quest2" value="B" type="radio" />
-                        <span>Option B</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="quest2" value="C" type="radio" />
-                        <span>Option C</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="quest2" value="D" type="radio" />
-                        <span>Option D</span>
-                    </label>
-                </p>
-            </div>
-
-        </form>
+        </div>
 
         <div id="confirm_submit" class="modal">
             <div class="modal-content">
@@ -117,15 +61,7 @@
         </div>
 
         <div id="quiz_solution">
-            <h5>Question #1</h5>
-            <img class="responsive-img" src="https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg">
-            <img class="responsive-img" src="https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg">
-
-            <h5>Question #2</h5>
-            <img class="responsive-img" src="https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg">
-            <img class="responsive-img" src="https://cdn.cjr.org/wp-content/uploads/2019/07/AdobeStock_100000042-e1563305717660-686x371.jpeg">
-
-            <!-- <button class="btn waves-effect waves-light" onclick="go_back()">Go Back!!</button> -->
+            
         </div>
 
     </div>
@@ -137,22 +73,67 @@
             function append_data(req_data) {
                 data_len = Object.keys(req_data).length;
 
-                const markup = ``;
+                // var answers = {};
 
                 for (var i = 0; i < data_len; i++) {
-                    markup += `
-                        <div id="question${i}" class="question">
-                            <h5>Question #${i}</h5>
-                            ${req_data[i]["quest"]}
-                            <p><label><input name="quest${i}" value="A" type="radio" />${req_data[i]["option_1"]}</label></p>
-                            <p><label><input name="quest${i}" value="B" type="radio" />${req_data[i]["option_2"]}</label></p>
-                            <p><label><input name="quest${i}" value="C" type="radio" />${req_data[i]["option_3"]}</label></p>
-                            <p><label><input name="quest${i}" value="D" type="radio" />${req_data[i]["option_4"]}</label></p>
+
+                    // console.log(req_data[i]["correct_ans"]);
+                    answers[i] = req_data[i]["correct_ans"];
+
+                    const quest_details = `
+                        <div id="question${i+1}" class="question">
+                            <h5>Question #${i+1}</h5>
+                            <h6>${req_data[i]["quest"]}</h6>
+                            <p><label>
+                                <input name="quest${i+1}" value="1" type="radio"/>
+                                <span>${req_data[i]["option_1"]}</span>
+                            </label></p>
+
+                            <p><label>
+                                <input name="quest${i+1}" value="2" type="radio"/>
+                                <span>${req_data[i]["option_2"]}</span>
+                            </label></p>
+
+                            <p><label>
+                                <input name="quest${i+1}" value="3" type="radio"/>
+                                <span>${req_data[i]["option_3"]}</span>
+                            </label></p>
+
+                            <p><label>
+                                <input name="quest${i+1}" value="4" type="radio"/>
+                                <span>${req_data[i]["option_4"]}</span>
+                            </label></p>
                         </div>
                     `;
-                    console.log(markup);
+
+                    const ans_details = `
+                        <div id="question${i+1}" class="question">
+                            <h5>Question #${i+1}</h5>
+                            <h6>${req_data[i]["quest"]}</h6>
+                            <ul>
+                                <li>1) <span>${req_data[i]["option_1"]}</span></li>
+                                <li>2) <span>${req_data[i]["option_2"]}</span></li>
+                                <li>3) <span>${req_data[i]["option_3"]}</span></li>
+                                <li>4) <span>${req_data[i]["option_4"]}</span></li>
+                            </ul>
+                            
+                            <p><b>Correct Answer: </b>:
+                                <span>${req_data[i]["correct_ans"]}</span>
+                            </p>
+                        </div>
+                    `;
+
+                    $("#question_form").append(quest_details);
+
+                    $("#quiz_solution").append(ans_details);
+                }
+
+                return answers;
             }
 
+            var answers = {};
+
+            // var correct_answers = [];
 
             $(document).ready(function(){
                 $('.modal').modal();
@@ -178,11 +159,21 @@
                         }
                     }
                 });
-                console.log(req_data);
-                append_data(req_data);
-            });
+                
+                // req_data = {
+                //     0: {
+                //         "correct_ans": "4",
+                //         "option_1": "a carboxylic acid",
+                //         "option_2": "an alcohol",
+                //         "option_3": "a ketone",
+                //         "option_4": "an ester",
+                //         "quest": "<p>Oil of winter green is</p>"
+                //     }
+                // }
 
-            var correect_answers = ["A", "B"];
+                append_data(req_data);
+
+            });
 
             function print_score(score) {
                 $("#question_form").remove();
@@ -192,10 +183,12 @@
             }
 
             function get_results(user_ans) {
-                var len = correect_answers.length;
+                var len = Object.keys(answers).length;
+                // console.log(answers[0]);
+                // var len = correect_answers.length
                 var num_correct = 0;
                 for (var i = 0; i < len; i++) {
-                    if (user_ans[i] == correect_answers[i]) {
+                    if (user_ans[i] == answers[i]) {
                         num_correct += 1;
                     }
                 }
@@ -204,17 +197,21 @@
             }
 
             function evaluate_quiz(){
+
+                console.log(answers);
                 var name = document.getElementById("name").value;
                 var mobile_no = document.getElementById("mobile_no").value;
                 if (name != "" && mobile_no != "") {
                     $('.modal').modal('close');
                     var num_quest = $(".question").length;
+
                     var user_answers = [];
                     for (var i = 1; i <= num_quest; i++) {
                         var ans = $("input[name = 'quest"+i+"']:checked").val();
                         if (ans) {user_answers.push(ans);}
                         else {user_answers.push("");}
                     }
+                    console.log(user_answers);
                     var score = get_results(user_answers);
                     submit_form(name, mobile_no, score);
                     print_score(score);
