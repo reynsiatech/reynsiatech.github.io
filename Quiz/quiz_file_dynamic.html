@@ -134,42 +134,34 @@
 
         <script>
 
-            function read_json_file(file_name) {
-                var mydata = JSON.parse(file_name);
-
-            }
-
-
             $(document).ready(function(){
                 $('.modal').modal();
                 $("#quiz_score").hide();
                 $("#quiz_solution").hide();
 
-               //  $.getJSON('acids.json', function(jd) {
-               //    // $('#stage').html('<p> Name: ' + jd.name + '</p>');
-               //    // $('#stage').append('<p>Age : ' + jd.age+ '</p>');
-               //    // $('#stage').append('<p> Sex: ' + jd.sex+ '</p>');
-               //    console.log(jd);
-               // });
+                var req_data = {};
 
+                $.ajax({
+                    url: 'acids.json',
+                    dataType: 'json',
+                    success: function(data) {
+                        data_len = Object.keys(data).length;
+                        if (data_len < 10) {
+                            req_data = data;
+                        }
 
-               $.ajax({
-       url: 'acids.json',
-       dataType: 'json',
-       success: function(data) {
-          console.log(data)
+                        else {
+                            temp_arr = Array.from({length: 10}, () => Math.floor(Math.random() * data_len));
+                            for(var i = 0; i < 10; i++) {
+                                req_data[i] = data[i];
+                            }
+                        }
+                    }
+                });
 
-       }
-   });
-
-                // var fs=require('fs');
-                // var data=fs.readFileSync('acids.json', 'utf8');
-                // var words=JSON.parse(data);
-
-                // mydata = read_json_file("acids.json");
-
-                // console.log(words);
+                console.log(req_data);
             });
+
             var correect_answers = ["A", "B"];
 
             function print_score(score) {
