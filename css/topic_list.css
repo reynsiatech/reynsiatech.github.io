@@ -9,10 +9,10 @@ a, li {
   }
   
   html,
-  body {
+ /* body {
     width: 100%;
     height: 100%;
-  }
+  }*/
   
   /*Typography*/
   html {
@@ -87,21 +87,31 @@ p,
 }
 
 .video-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px;
+ /* position: relative;
+  padding-bottom: 0%;
+  padding-top: 40px;
   height: 0;
   overflow: hidden;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;*/
 }
 
 .video-container iframe,
 .video-container object,
 .video-container embed {
-  position: absolute;
+ /* position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 40%;
+  height: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  text-align: center;*/
+  width: 40%;
+  height: 600px;
 }
 
 .responsive-buttons {
@@ -141,5 +151,103 @@ p,
   transition: 0.2s box-shadow ease-in-out, 0.2s background-color ease-in-out;
   white-space: nowrap;
   padding: 1.4em 2em;
+}
+/* Add a black background color to the top navigation */
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .dropdown {width: 90%;}
+  .video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 98%;
+  height: 80%;
+}
+#videos{
+  height: 200px;
+}
+.text-center{
+  margin-left: 0%;
+
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .dropdown {width: 90%;}
+   .video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 98%;
+  height: 80%;
+}
+#videos{
+  height: 300px;
+}
+.text-center{
+  margin-left: 0%;
+
+}
+}
+
+/* Medium devices (landscape tablets, 868px and up) */
+@media only screen and (min-width: 868px) {
+  .dropdown {width: 40%;}
+   .video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 60%;
+  height: 50%;
+  margin-left: 10%;
+}
+#videos{
+  height: 300px;
+}
+.text-center{
+  margin-left: 10%;
+
+}
+.btn{
+  margin-right: 40%;
+}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+.dropdown {width: 40%;}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 60%;
+  height: 50%;
+  margin-left: 10%;
+}
+#videos{
+  height: 500px;
+}
+.text-center{
+  margin-left: 10%;
+
+}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+.dropdown {width: 40%;}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 60%;
+  height: 50%;
+  margin-left: 10%;
+}
+#videos{
+  height: 500px;
+}
+.text-center{
+  margin-left: 10%;
+
+}
 }
 
