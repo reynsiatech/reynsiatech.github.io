@@ -155,7 +155,7 @@
                         else {
                             temp_arr = Array.from({length: 10}, () => Math.floor(Math.random() * data_len));
                             for(var i = 0; i < 10; i++) {
-                                req_data[i] = data[i];
+                                req_data[i] = data[temp_arr[i]];
                             }
                         }
                     }
@@ -187,8 +187,6 @@
 
             function get_results(user_ans) {
                 var len = Object.keys(answers).length;
-                // console.log(answers[0]);
-                // var len = correect_answers.length
                 var num_correct = 0;
                 for (var i = 0; i < len; i++) {
                     if (user_ans[i] == answers[i]) {
