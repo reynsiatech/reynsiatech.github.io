@@ -147,6 +147,7 @@
                     dataType: 'json',
                     success: function(data) {
                         data_len = Object.keys(data).length;
+                        console.log(data_len);
                         if (data_len < 10) {
                             req_data = data;
                         }
