@@ -40,7 +40,7 @@
         "correct_ans": "3"
     },
     "5": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat221Q63.png\"/></p",
         "option_1": "1, 2-butane diol",
         "option_2": "2,2- butane diol",
         "option_3": "2,3-butane diol",
@@ -152,7 +152,7 @@
         "correct_ans": "4"
     },
     "19": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q95.png\"/></p",
         "option_1": "Ethyl acetate",
         "option_2": "Acetic acid",
         "option_3": "Propanoic acid",
@@ -208,7 +208,7 @@
         "correct_ans": "1"
     },
     "26": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q114.png\"/></p",
         "option_1": "glycollic acid",
         "option_2": "\u03b1-hydroxy propionic acid",
         "option_3": "succinic acid",
@@ -232,7 +232,7 @@
         "correct_ans": "3"
     },
     "29": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q126.png\"/></p",
         "option_1": "Lossen reaction\t",
         "option_2": "Schmidt reaction",
         "option_3": "Curtius reaction",
@@ -360,7 +360,7 @@
         "correct_ans": "1"
     },
     "45": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat221Q79.png\"/></p",
         "option_1": "1,1-diphenylethanol",
         "option_2": "2,1-diphenylethanol",
         "option_3": "methyl phenylethanol ",
@@ -377,14 +377,14 @@
     },
     "47": {
         "quest": "<p>Sodium phenoxide when heated with CO<sub>2</sub> under pressure at 125\u00b0C yields a product which on acetylation produces <i>C</i>. </p>",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O4.png\"/>",
         "correct_ans": "1"
     },
     "48": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q86.png\"/></p",
         "option_1": "acetaldehyde",
         "option_2": "acetylene",
         "option_3": "ethylene",
@@ -435,7 +435,7 @@
         "quest": "<p>An organic compound <i>A</i> upon reacting with NH<sub>3</sub> gives <i>B</i> . On heating , <i>B</i> gives <i>C</i> . <i>C</i> in the presence of KOH reacts with Br<sub>2</sub> to give CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub>. <i>A</i> is</p>",
         "option_1": "CH<sub>3</sub>COOH",
         "option_2": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>COOH",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q98O3.png\"/>",
         "option_4": "CH<sub>3</sub>CH<sub>2</sub>COOH",
         "correct_ans": "4"
     },
@@ -457,18 +457,18 @@
     },
     "57": {
         "quest": "<p>The compound that undergoes decarboxyliation most readily under mild condition is</p>",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q102O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q102O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q102O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q102O4.png\"/>",
         "correct_ans": "2"
     },
     "58": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q104.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q104O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q104O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q104O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q104O4.png\"/>",
         "correct_ans": "3"
     },
     "59": {
@@ -489,10 +489,10 @@
     },
     "61": {
         "quest": "<p>Which one of the following is an example of Hell-Volhard-Zelinsky reaction?</p>",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q110O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q110O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q110O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q110O4.png\"/>",
         "correct_ans": "2"
     },
     "62": {
@@ -528,11 +528,11 @@
         "correct_ans": "5"
     },
     "66": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q120.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q120O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q120O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q120O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q120O4.png\"/>",
         "correct_ans": "3"
     },
     "67": {
@@ -553,14 +553,14 @@
     },
     "69": {
         "quest": "<p>End product of the following reaction is</p>",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q125O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q125O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q125O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q125O4.png\"/>",
         "correct_ans": "3"
     },
     "70": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q128.png\"/></p",
         "option_1": "<i>R</i>CHBrCONH<sub>2</sub> ; <i>R</i>CH(NH<sub>2</sub> )COOH",
         "option_2": "<i>R</i>CHBrCOOH; <i>R</i>CH(NH<sub>2</sub> )COOH",
         "option_3": "<i>R</i>CH<sub>2</sub> COBr; <i>R</i>CH<sub>2</sub> COONH<sub>4</sub> ",
@@ -576,23 +576,23 @@
         "correct_ans": "4"
     },
     "72": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q130.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q130O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q130O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q130O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q130O4.png\"/>",
         "correct_ans": "3"
     },
     "73": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q131.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q131O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q131O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q131O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q131O4.png\"/>",
         "correct_ans": "1"
     },
     "74": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q132.png\"/></p",
         "option_1": "alkyl chloride",
         "option_2": "aldehyde",
         "option_3": "carboxylic acid",
@@ -634,13 +634,13 @@
     "79": {
         "quest": "<p>In a set of the given reactions, acetic acid yielded a product <i>C</i> .</p>",
         "option_1": "CH<sub>3</sub> CH(OH) C<sub>6</sub>H<sub>5</sub>",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q141O2.png\"/>",
         "option_3": "CH<sub>3</sub>CH(OH)C<sub>2</sub>H<sub>5</sub>",
         "option_4": "CH<sub>3</sub>COC<sub>6</sub>H<sub>5</sub>",
         "correct_ans": "2"
     },
     "80": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q142.png\"/></p",
         "option_1": "CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub> , C<sub>2</sub>H<sub>5</sub>OH",
         "option_2": "CH<sub>3</sub> CHO, C<sub>2</sub> H<sub>5</sub>OH",
         "option_3": "C<sub>2</sub>H<sub>5</sub>OH, CH<sub>3</sub>CHO",
@@ -656,7 +656,7 @@
         "correct_ans": "3"
     },
     "82": {
-        "quest": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q144.png\"/></p",
         "option_1": "acid anhydride",
         "option_2": "ketone",
         "option_3": "aldehyde",
@@ -697,10 +697,10 @@
     },
     "87": {
         "quest": "<p>4-methylbenzene sulphonic acid reacts with sodium acetate to give\n</p>",
-        "option_1": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_2": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_3": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
-        "option_4": "1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q85O1.png\"/> this is working",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q154O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q154O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q154O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat56SubCat220Q154O4.png\"/>",
         "correct_ans": "1"
     }
 }
