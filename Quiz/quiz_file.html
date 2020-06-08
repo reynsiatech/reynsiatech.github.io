@@ -177,20 +177,21 @@
                 }
             }
 
-            function see_solution() {
-                $("#quiz_score").remove()
-                $("#quiz_solution").show();
-            }
-
-
             function submit_form(name, mobile_no, score) {
+                var page_location = window.location.href;
+                var res = page_location.split("/");
+                res = res[res.length - 1];
+                res = res.split(".");
+                var page_name = res[0];
+
                 $.ajax({
                     url: 'https://script.google.com/macros/s/AKfycby-uchi8wXfa0Y0g0tKY9KeUbpRSMlGLnWgGmeMGwatPhrhqWI/exec',
                     type: 'POST',
                     data: {
                         "Name": name,
                         "Mobile_No": mobile_no,
-                        "Score": score
+                        "Score": score,
+                        "quiz_name": page_name
                     },
                     error: function() {
                         console.log("Your form didn't submitted!!!")
@@ -200,6 +201,12 @@
                     },
                 });
             }
+
+            function see_solution() {
+                $("#quiz_score").remove()
+                $("#quiz_solution").show();
+            }
+            
         </script>
 
     </body>
