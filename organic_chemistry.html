@@ -323,7 +323,10 @@
             $(".topic_data").show();
 
             $("#video_present").append(iframe_tag);
-            $("#quiz_link_present").append(quiz_tag);
+
+            if (quiz_link != ""){
+                $("#quiz_link_present").append(quiz_tag);    
+            }
 
             // console.log(iframe_tag, quiz_tag);
 
