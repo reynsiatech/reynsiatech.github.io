@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>UncahAI - A platform to reach the unchaai of success</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+		<!-- <link rel="shortcut icon" href="images/favicon.png" /> -->
+
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper" style="background-color: #5E50F9;">
+                <a href="#" class="brand-logo">unchaAI</a>
+            </div>
+        </nav>
+
+        <div class="row">
+        <div class="col s12 m8 l6 offset-m2 offset-l3">
+
+        <div class="test_title" style="text-align: center">
+            <h3>Ether Quiz</h3>
+            <p>Please try to answer the following questions correctly!</p>
+        </div>
+
+
+
+        <div id="question_form">
+            
+
+        </div>
+
+        <div id="confirm_submit" class="modal">
+            <div class="modal-content">
+                <h5>Are you sure, you want to submit the quiz?</h5>
+            </div>
+            <div class="row">
+                <div class="col s10 offset-s1">
+                    <form>
+                        <input type="text" name="name" placeholder="Enter your name!!" id="name">
+                        <input type="text" name="mobile_no" placeholder="Enter your mobile no!!" id="mobile_no">
+                    </form>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-close btn waves-effect waves-light blue">Cancel</button>
+                <button class="btn waves-effect waves-light blue" onclick="evaluate_quiz()">Submit</button>
+            </div>
+        </div>
+
+        <div id="submit_button" style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
+            <button class="btn waves-effect waves-light blue modal-trigger" href="#confirm_submit">Submit Quiz</button>
+        </div>
+
+        <div id="quiz_score">
+            <h3>You have scored</h3>
+            <h2 class="score"></h2>
+            <h4>in the given quiz!!!</h4>
+            <!-- <button class="btn waves-effect waves-light" onclick="go_back()">Go Back!!</button> -->
+            <button class="btn waves-effect waves-light" onclick="see_solution()">See Solution</button>
+        </div>
+
+        <div id="quiz_solution">
+            
+        </div>
+
+    </div>
+    </div>
+
+
+        <script>
+
+            function append_data(req_data) {
+                data_len = Object.keys(req_data).length;
+
+                // var answers = {};
+
+                for (var i = 0; i < data_len; i++) {
+
+                    // console.log(req_data[i]["correct_ans"]);
+                    answers[i] = req_data[i]["correct_ans"];
+
+                    const quest_details = `
+                        <div id="question${i+1}" class="question">
+                            <h5>Question #${i+1}</h5>
+                            <h6>${req_data[i]["quest"]}</h6>
+                            <p><label>
+                                <input name="quest${i+1}" value="1" type="radio"/>
+                                <span>${req_data[i]["option_1"]}</span>
+                            </label></p>
+
+                            <p><label>
+                                <input name="quest${i+1}" value="2" type="radio"/>
+                                <span>${req_data[i]["option_2"]}</span>
+                            </label></p>
+
+                            <p><label>
+                                <input name="quest${i+1}" value="3" type="radio"/>
+                                <span>${req_data[i]["option_3"]}</span>
+                            </label></p>
+
+                            <p><label>
+                                <input name="quest${i+1}" value="4" type="radio"/>
+                                <span>${req_data[i]["option_4"]}</span>
+                            </label></p>
+                        </div>
+                    `;
+
+                    const ans_details = `
+                        <div id="question${i+1}" class="question">
+                            <h5>Question #${i+1}</h5>
+                            <h6>${req_data[i]["quest"]}</h6>
+                            <ul>
+                                <li>1) <span>${req_data[i]["option_1"]}</span></li>
+                                <li>2) <span>${req_data[i]["option_2"]}</span></li>
+                                <li>3) <span>${req_data[i]["option_3"]}</span></li>
+                                <li>4) <span>${req_data[i]["option_4"]}</span></li>
+                            </ul>
+                            
+                            <p><b>Correct Answer: </b>:
+                                <span>${req_data[i]["correct_ans"]}</span>
+                            </p>
+                        </div>
+                    `;
+
+                    $("#question_form").append(quest_details);
+
+                    $("#quiz_solution").append(ans_details);
+                }
+
+                return answers;
+            }
+
+            var answers = {};
+
+            // var correct_answers = [];
+
+            $(document).ready(function(){
+                $('.modal').modal();
+                $("#quiz_score").hide();
+                $("#quiz_solution").hide();
+
+                var req_data = {};
+
+                $.ajax({
+                    url: 'json_sorted_data/ether.json',
+                    dataType: 'json',
+                    success: function(data) {
+                        data_len = Object.keys(data).length;
+                        console.log(data_len);
+                        if (data_len < 10) {
+                            req_data = data;
+                        }
+
+                        else {
+                            temp_arr = Array.from({length: 10}, () => Math.floor(Math.random() * data_len));
+                            for(var i = 0; i < 10; i++) {
+                                req_data[i] = data[temp_arr[i]];
+                            }
+                        }
+
+                        console.log(req_data);
+                        append_data(req_data);
+
+                    }
+                });
+
+                
+                
+                // req_data = {
+                //     0: {
+                //         "correct_ans": "4",
+                //         "option_1": "a carboxylic acid",
+                //         "option_2": "an alcohol",
+                //         "option_3": "a ketone",
+                //         "option_4": "an ester",
+                //         "quest": "<p>Oil of winter green is</p>"
+                //     }
+                // }
+
+                // append_data(req_data);
+
+            });
+
+            function print_score(score) {
+                $("#question_form").remove();
+                $("#submit_button").remove();
+                $("#quiz_score").show();
+                $(".score").append("<strong>" + score + "%</strong>");
+            }
+
+            function get_results(user_ans) {
+                var len = Object.keys(answers).length;
+                var num_correct = 0;
+                for (var i = 0; i < len; i++) {
+                    if (user_ans[i] == answers[i]) {
+                        num_correct += 1;
+                    }
+                }
+                var score = (num_correct/len) * 100;
+                return score;
+            }
+
+            function evaluate_quiz(){
+
+                console.log(answers);
+                var name = document.getElementById("name").value;
+                var mobile_no = document.getElementById("mobile_no").value;
+                if (name != "" && mobile_no != "") {
+                    $('.modal').modal('close');
+                    var num_quest = $(".question").length;
+
+                    var user_answers = [];
+                    for (var i = 1; i <= num_quest; i++) {
+                        var ans = $("input[name = 'quest"+i+"']:checked").val();
+                        if (ans) {user_answers.push(ans);}
+                        else {user_answers.push("");}
+                    }
+                    console.log(user_answers);
+                    var score = get_results(user_answers);
+                    submit_form(name, mobile_no, score);
+                    print_score(score);
+                }
+            }
+
+            function see_solution() {
+                $("#quiz_score").remove()
+                $("#quiz_solution").show();
+            }
+
+
+            function submit_form(name, mobile_no, score) {
+                $.ajax({
+                    url: 'https://script.google.com/macros/s/AKfycby-uchi8wXfa0Y0g0tKY9KeUbpRSMlGLnWgGmeMGwatPhrhqWI/exec',
+                    type: 'POST',
+                    data: {
+                        "Name": name,
+                        "Mobile_No": mobile_no,
+                        "Score": score
+                    },
+                    error: function() {
+                        console.log("Your form didn't submitted!!!")
+                    },
+                    success: function(data) {
+                        
+                    },
+                });
+            }
+        </script>
+
+    </body>
+</html>

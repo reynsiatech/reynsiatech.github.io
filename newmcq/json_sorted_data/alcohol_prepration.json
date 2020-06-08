@@ -1,0 +1,66 @@
+{
+    "0": {
+        "quest": "<p>In the conversion of ethanol into methanol which of the following reagents will be used?</p>",
+        "option_1": "K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> /H<sub>2</sub>SO<sub>4</sub>",
+        "option_2": "NaOH + CaO",
+        "option_3": "Cl<sub>2</sub> + <i>aq</i>. KOH",
+        "option_4": "All of these",
+        "correct_ans": "4"
+    },
+    "1": {
+        "quest": "<p>Glycerol on heating with oxalic acid at 110\u00b0C gives</p>",
+        "option_1": "ethanol",
+        "option_2": "methanoic acid",
+        "option_3": "ether",
+        "option_4": "acetone",
+        "correct_ans": "2"
+    },
+    "2": {
+        "quest": "<p>The best method to prepare cyclohexene from cyclohexanol is by using\n</p>",
+        "option_1": "conc. HCl + ZnCl<sub>2</sub> ",
+        "option_2": "conc. H<sub>3</sub>PO<sub>4</sub> ",
+        "option_3": "HBr",
+        "option_4": "conc. HCl",
+        "correct_ans": "2"
+    },
+    "3": {
+        "quest": "<p>Among the alkenes which one produces tertiary butyl alcohol on acid hydration?\n</p>",
+        "option_1": "CH<sub>3</sub>  CH<sub>2</sub>  CH=CH<sub>2</sub> ",
+        "option_2": "CH<sub>3</sub> CH=CH\u2014CH<sub>3</sub> ",
+        "option_3": "(CH<sub>3</sub>  )<sub>2</sub> C=CH<sub>2</sub> ",
+        "option_4": "CH<sub>3</sub>  \u2014CH=CH<sub>2</sub> ",
+        "correct_ans": "3"
+    },
+    "4": {
+        "quest": "<p>Which among the following compounds will give a secondary alcohol on reacting with Grignard's reagent followed by acid hydrolysis ?<br/>\nI. HCHO <br/>\tII C<sub>2</sub>H<sub>5</sub>CHO<br/>\nIII. CH<sub>3</sub>COCH<sub>3</sub><br/>\tIV. C<sub>2</sub>H<sub>5</sub>COOH<br/>\nSelect the correct answer using the codes given below.\n</p>",
+        "option_1": "Only II",
+        "option_2": "Only III",
+        "option_3": "I and IV",
+        "option_4": "II and IV",
+        "correct_ans": "1"
+    },
+    "5": {
+        "quest": "<p>Acid catalysed hydration of alkenes except ethene leads to the formation of\n</p>",
+        "option_1": "mixture of secondary and tertiary alcohols",
+        "option_2": "mixture of primary and secondary alcohols",
+        "option_3": "secondary or tertiary alcohol",
+        "option_4": "primary alcohol",
+        "correct_ans": "3"
+    },
+    "6": {
+        "quest": "<p>Which of the following combinations can be used to synthesise ethanol?\n</p>",
+        "option_1": "CH<sub>3</sub>  MgI and CH<sub>3</sub> COCH<sub>3</sub> ",
+        "option_2": "CH<sub>3</sub>  MgI and C<sub>2</sub> H<sub>5</sub>  OH",
+        "option_3": "CH<sub>3</sub>  MgI and CH<sub>3</sub>  COOC<sub>2</sub> H<sub>5</sub> ",
+        "option_4": "CH<sub>3</sub> MgI and HCHO",
+        "correct_ans": "4"
+    },
+    "7": {
+        "quest": "<p>The enzymes which are used to convert starch into ethyl alcohol are\n</p>",
+        "option_1": "maltase, diastase",
+        "option_2": "diastase, maltase, zymase",
+        "option_3": "invertase, zymase",
+        "option_4": "invertase, diastase, maltase",
+        "correct_ans": "2"
+    }
+}

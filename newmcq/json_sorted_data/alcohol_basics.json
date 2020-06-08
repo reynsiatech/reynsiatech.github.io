@@ -1,0 +1,138 @@
+{
+    "0": {
+        "quest": "<p>Argol, a brown crust, formed during the fermentation of grape juice contains\n</p>",
+        "option_1": "CO<sub>2</sub>",
+        "option_2": "fused oil",
+        "option_3": "potassium hydrogen tartarate",
+        "option_4": "lye",
+        "correct_ans": "3"
+    },
+    "1": {
+        "quest": "<p>Catalytic dehydrogenation of a primary alcohol gives a</p>",
+        "option_1": "secondary alcohol",
+        "option_2": "aldehyde",
+        "option_3": "ketone",
+        "option_4": "ester",
+        "correct_ans": "2"
+    },
+    "2": {
+        "quest": "<p>The compound on dehydrogenation gives a ketone. The original compound is\n</p>",
+        "option_1": "primary alcohol",
+        "option_2": "secondary alcohol",
+        "option_3": "tertiary alcohol",
+        "option_4": "carboxylic acid",
+        "correct_ans": "2"
+    },
+    "3": {
+        "quest": "<p>Denatured alcohol is</p>",
+        "option_1": "ethanol + methanol",
+        "option_2": "rectified spirit + methanol + naphtha",
+        "option_3": "undistilled ethanol",
+        "option_4": "rectified spirit",
+        "correct_ans": "1"
+    },
+    "4": {
+        "quest": "<p>Which one of the following alcohol is used as an antifreeze reagent for making explosives ?\n</p>",
+        "option_1": "Glycerol",
+        "option_2": "Glycol",
+        "option_3": "Ethanol ",
+        "option_4": "Phenol",
+        "correct_ans": "1"
+    },
+    "5": {
+        "quest": "<p>Alcoholic beverages contain</p>",
+        "option_1": "<i>iso</i>-propyl alcohol",
+        "option_2": "<i>n</i>-propyl alcohol",
+        "option_3": "ethyl alcohol",
+        "option_4": "methyl alcohol",
+        "correct_ans": "3"
+    },
+    "6": {
+        "quest": "<p>Which of the following is dihydric alcohol ? </p>",
+        "option_1": "Glycerol",
+        "option_2": "Ethylene glycol",
+        "option_3": "Catechol",
+        "option_4": "Resorcinol",
+        "correct_ans": "2"
+    },
+    "7": {
+        "quest": "<p>Ethanol is CH<sub>3</sub> CH<sub>2</sub> OH. Which species is formed when ethanol acts as a Bronsted base?</p>",
+        "option_1": "CH<sub>3</sub> CH<sub>2</sub> O<sup>-</sup>",
+        "option_2": "CH<sub>3</sub>C<sup>+</sup> H<sub>2</sub>",
+        "option_3": "CH<sub>3</sub> CH<sub>2</sub> O<sup>+</sup> H<sub>2</sub>",
+        "option_4": "H<sub>3</sub>O<sup>+</sup>",
+        "correct_ans": "3"
+    },
+    "8": {
+        "quest": "<p>The correct combination of names for isomeric alcohols with molecular formula C<sub>4</sub>H<sub>10</sub>O  is/are</p>",
+        "option_1": "<i>tert</i>-butanol and 2-methyl propan-2-ol",
+        "option_2": "<i>tert</i>-butanol and 1, 1-dimethyl ethan- 1 -ol",
+        "option_3": "<i>n</i>-butanol and butan-1-ol",
+        "option_4": "<i>iso</i>-butyl alcohol and 2-methyl propan- 1 -ol",
+        "correct_ans": "5"
+    },
+    "9": {
+        "quest": "<p>0.44 g of a monohydric alcohol when added to methylmagnesium iodide in ether liberates at STP, 112 cm<sup>3</sup> of methane. With PCC the same alcohol forms a carbonyl compound that answers silver mirror test. The monohydric alcohol is\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q25O1.png\"/>",
+        "option_2": "(CH<sub>3</sub>)<sub>3</sub> C\u2014CH<sub>2</sub>OH",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q25O3.png\"/>",
+        "option_4": "(CH<sub>3</sub>)<sub>2</sub> CH\u2014CH<sub>2</sub>OH",
+        "correct_ans": "2"
+    },
+    "10": {
+        "quest": "<p>The correct statement regarding the following compounds is</p>",
+        "option_1": "all three compounds are chiral",
+        "option_2": "Only I and II are chiral",
+        "option_3": "I and III are diastereomers",
+        "option_4": "Only I and III are chiral",
+        "correct_ans": "4"
+    },
+    "11": {
+        "quest": "<p>The density of glycerol is higher than propanol due to</p>",
+        "option_1": "van der Waals' attraction",
+        "option_2": "hydrogen bonding",
+        "option_3": "ionic bonding",
+        "option_4": "more number of covalent bonds",
+        "correct_ans": "2"
+    },
+    "12": {
+        "quest": "<p>The correct order of boiling point for primary (1\u00b0), secondary (2\u00b0) and tertiary (3\u00b0) alcohols is</p>",
+        "option_1": "1\u00b0 &gt; 2\u00b0 &gt; 3\u00b0",
+        "option_2": "3\u00b0 &gt; 2\u00b0 &gt; 1\u00b0",
+        "option_3": "2\u00b0 &gt; 1\u00b0 &gt; 3\u00b0",
+        "option_4": "2\u00b0 &gt; 3\u00b0 &gt; 1\u00b0",
+        "correct_ans": "1"
+    },
+    "13": {
+        "quest": "<p>The alcohol that produces turbidity immediately with ZnCl<sub>2</sub> /conc. HCl at room temperature\n</p>",
+        "option_1": "1-hydroxy butane",
+        "option_2": "2-hydroxy butane",
+        "option_3": "2-hydroxy-2-methyl propane",
+        "option_4": "1-hydroxy-2-methyl propane",
+        "correct_ans": "3"
+    },
+    "14": {
+        "quest": "<p>Methanol cannot be dried with anhydrous CaCl<sub>2</sub> because</p>",
+        "option_1": "CaCl<sub>2</sub>  dissolves in it",
+        "option_2": "it is not good dehydrating agent",
+        "option_3": "it forms a solid CaCl<sub>2</sub> \u2219 4CH<sub>3</sub> OH",
+        "option_4": "it reacts with CH<sub>3</sub>OH",
+        "correct_ans": "3"
+    },
+    "15": {
+        "quest": "<p>Power alcohol is a mixture of</p>",
+        "option_1": "80% petrol + 20% ethanol + small quantity of benzene",
+        "option_2": "80% ethanol + 20% benzene + small quantity of petrol",
+        "option_3": "50% petrol + 50% ethanol + small quantity of benzene",
+        "option_4": "80% petrol + 20% benzene + small quantity of ethanol",
+        "correct_ans": "1"
+    },
+    "16": {
+        "quest": "<p>Rectified spirit is a mixture of</p>",
+        "option_1": "95% ethyl alcohol + 5% water",
+        "option_2": "94% ethyl alcohol +4.53 water",
+        "option_3": "94.4% ethyl alcohol +5.43% water",
+        "option_4": "95.87% ethyl alcohol + 4.13% water",
+        "correct_ans": "4"
+    }
+}

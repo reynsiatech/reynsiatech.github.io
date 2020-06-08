@@ -1,0 +1,682 @@
+{
+    "0": {
+        "quest": "<p>An organic acid without a carboxylic acid group is</p>",
+        "option_1": "picric acid",
+        "option_2": "oxalic acid",
+        "option_3": "vinegar",
+        "option_4": "ascorbic acid",
+        "correct_ans": "1"
+    },
+    "1": {
+        "quest": "<p>The order of melting point of <i>ortho, para, meta</i> nitrophenol is\n</p>",
+        "option_1": "<i>o &gt; m &gt; p</i> ",
+        "option_2": "<i>p &gt; m &gt; o</i> ",
+        "option_3": "<i>m &gt; p &gt; o</i> ",
+        "option_4": "<i>p &gt; o &gt; m</i>",
+        "correct_ans": "2"
+    },
+    "2": {
+        "quest": "<p>Acidity of phenol is due to</p>",
+        "option_1": "hydrogen bonding",
+        "option_2": "phenolic group",
+        "option_3": "benzene ring",
+        "option_4": "resonance stabilisation of its anion",
+        "correct_ans": "4"
+    },
+    "3": {
+        "quest": "<p>Phenol on treatement with diethyl sulphate in presence of NaOH gives\n</p>",
+        "option_1": "phenetole",
+        "option_2": "anisole",
+        "option_3": "diphenyl ether",
+        "option_4": "diethyl ehter",
+        "correct_ans": "1"
+    },
+    "4": {
+        "quest": "<p>Phenol, when it first reacts with concentrated sulphuric acid and then with concentrated nitric acid, gives</p>",
+        "option_1": "2, 4, 6-trinitrobenzene ",
+        "option_2": "<i>o</i>-nitrophenol ",
+        "option_3": "<i>p</i>-nitrophenol",
+        "option_4": "nitrobenzene",
+        "correct_ans": "2"
+    },
+    "5": {
+        "quest": "<p>Among the following, which is least acidic ?</p>",
+        "option_1": "phenol",
+        "option_2": "<i>o</i>-cresol",
+        "option_3": "<i>p</i>-nitrophenol",
+        "option_4": "<i>p</i>-chlorophenol",
+        "correct_ans": "2"
+    },
+    "6": {
+        "quest": "<p>Which of the following compound would not evolve CO<sub>2</sub> when treated with NaHCO<sub>3</sub> solution ?</p>",
+        "option_1": "Salicylic acid",
+        "option_2": "Phenol",
+        "option_3": "Benzoic acid",
+        "option_4": "4-nitrobenzoic acid",
+        "correct_ans": "2"
+    },
+    "7": {
+        "quest": "<p>By heating phenol with chloroform in alkali, it is converted into\n</p>",
+        "option_1": "salicylic acid",
+        "option_2": "salicylaldehyde",
+        "option_3": "anisole",
+        "option_4": "phenyl benzoate",
+        "correct_ans": "2"
+    },
+    "8": {
+        "quest": "<p>C<sub>2</sub>H<sub>5</sub>OH and C<sub>6</sub>H<sub>5</sub>OH can be distinguished by </p>",
+        "option_1": "Br<sub>2</sub> + H<sub>2</sub>O",
+        "option_2": "FeCl<sub>3</sub> ",
+        "option_3": "I<sub>2</sub> + NaOH",
+        "option_4": "Both (2) and (3)",
+        "correct_ans": "4"
+    },
+    "9": {
+        "quest": "<p>On reacting with neutral ferric chloride, phenol gives</p>",
+        "option_1": "red colour",
+        "option_2": "blue colour ",
+        "option_3": "violet colour",
+        "option_4": "green colour",
+        "correct_ans": "3"
+    },
+    "10": {
+        "quest": "<p>Carbolic acid is</p>",
+        "option_1": "HCOOH",
+        "option_2": "CH<sub>3</sub>COOH",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>COOH",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>OH",
+        "correct_ans": "4"
+    },
+    "11": {
+        "quest": "<p>When benzene sulphonic acid and <i>p</i>-nitrophenol are treated with NaHCO<sub>3</sub> , the gases released respectively are</p>",
+        "option_1": "SO<sub>2</sub> , NO<sub>2</sub>",
+        "option_2": "SO<sub>2</sub> , NO",
+        "option_3": "SO<sub>2</sub> , CO<sub>2</sub>",
+        "option_4": "CO<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "12": {
+        "quest": "<p>Phenol on reaction with CHCl<sub>3</sub> and NaOH give benzaldehyde. Intermediate of this reaction is\n</p>",
+        "option_1": "carbocation",
+        "option_2": "carbanion",
+        "option_3": "radical",
+        "option_4": "carbene",
+        "correct_ans": "4"
+    },
+    "13": {
+        "quest": "<p>Cumene process is the most important commercial method for the manufacture of phenol. Cumene is\n</p>",
+        "option_1": "1-methyl ethyl benzene ",
+        "option_2": "ethyl benzene",
+        "option_3": "vinyl benzene",
+        "option_4": "propyl benzene",
+        "correct_ans": "1"
+    },
+    "14": {
+        "quest": "<p>Phenol gives characteristic colouration with </p>",
+        "option_1": "iodine solution",
+        "option_2": "bromine water",
+        "option_3": "aqueous FeCl<sub>3</sub> solution",
+        "option_4": "ammonium hydroxide",
+        "correct_ans": "3"
+    },
+    "15": {
+        "quest": "<p>Which is obtained on treating phenol, with dilute HNO<sub>3</sub> ?</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q147O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q147O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q147O3.png\"/>",
+        "option_4": "None of these",
+        "correct_ans": "3"
+    },
+    "16": {
+        "quest": "<p>To distinguish between salicylic acid and phenol one can use\n</p>",
+        "option_1": "NaHCO<sub>3</sub> solution",
+        "option_2": "5% NaOH solution",
+        "option_3": "neutral FeCl<sub>3</sub>",
+        "option_4": "bromine water",
+        "correct_ans": "1"
+    },
+    "17": {
+        "quest": "<p>When phenyl magnesium bromide reacts with t-butanol, the product would be\n</p>",
+        "option_1": "benzene",
+        "option_2": "phenol",
+        "option_3": "t-butyl benzene",
+        "option_4": "t-butyl phenyl ether",
+        "correct_ans": "1"
+    },
+    "18": {
+        "quest": "<p>Strength of acidity is in order</p>",
+        "option_1": "II &gt; I &gt; III &gt; IV ",
+        "option_2": "III &gt; IV &gt; I &gt; II ",
+        "option_3": "I &gt; IV &gt; III &gt; II ",
+        "option_4": "IV &gt; III &gt; I &gt; II",
+        "correct_ans": "2"
+    },
+    "19": {
+        "quest": "<p>When CH<sub>2</sub> =CH\u2014O\u2014CH<sub>2</sub> \u2014CH<sub>3</sub> reacts with one mole of HI, one of the products formed is\n</p>",
+        "option_1": "ethane",
+        "option_2": "ethanol",
+        "option_3": "iodoethene ",
+        "option_4": "ethanal",
+        "correct_ans": "4"
+    },
+    "20": {
+        "quest": "<p>What represents the best method producing salicylic acid?</p>",
+        "option_1": "Benzoic acid, strong base, high temperature",
+        "option_2": "Toluene, strong base, water, high temperature",
+        "option_3": "Phenol, base, carbon dioxide then acid",
+        "option_4": "Bromobenzene, carbonic acid, high temperature",
+        "correct_ans": "3"
+    },
+    "21": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q95.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q95O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q95O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q95O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q95O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "22": {
+        "quest": "<p>When phenol is treated with D<sub>2</sub> SO<sub>4</sub> / D<sub>2</sub>O, some of the hydrogens get exchanged. The final product in this exchange reaction is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q97O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q97O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q97O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q97O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "23": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q98.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q98O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q98O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q98O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q98O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "24": {
+        "quest": "<p>In the following reaction, the product(s) formed is (are) </p>",
+        "option_1": "P (major)",
+        "option_2": "Q (minor)",
+        "option_3": "R (minor)",
+        "option_4": "S (major)",
+        "correct_ans": "5"
+    },
+    "25": {
+        "quest": "<p>Reimer-Tiemann reaction involves</p>",
+        "option_1": "carbonium ion intermediate",
+        "option_2": "carbene intermediate",
+        "option_3": "carbanion intermediate",
+        "option_4": "free radical intermediate",
+        "correct_ans": "2"
+    },
+    "26": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q102.png\"/></p",
+        "option_1": "Phenol, acetone",
+        "option_2": "Phenol, acetaldehyde ",
+        "option_3": "Benzoic acid, acetone ",
+        "option_4": "Benzaldehyde, ethanol",
+        "correct_ans": "1"
+    },
+    "27": {
+        "quest": "<p>The reaction of phenol with excess of bromine water gives</p>",
+        "option_1": "<i>m</i>-bromophenol",
+        "option_2": "<i>o</i>-and <i>p</i>-bromophenol",
+        "option_3": "2, 4-dibromophenol",
+        "option_4": "2, 4, 6-tribromophenol",
+        "correct_ans": "4"
+    },
+    "28": {
+        "quest": "<p>Phenol is heated with a solution of mixture of KBr and KBrO<sub>3</sub> .The major product obtained in the above reaction is</p>",
+        "option_1": "2-bromophenol",
+        "option_2": "3-bromophenol",
+        "option_3": "4-bromophenol\t",
+        "option_4": "2, 4, 6-tribromophenol",
+        "correct_ans": "4"
+    },
+    "29": {
+        "quest": "<p>Which of the following reagents may be used to distinguish between phenol and benzoic acid?\n</p>",
+        "option_1": "Aqueous NaOH",
+        "option_2": "Tollen's reagent",
+        "option_3": "Molisch reagent",
+        "option_4": "Neutral FeCl<sub>3</sub> ",
+        "correct_ans": "4"
+    },
+    "30": {
+        "quest": "<p>The correct order of acid strength of the following compounds is<br/>I. Phenol<br/>\tII. <i>p</i>-cresol<br/>\nIII. <i>m</i>-nitrophenol<br/>\tIV. <i>p</i>-nitrophenol\n</p>",
+        "option_1": "III &gt; II &gt; I &gt; IV",
+        "option_2": "IV &gt; III &gt; I &gt; II",
+        "option_3": "II &gt; IV &gt; I &gt; III",
+        "option_4": "I &gt; II &gt; IV &gt; III",
+        "correct_ans": "2"
+    },
+    "31": {
+        "quest": "<p>The conversion of <i>m</i>-nitrophenol to resorcinol involves respectively\n</p>",
+        "option_1": "hydrolysis, diazotisation and reduction",
+        "option_2": "diazotisation, reduction and hydrolysis",
+        "option_3": "hydrolysis, reduction and diazotisation",
+        "option_4": "reduction, diazotisation and hydrolysis",
+        "correct_ans": "4"
+    },
+    "32": {
+        "quest": "<p>Phenol can be converted to <i>o</i>-hydroxy benzaldehyde by</p>",
+        "option_1": "Kolbe's reaction",
+        "option_2": "Reimer-Tiemann reaction",
+        "option_3": "Wurtz reaction",
+        "option_4": "Cannizaro reaction",
+        "correct_ans": "2"
+    },
+    "33": {
+        "quest": "<p>The correct order of decreasing acidity of nitrophenols will be\n</p>",
+        "option_1": "<i>m</i>-nitrophenol &gt; <i>p</i>-nitrophenol &gt; <i>o</i>-nitrophenol",
+        "option_2": "<i>o</i>-nitrophenol &gt; <i>m</i>-nitrophenol &gt; <i>p</i>-nitrophenol",
+        "option_3": "<i>p</i>-nitrophenol &gt; <i>m</i>-nitrophenol &gt; <i>o</i>-nitrophenol",
+        "option_4": "<i>p</i>-nitrophenol &gt; <i>o</i>-nitrophenol &gt; <i>m</i>-nitrophenol",
+        "correct_ans": "4"
+    },
+    "34": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q114.png\"/></p",
+        "option_1": "Fries rearrangement and Kolbe-Schmidt ",
+        "option_2": "Cumene and Reimer-Tiemann",
+        "option_3": "Dow and Reimer-Tiemann",
+        "option_4": "Dow and Friedel-Craft",
+        "correct_ans": "3"
+    },
+    "35": {
+        "quest": "<p>When phenol is treated with excess of bromine water, it gives\n</p>",
+        "option_1": "<i>m</i>-bromophenol",
+        "option_2": "<i>o</i>-and <i>p</i>-bromophenol",
+        "option_3": "2, 4-dibromophenol",
+        "option_4": "2,4,6-tribromophenol",
+        "correct_ans": "4"
+    },
+    "36": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q117.png\"/></p",
+        "option_1": "<i>o</i>-bromophenol",
+        "option_2": "<i>p</i>-bromophenol",
+        "option_3": "<i>m</i>-bromophenol",
+        "option_4": "2, 4, 6-tribromophenol",
+        "correct_ans": "4"
+    },
+    "37": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q118.png\"/></p",
+        "option_1": "bromine in benzene",
+        "option_2": "bromine in water",
+        "option_3": "potassium bromide solution",
+        "option_4": "bromine in carbon tetrachloride at 0\u00b0C",
+        "correct_ans": "2"
+    },
+    "38": {
+        "quest": "<p>The major product obtained on interaction of phenol with sodium hydroxide and carbon dioxide is\n</p>",
+        "option_1": "benzoic acid",
+        "option_2": "salicylaldehyde",
+        "option_3": "salicylic acid",
+        "option_4": "phthalic acid ",
+        "correct_ans": "3"
+    },
+    "39": {
+        "quest": "<p>In the reaction for dinitration</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q120O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q120O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q120O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q120O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "40": {
+        "quest": "<p>Salicyl aldehyde is obtained when phenol is heated with CHCl<sub>3</sub> and aqueous NaOH. This reaction is known by which name?\n</p>",
+        "option_1": "Carbyl amine reaction",
+        "option_2": "Hofmann's reaction",
+        "option_3": "Reimer-Tiemann reaction",
+        "option_4": "Kolbe-Schmidt reaction",
+        "correct_ans": "3"
+    },
+    "41": {
+        "quest": "<p>Correct acidic order of the following compounds is</p>",
+        "option_1": "I &gt; II &gt; III",
+        "option_2": "III &gt; I &gt; II",
+        "option_3": "II &gt; III &gt; I",
+        "option_4": "I &gt; III &gt; II",
+        "correct_ans": "2"
+    },
+    "42": {
+        "quest": "<p>When <i>o</i>- or <i>p</i>-phenol sulphonic acid is treated with bromine water, the product formed is\n</p>",
+        "option_1": "2, 4-dibromophenol",
+        "option_2": "2, 4, 6-tribromophenol",
+        "option_3": "3-bromophenol boric acid",
+        "option_4": "None of these",
+        "correct_ans": "2"
+    },
+    "43": {
+        "quest": "<p>Phenol on heating with CCl<sub>4</sub> and aqueous KOH gives salicylic acid. This reaction is\n</p>",
+        "option_1": "Friedel-Craft reaction",
+        "option_2": "Diels-Alder reaction",
+        "option_3": "Reimer-Tiemann reaction",
+        "option_4": "Wittig reaction",
+        "correct_ans": "3"
+    },
+    "44": {
+        "quest": "<p>Benzoylation of phenol in alkaline medium is known as</p>",
+        "option_1": "Friedel-Crafts reaction",
+        "option_2": "Wurtz-Fittig reaction",
+        "option_3": "Schotten-Baumann reaction",
+        "option_4": "Sabatier Senderens reduction ",
+        "correct_ans": "3"
+    },
+    "45": {
+        "quest": "<p>The following reaction is known as</p>",
+        "option_1": "Perkin reaction",
+        "option_2": "Gattermann reaction",
+        "option_3": "Kolbe reaction",
+        "option_4": "Gattermann-aldehyde reaction",
+        "correct_ans": "4"
+    },
+    "46": {
+        "quest": "<p>Phenol is more acidic than alcohol because</p>",
+        "option_1": "phenol is more soluble in polar solvents",
+        "option_2": "alcohol does not lose hydrogen atom",
+        "option_3": "phenoxide ion is stabilised by resonance",
+        "option_4": "phenoxide ion doesn't exhibit resonance",
+        "correct_ans": "3"
+    },
+    "47": {
+        "quest": "<p>The structure of the compound that gives a tribromo derivative on treatment with bromine water is </p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q140O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q140O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q140O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q140O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "48": {
+        "quest": "<p>Phenol can be distinguished from ethanol by the following reagents except\n</p>",
+        "option_1": "sodium",
+        "option_2": "NaOH/I<sub>2</sub> ",
+        "option_3": "neutral FeCl<sub>3</sub>",
+        "option_4": "Br<sub>2</sub> /H<sub>2</sub>O",
+        "correct_ans": "1"
+    },
+    "49": {
+        "quest": "<p>Which of the following compounds is weakest acid?</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q151O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q151O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q151O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q151O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "50": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q152.png\"/></p",
+        "option_1": "Liebermann's reaction",
+        "option_2": "Phthalein fusion test",
+        "option_3": "Reimer-Tiemann reaction",
+        "option_4": "Schotten-Baumann reaction",
+        "correct_ans": "1"
+    },
+    "51": {
+        "quest": "<p>Which is not correct ?</p>",
+        "option_1": "Phenol is more acidic than acetic acid",
+        "option_2": "Ethanol is less acidic than phenol",
+        "option_3": "Ethanol has higher boiling point than ethane",
+        "option_4": "Ethane is a non-linear molecule",
+        "correct_ans": "1"
+    },
+    "52": {
+        "quest": "<p>In CH<sub>3</sub>CH<sub>2</sub>OH, the bond that undergoes heterolytic change most readily is</p>",
+        "option_1": "C-C",
+        "option_2": "C-O",
+        "option_3": "C-H",
+        "option_4": "O-H",
+        "correct_ans": "4"
+    },
+    "53": {
+        "quest": "<p>Which one is formed when sodium phenoxide is heated with ethyl iodide?</p>",
+        "option_1": "Phenetole",
+        "option_2": "Ethyl phenyl alcohol",
+        "option_3": "Phenol",
+        "option_4": "None of these",
+        "correct_ans": "1"
+    },
+    "54": {
+        "quest": "<p>Picric acid is</p>",
+        "option_1": "Trinitrotoluene",
+        "option_2": "Trinitroaniline",
+        "option_3": "A volatile liquid",
+        "option_4": "2,4,6-Trinitrophenol",
+        "correct_ans": "4"
+    },
+    "55": {
+        "quest": "<p>The compound which can form intramolecular hydrogen bond is</p>",
+        "option_1": "m-Hydroxybenzaldehyde",
+        "option_2": "Salicyladehyde",
+        "option_3": "Benzaldehyde",
+        "option_4": "p-Hydroxybenzaldehyde",
+        "correct_ans": "2"
+    },
+    "56": {
+        "quest": "<p>In the reaction of phenol with CHCl<sub>3</sub> and aqueous NaOH at 70<sup>o</sup>C (343 k), the electrophile attacking the ring is</p>",
+        "option_1": "CHCl<sub>3</sub>",
+        "option_2": "CHCl<sub>2</sub>",
+        "option_3": ":CCl<sub>2</sub>",
+        "option_4": "COCl<sub>2</sub>",
+        "correct_ans": "3"
+    },
+    "57": {
+        "quest": "<p>Which will undergo Friedel-Crafts alkylation reaction?</p>",
+        "option_1": "1, 2 and 4",
+        "option_2": "1 and 3",
+        "option_3": "2 and 4",
+        "option_4": "1 and 2",
+        "correct_ans": "3"
+    },
+    "58": {
+        "quest": "<p>The compound which reacts fastest with Lucas reagent at room temperature is</p>",
+        "option_1": "Butan-1-ol",
+        "option_2": "Butan-2-ol",
+        "option_3": "2-Methyl propan-1-ol",
+        "option_4": "2-Methylpropan-2-ol",
+        "correct_ans": "4"
+    },
+    "59": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q56.png\"/></p",
+        "option_1": "Gattermann aldehyde synthesis",
+        "option_2": "Duff reaction",
+        "option_3": "Perkin reaction",
+        "option_4": "Reimer-Tiemann reaction",
+        "correct_ans": "4"
+    },
+    "60": {
+        "quest": "<p>In the Liebermann\u2019s nitroso reaction, sequential changes in the colour of phenol occurs as</p>",
+        "option_1": "Brown or red \u2192 green \u2192 deep blue",
+        "option_2": "Red \u2192 deep blue\u2192 green",
+        "option_3": "Red\u2192 green\u2192 white",
+        "option_4": "White \u2192 red\u2192 green",
+        "correct_ans": "2"
+    },
+    "61": {
+        "quest": "<p>Phenol on reaction with Br<sub>2</sub> in CS<sub>2</sub> or a non-polar aprotric solvent furnishes</p>",
+        "option_1": "2, 4, 6-Tribromophenol",
+        "option_2": "p-Bromophenol",
+        "option_3": "o/p-Bromophenol",
+        "option_4": "m-Bromophenol",
+        "correct_ans": "3"
+    },
+    "62": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q88.png\"/></p",
+        "option_1": "Reimer-Tiemann reaction",
+        "option_2": "Liebermann\u2019s nitroso reaction",
+        "option_3": "Dakin reaction",
+        "option_4": "Leader- Manase reaction",
+        "correct_ans": "3"
+    },
+    "63": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q89.png\"/></p",
+        "option_1": "Reimer-Tiemann reaction",
+        "option_2": "Lederer-Manasse reaction",
+        "option_3": "Sandmeyer reaction",
+        "option_4": "Kolbe\u2019s reaction",
+        "correct_ans": "2"
+    },
+    "64": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q21.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q21O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q21O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q21O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q21O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "65": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q22.png\"/></p",
+        "option_1": "it gives a positive Tollen's test and is a functional isomer of <i>X</i>",
+        "option_2": "it gives a positive Tollen's test and is a geometrical isomer of <i>X</i>",
+        "option_3": "it gives a positive iodoform test and is a functional isomer of <i>X</i>",
+        "option_4": "it gives a positive iodoform test and is a geometrical isomer of <i>X</i>",
+        "correct_ans": "3"
+    },
+    "66": {
+        "quest": "<p>The final product (IV) in the sequence of reactions</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q24O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q24O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q24O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat215Q24O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "67": {
+        "quest": "<p>An organic compound <i>A</i> containing C, H and O has a pleasant odour with boiling point of 78\u00b0C. On boiling <i>A</i> with concentrated H<sub>2</sub> SO<sub>4</sub> , a colourless gas is produced which decolourises bromine water and alkaline KMnO<sub>4</sub>. The organic liquid <i>A</i> is\n</p>",
+        "option_1": "C<sub>2</sub>H<sub>5</sub>Cl",
+        "option_2": "C<sub>2</sub>H<sub>5</sub>COOCH<sub>3</sub>",
+        "option_3": "C<sub>2</sub>H<sub>5</sub>OH",
+        "option_4": "C<sub>2</sub>H<sub>6</sub>",
+        "correct_ans": "3"
+    },
+    "68": {
+        "quest": "<p>Sodium phenoxide when heated with CO<sub>2</sub> under pressure at 125\u00b0 C  yields a product which on acetylation produces <i>C</i>.</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q90O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q90O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q90O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q90O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "69": {
+        "quest": "<p>Which one of the following properties is exhibited by phenol ?\t\n</p>",
+        "option_1": "It is soluble in <i>aq</i>. NaOH and evolves CO<sub>2</sub> with <i>aq</i>. NaHCO<sub>3</sub>",
+        "option_2": "It is soluble is <i>aq</i>. NaOH and does not evolve CO<sub>2</sub> with <i>aq</i>. NaHCO<sub>3</sub>",
+        "option_3": "It is not soluble in <i>aq</i>. NaOH but evolves CO<sub>2</sub> with <i>aq</i>. NaHCO<sub>3</sub>",
+        "option_4": "It is insoluble in <i>aq</i>. NaOH and does not evolve CO<sub>2</sub> with <i>aq</i>. NaHCO<sub>3</sub>",
+        "correct_ans": "2"
+    },
+    "70": {
+        "quest": "<p>Two aromatic compounds having formula C<sub>7</sub>H<sub>8</sub>O which are easily identifiable by FeCl<sub>3</sub> solution test (violet colouration) are\n</p>",
+        "option_1": "<i>o</i>-cresol and benzyl alcohol",
+        "option_2": "<i>m</i>-cresol and <i>p</i>-cresol",
+        "option_3": "<i>o</i>-cresol and <i>p</i>-cresol",
+        "option_4": "methyl phenyl ether and benzyl alcohol",
+        "correct_ans": "1"
+    },
+    "71": {
+        "quest": "<p>The final product of the following reaction is/are </p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q126O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q126O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q126O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat216Q126O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "72": {
+        "quest": "<p>An organic compound ' <i>X</i>  ' with molecular formula, C<sub>7</sub>H<sub>8</sub>O is insoluble in aqueous NaHCO<sub>3</sub> but dissolves in NaOH. When treated with bromine water '<i>X</i>  'rapidly gives  '<i>Y</i>  ' C<sub>7</sub>H<sub>5</sub>OBr<sub>3</sub>.<br/> The compounds ' <i>X</i>  ' and '<i>Y</i>  ' respectively, are\n</p>",
+        "option_1": "benzyl alcohol and 2, 4, 6-tribromo-3-methoxy benzene",
+        "option_2": "benzyl alcohol and 2, 4, 6-tribromo-3-methyl phenol",
+        "option_3": "<i>o</i>-cresol and 3, 4, 5-tribromo-2-methyl phenol",
+        "option_4": "methoxybenzene and 2, 4, 6-tribromo-3-methoxy benzene",
+        "correct_ans": "5"
+    },
+    "73": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat217Q157.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat217Q157O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat217Q157O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat217Q157O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55SubCat217Q157O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "74": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q2.png\"/></p",
+        "option_1": "Reimer-Tiemann reaction",
+        "option_2": "Schotten- Baumann reaction",
+        "option_3": "Acetylation",
+        "option_4": "Benzoylation",
+        "correct_ans": "3"
+    },
+    "75": {
+        "quest": "<p>Propene, CH<sub>3</sub>CH = CH<sub>2</sub> can be converted into 1-propanol by oxidation. Indicate which set of reagents amongst the following is ideal to effect the above conversion?</p>",
+        "option_1": "KMnO<sub>4</sub>(alkaline)",
+        "option_2": "Osmium tetroxide(O<sub>s</sub>O<sub>4</sub>/ CH<sub>2</sub>Cl<sub>2</sub>)",
+        "option_3": "B<sub>2</sub>H<sub>6</sub> and alk H<sub>2</sub>O<sub>2</sub>",
+        "option_4": "O<sub>3</sub>/Zn.",
+        "correct_ans": "3"
+    },
+    "76": {
+        "quest": "<p>phenol is heated with CHCl<sub>3</sub> and alcoholic KOH when salicyladehyde is produced. This reaction is known as</p>",
+        "option_1": "Rosenmund\u2019s reaction",
+        "option_2": "Reimer-Tiemann reaction",
+        "option_3": "Friedel-Crafts reaction",
+        "option_4": "Sommetet reaction",
+        "correct_ans": "2"
+    },
+    "77": {
+        "quest": "<p>Phenol on reduction with H<sub>2</sub> in presence of nickel catalyst gives</p>",
+        "option_1": "Benzene",
+        "option_2": "Toluene",
+        "option_3": "Cyclohexane",
+        "option_4": "Cyclohexanol",
+        "correct_ans": "4"
+    },
+    "78": {
+        "quest": "<p>Increasing order of acid strength among p-methoxyphenol, p-methylphenol and p-nitrophenol is</p>",
+        "option_1": "p-Nitrophenol, p-Methoxyphenol, p-Methylphenol",
+        "option_2": "p-Methylphenol, p-Methoxyphenol, p-Nitrophenol",
+        "option_3": "p-Nitrophenol, p-Methylphenol, p-Methoxyphenol",
+        "option_4": "p-Methoxyphenol, p-Methylphenol, p-Nitrophenol.",
+        "correct_ans": "4"
+    },
+    "79": {
+        "quest": "<p>What is Z in the following sequence of reactions ?</p>",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH",
+        "option_2": "CH<sub>3</sub>CHOHCH<sub>3</sub>",
+        "option_3": "(CH<sub>3</sub>CH<sub>2</sub>)<sub>2</sub>CHOH",
+        "option_4": "CH<sub>3</sub>CH = CH<sub>2</sub>",
+        "correct_ans": "2"
+    },
+    "80": {
+        "quest": "<p>Identify Z in the sequence:</p>",
+        "option_1": "(CH<sub>3</sub>)<sub>2</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>3</sub>",
+        "option_2": "CH<sub>3</sub>CH<sub>2</sub>CH(CH<sub>3</sub>)-O-CH<sub>2</sub>CH<sub>3</sub>",
+        "option_3": "CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>-O-CH<sub>2</sub>CH<sub>3</sub>",
+        "option_4": "CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>-O-CH<sub>3</sub>",
+        "correct_ans": "3"
+    },
+    "81": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q30.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q30O1.png\"/>",
+        "option_2": "CH<sub>3</sub>CH<sub>2</sub>Cl and NaOH",
+        "option_3": "CH<sub>3</sub>CH<sub>2</sub>OH and H<sub>2</sub>SO<sub>4</sub>",
+        "option_4": "CH<sub>2</sub>ClCH<sub>2</sub>OH and NaHCO<sub>3</sub>",
+        "correct_ans": "4"
+    },
+    "82": {
+        "quest": "<p>The increasing order of acidity among phenol, p-methylphenol, m-nitrophenol and p-nitrophenol is ?</p>",
+        "option_1": "m-nitrophenol, p-nitrophenol, phenol, p-methylphenol",
+        "option_2": "p-methylphenol, m-nitrophenol, phenol, p-nitrophenol",
+        "option_3": "P-methylphenol, phenol, m-nitrophenol, p-nitrophenol.",
+        "option_4": "Phenol, p-methylphenol, p-nitrophenol m-nitrophenol",
+        "correct_ans": "3"
+    },
+    "83": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat55QATest50Q35.png\"/></p",
+        "option_1": "Phthalic acid",
+        "option_2": "Isophthalic acid",
+        "option_3": "Phenolphthalein",
+        "option_4": "o-Hydroxysulphonic acid",
+        "correct_ans": "3"
+    },
+    "84": {
+        "quest": "<p>In the following compounds,<br/>The order of acidity is</p>",
+        "option_1": "III &gt; IV &gt; I &gt; II",
+        "option_2": "I &gt; IV &gt; III &gt; II",
+        "option_3": "II &gt; I &gt; III &gt; IV",
+        "option_4": "IV &gt; III &gt; I &gt; II",
+        "correct_ans": "4"
+    }
+}

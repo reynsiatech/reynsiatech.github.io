@@ -1,0 +1,42 @@
+{
+    "0": {
+        "quest": "<p>Oxidation of aldehydes gives</p>",
+        "option_1": "esters",
+        "option_2": "acids",
+        "option_3": "ethers",
+        "option_4": "alcohols",
+        "correct_ans": "2"
+    },
+    "1": {
+        "quest": "<p>What is the oxidation number of carbonyl carbon in\nacetophenone?\n</p>",
+        "option_1": "3",
+        "option_2": "1",
+        "option_3": "2",
+        "option_4": "zero",
+        "correct_ans": "3"
+    },
+    "2": {
+        "quest": "<p>How will you convert butan-2-one to propanoic acid?</p>",
+        "option_1": "Tollen's reagent",
+        "option_2": "Fehling's solution",
+        "option_3": "NaOH/I<sub>2</sub>/H<sup>+</sup> ",
+        "option_4": "NaOH/ NaI/ H<sup>+</sup> ",
+        "correct_ans": "3"
+    },
+    "3": {
+        "quest": "<p>The acidic strength of active methylene group in<br/>I. CH<sub>3</sub>COCH<sub>2</sub>COOC<sub>2</sub>H<sub>5</sub><br/>II.\tCH<sub>3</sub>COCH<sub>2</sub>COCH<sub>3</sub> <br/>\nIII.\tC<sub>2</sub>H<sub>5</sub>OOCCH<sub>2</sub>COOC<sub>2</sub>H<sub>5</sub> <br/>Decreases as\n</p>",
+        "option_1": "I &gt; III &gt; II",
+        "option_2": "I &gt; II &gt; III",
+        "option_3": "II &gt; I &gt; III",
+        "option_4": "III &gt; I &gt; II",
+        "correct_ans": "3"
+    },
+    "4": {
+        "quest": "<p>An organic compound is boiled with alcoholic potash. The product is cooled and acidified with HCl. A white solid separates out. The starting compound may be\n</p>",
+        "option_1": "ethyl benzoate",
+        "option_2": "ethyl formate",
+        "option_3": "ethyl acetate",
+        "option_4": "methyl acetate",
+        "correct_ans": "1"
+    }
+}

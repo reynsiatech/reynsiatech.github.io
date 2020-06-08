@@ -1,0 +1,90 @@
+{
+    "0": {
+        "quest": "<p>Benzene diazonium chloride on reaction with phenol in weakly basic medium gives\n</p>",
+        "option_1": "diphenyl ether",
+        "option_2": "<i>p</i>-hydroxy azobenzene",
+        "option_3": "chlorobenzene",
+        "option_4": "benzene",
+        "correct_ans": "2"
+    },
+    "1": {
+        "quest": "<p>The correct sequence of reactions to convert <i>p</i>-nitrophenol into quinol involves\n</p>",
+        "option_1": "reduction, diazotisation and hydrolysis",
+        "option_2": "hydrolysis, diazotisation and reduction",
+        "option_3": "hydrolysis, reduction and diazotisation",
+        "option_4": "diazotisation, reduction and hydrolysis",
+        "correct_ans": "1"
+    },
+    "2": {
+        "quest": "<p>Which will not go for diazotisation ?</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q78O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q78O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "3": {
+        "quest": "<p>Which one of the following is not the correct reaction of aryl diazonium salts?\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q126O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q126O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q126O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q126O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "4": {
+        "quest": "<p>When aqueous solution of benzene diazonium chloride is boiled, the product formed is\n</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>OH",
+        "option_2": "C<sub>6</sub>H<sub>6</sub> +N<sub>2</sub> ",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>COOH",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>OH",
+        "correct_ans": "4"
+    },
+    "5": {
+        "quest": "<p>Aniline when diazotised in cold and then treated with dimethyl aniline gives a coloured product. Its structure would be\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q128O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q128O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q128O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q128O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "6": {
+        "quest": "<p>Reaction of nitrous acid with aliphatic primary amine in the cold gives</p>",
+        "option_1": "A diazonium salt",
+        "option_2": "An alcohol",
+        "option_3": "A nitrite",
+        "option_4": "A dye",
+        "correct_ans": "2"
+    },
+    "7": {
+        "quest": "<p>When benzenediazonium chloride in hydrochloric acid reacts with cuprous chloride, then chlorobenzene is formed The reaction is called</p>",
+        "option_1": "Gattermann reaction",
+        "option_2": "Perkine reaction",
+        "option_3": "Etard reaction",
+        "option_4": "Sandmeyer reaction",
+        "correct_ans": "4"
+    },
+    "8": {
+        "quest": "<p>Aromatic diazonium group can be replaced by various groups/atoms. In this context, match List I with List II and select the correct answer using the codes given below the lists.</p>",
+        "option_1": "A \u2013 4, B \u2013 3, C \u2013 2, D \u2013 1",
+        "option_2": "A \u2013 1, B \u2013 4, C \u2013 2, D \u2013 3",
+        "option_3": "A \u2013 1, B \u2013 2, C \u2013 3, D \u2013 4",
+        "option_4": "A \u2013 2, B \u2013 3, C \u2013 4, D \u2013 1",
+        "correct_ans": "2"
+    },
+    "9": {
+        "quest": "<p>A comound A has a molecular fomula C<sub>7</sub>H<sub>7</sub>NO. On treatment with Br<sub>2</sub> and KOH. A gives an amine B which gives carbylamine test. B upon diazotisation and coupling with phenol gives an azo dye. A can be</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>CONHCOCH<sub>3</sub>",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>CONH<sub>2</sub>",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>",
+        "option_4": "o,m-or p-C<sub>6</sub>H<sub>4</sub>(NH<sub>2</sub>)CHO",
+        "correct_ans": "2"
+    },
+    "10": {
+        "quest": "<p>Benzenediazonium chloride on reaction with phenol in weakly basic medium gives</p>",
+        "option_1": "Diphenyl ether",
+        "option_2": "P \u2013 Hydroxyazobenzene",
+        "option_3": "Chlorobenzene",
+        "option_4": "Benzene",
+        "correct_ans": "2"
+    }
+}

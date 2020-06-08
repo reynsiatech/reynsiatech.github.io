@@ -1,0 +1,1546 @@
+{
+    "0": {
+        "quest": "<p>Reduction of nitrobenzene in the presence of Zn /NH<sub>4</sub> Cl gives\n</p>",
+        "option_1": "azobenzene",
+        "option_2": "hydrazobenzene",
+        "option_3": "N-phenyl hydroxylamine",
+        "option_4": "aniline",
+        "correct_ans": "3"
+    },
+    "1": {
+        "quest": "<p>Toluene is nitrated and the resulting product is reduced with tin and hydrochloric acid. The product so obtained is diazotised and then heated with cuprous bromide. The reaction mixture so formed contains.\n</p>",
+        "option_1": "mixture of <i>o</i> and <i>p</i>-bromotoluenes",
+        "option_2": "mixture of <i>o</i> and <i>p</i>-dibromobenzenes",
+        "option_3": "mixture of <i>o</i> and <i>p</i>-bromoanilines",
+        "option_4": "mixture of <i>o</i> and <i>m</i>-bromotoluenes",
+        "correct_ans": "1"
+    },
+    "2": {
+        "quest": "<p>Nitrobenzene is reduced by Zn and alcoholic potash mixture to get\n</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub> \u2014 NH<sub>2</sub> ",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>  \u2014NH\u2014NH\u2014C<sub>6</sub>H<sub>5</sub> ",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>  \u2014N\u2014N \u2014 C<sub>6</sub>H<sub>5</sub> ",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>  \u2014NH\u2014CO\u2014 C<sub>6</sub>H<sub>5</sub> ",
+        "correct_ans": "2"
+    },
+    "3": {
+        "quest": "<p>Nitration of nitrobenzene at 125\u00b0C with mixed acids gives</p>",
+        "option_1": "<i>meta</i>-dinitrobenzene",
+        "option_2": "<i>ortho</i>-dinitrobenzene",
+        "option_3": "<i>para</i>-dinitrobenzene",
+        "option_4": "1, 3, 5-trinitrobenzene",
+        "correct_ans": "1"
+    },
+    "4": {
+        "quest": "<p>Which of the following compounds is soluble in benzene but almost insoluble in water?\n</p>",
+        "option_1": "C<sub>2</sub>H<sub>5</sub>OH",
+        "option_2": "CH<sub>3</sub>CO<sub>2</sub>H",
+        "option_3": "CH<sub>3</sub>CHO",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "5": {
+        "quest": "<p>Which compound is known as alkyl carbylamine?</p>",
+        "option_1": "<i>R</i> \u2219 CN",
+        "option_2": "<i>R</i> \u2219 NC",
+        "option_3": "Ar \u2219 CN",
+        "option_4": "Ar \u2219 NC",
+        "correct_ans": "2"
+    },
+    "6": {
+        "quest": "<p>Alkyl cyanides undergo Stephen reduction to produce</p>",
+        "option_1": "aldehyde",
+        "option_2": "secondary amine",
+        "option_3": "primary amine",
+        "option_4": "amide",
+        "correct_ans": "1"
+    },
+    "7": {
+        "quest": "<p>Benzamide can be converted into benzonitrile with</p>",
+        "option_1": "H<sub>3</sub>O<sup>+</sup>",
+        "option_2": "OH <sup>-</sup> / H<sub>2</sub>O",
+        "option_3": "KCN",
+        "option_4": "P<sub>2</sub>O<sub>5</sub>",
+        "correct_ans": "4"
+    },
+    "8": {
+        "quest": "<p>Ethyl isocyanide on hydrolysis in acidic medium generates</p>",
+        "option_1": "ethylamine salt and methanoic acid",
+        "option_2": "propanoic acid and ammonium salt",
+        "option_3": "ethanoic acid and ammonium salt",
+        "option_4": "methylamine salt and ethanoic acid",
+        "correct_ans": "1"
+    },
+    "9": {
+        "quest": "<p>Aliphatic nitrites are prepared by the treatment of alkyl halides with\n</p>",
+        "option_1": "sodium cyanide",
+        "option_2": "sodium isocyanide",
+        "option_3": "sodium isocyanate",
+        "option_4": "cyanamide",
+        "correct_ans": "1"
+    },
+    "10": {
+        "quest": "<p>Reduction of alkyl nitrites, produces</p>",
+        "option_1": "secondary amine",
+        "option_2": "primary amine",
+        "option_3": "tertiary amine",
+        "option_4": "amide",
+        "correct_ans": "2"
+    },
+    "11": {
+        "quest": "<p>Which one of the following does not have <i>sp</i><sup>2</sup> hybridised carbon?\n</p>",
+        "option_1": "Acetone",
+        "option_2": "Acetic acid",
+        "option_3": "Acetonitrile",
+        "option_4": "Acetamide",
+        "correct_ans": "3"
+    },
+    "12": {
+        "quest": "<p>An organic compound A having molecular formula C<sub>2</sub>H<sub>3</sub> N on reduction gave another compound B, upon treatment with nitrous acid B gave ethyl alcohol. <br/> On warming with chloroform and alcoholic KOH, it formed an offensive smelling compound C. The  compound C is\n</p>",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q29O2.png\"/>",
+        "option_3": "CH<sub>3</sub>C \u2261 N",
+        "option_4": "CH<sub>3</sub>CH<sub>2</sub>\u2219OH ",
+        "correct_ans": "2"
+    },
+    "13": {
+        "quest": "<p>Acetonitriles on hydrolysis produce which of the following?\n</p>",
+        "option_1": "Amine",
+        "option_2": "Acid",
+        "option_3": "Amides",
+        "option_4": "Carbonyl compounds",
+        "correct_ans": "4"
+    },
+    "14": {
+        "quest": "<p>Methyl cyanide gives on hydrolysis</p>",
+        "option_1": "methyl amine",
+        "option_2": "acetic acid",
+        "option_3": "formic acid",
+        "option_4": "ethyl amine",
+        "correct_ans": "2"
+    },
+    "15": {
+        "quest": "<p>The molecular formula of benzonitrile is</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>CN",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>NC",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>CNO",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>NCO",
+        "correct_ans": "1"
+    },
+    "16": {
+        "quest": "<p>The reduction of which of the following compound would yield secondary amine?\n</p>",
+        "option_1": "Alkyl nitrite",
+        "option_2": "Carbylamine",
+        "option_3": "Primary amine",
+        "option_4": "Secondary nitro compound",
+        "correct_ans": "2"
+    },
+    "17": {
+        "quest": "<p>Acetonitrile on reduction gives</p>",
+        "option_1": "propanamine",
+        "option_2": "methanamine",
+        "option_3": "ethanamine\t",
+        "option_4": "None of these",
+        "correct_ans": "3"
+    },
+    "18": {
+        "quest": "<p>Which one does not liberate NH<sub>3</sub>  when undergoes hydrolysis?\n</p>",
+        "option_1": "Acetanilide",
+        "option_2": "Acetonitrile",
+        "option_3": "Acetamide",
+        "option_4": "Phenyl isocyanide",
+        "correct_ans": "4"
+    },
+    "19": {
+        "quest": "<p>KCN reacts readily to give a cyanide with</p>",
+        "option_1": "ethyl alcohol",
+        "option_2": "ethyl bromide",
+        "option_3": "bromobenzene",
+        "option_4": "chlorobenzene",
+        "correct_ans": "2"
+    },
+    "20": {
+        "quest": "<p>In alkyl cyanide alkyl group attached with</p>",
+        "option_1": "C of CN group",
+        "option_2": "N of CN group",
+        "option_3": "Either C or N of CN group",
+        "option_4": "Both C and N of CN group",
+        "correct_ans": "1"
+    },
+    "21": {
+        "quest": "<p>Amongst the following, the most basic compound is</p>",
+        "option_1": "benzylamine",
+        "option_2": "aniline",
+        "option_3": "acetanilide",
+        "option_4": "<i>p</i>-nitroaniline",
+        "correct_ans": "1"
+    },
+    "22": {
+        "quest": "<p>What is IUPAC name of <i>iso</i>-propylamine? </p>",
+        "option_1": "Propan-2-amine",
+        "option_2": "Ethanamine",
+        "option_3": "2-aminotoluene",
+        "option_4": "Propan-1-amine",
+        "correct_ans": "1"
+    },
+    "23": {
+        "quest": "<p>The main product of the reaction of CH<sub>3</sub> CONH<sub>2</sub> with Br<sub>2</sub> in aqueous potassium hydroxide medium is\n</p>",
+        "option_1": "CH<sub>3</sub>\u2014CH<sub>2</sub> \u2014NH<sub>2</sub> ",
+        "option_2": "CH<sub>3</sub>Br",
+        "option_3": "CH<sub>3</sub>CONHBr",
+        "option_4": "CH<sub>3</sub>NH<sub>2</sub> ",
+        "correct_ans": "4"
+    },
+    "24": {
+        "quest": "<p>When aniline reacts oil of bitter almonds, condensation takes place and benzyl derivatives are formed. These are\nknown as\n</p>",
+        "option_1": "Millon's base",
+        "option_2": "Schiff's reagent",
+        "option_3": "Benedict reagent",
+        "option_4": "Schiff's base ",
+        "correct_ans": "4"
+    },
+    "25": {
+        "quest": "<p>Aniline + Excess of Br<sub>2</sub> \u2192 ?</p>",
+        "option_1": "Tribromo benzene",
+        "option_2": "<i>m</i> -bromo aniline",
+        "option_3": "3,4,5-tribromo aniline",
+        "option_4": "2,4,6-tribromo aniline",
+        "correct_ans": "4"
+    },
+    "26": {
+        "quest": "<p>Compare boiling point of isomeric alkyl amines.</p>",
+        "option_1": "1\u00b0 &gt; 2\u00b0 &gt; 3\u00b0",
+        "option_2": "1\u00b0 &gt; 2\u00b0 &lt; 3\u00b0 ",
+        "option_3": "1\u00b0 &lt; 2\u00b0 &lt; 3\u00b0",
+        "option_4": "1\u00b0 &lt; 2\u00b0 &gt; 3\u00b0",
+        "correct_ans": "1"
+    },
+    "27": {
+        "quest": "<p>Name of method use to separate primary, secondary and tertiary amines is\n</p>",
+        "option_1": "Hofmann method",
+        "option_2": "Lucas method ",
+        "option_3": "Victor Meyer method ",
+        "option_4": "Kolbe method",
+        "correct_ans": "1"
+    },
+    "28": {
+        "quest": "<p>On heating benzyl amine with chloroform and ethanolic KOH, product obtained is\t\n</p>",
+        "option_1": "benzyl alcohol\t",
+        "option_2": "benzaldehyde",
+        "option_3": "benzonitrile",
+        "option_4": "benzyl isocyanide",
+        "correct_ans": "4"
+    },
+    "29": {
+        "quest": "<p>Aniline is prepared in presence of Fe/HCl from </p>",
+        "option_1": "benzene",
+        "option_2": "nitrobenzene",
+        "option_3": "dinitrobenzene\t",
+        "option_4": "None of these",
+        "correct_ans": "2"
+    },
+    "30": {
+        "quest": "<p>Which one of the following is the strongest base in aqueous solution ?\n</p>",
+        "option_1": "Trimethylamine",
+        "option_2": "Aniline",
+        "option_3": "Dimethylamine",
+        "option_4": "Methylamine",
+        "correct_ans": "3"
+    },
+    "31": {
+        "quest": "<p>Which one of the following is most basic?\t</p>",
+        "option_1": "FCH<sub>2</sub> NH<sub>2</sub>",
+        "option_2": "FCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub> ",
+        "option_3": "C<sub>6</sub> H<sub>5</sub> NH<sub>2</sub>",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "32": {
+        "quest": "<p>Carbylamine reaction is given by aliphatic</p>",
+        "option_1": "primary amine",
+        "option_2": "secondary amine",
+        "option_3": "tertiary amine",
+        "option_4": "quaternary ammonium salt",
+        "correct_ans": "1"
+    },
+    "33": {
+        "quest": "<p>Hofmann's bromamide reaction is to convert\t</p>",
+        "option_1": "acid to alcohol",
+        "option_2": "alcohol to acid",
+        "option_3": "amide to amine",
+        "option_4": "amine to amide",
+        "correct_ans": "3"
+    },
+    "34": {
+        "quest": "<p>The strongest base among the following is </p>",
+        "option_1": "C<sub>6</sub> H<sub>5</sub>NH<sub>2</sub> ",
+        "option_2": "(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub> NH",
+        "option_3": "NH<sub>3</sub> ",
+        "option_4": "(C<sub>2</sub>H<sub>5</sub> )<sub>2</sub> NH",
+        "correct_ans": "4"
+    },
+    "35": {
+        "quest": "<p>Reaction of aniline with benzaldehyde is</p>",
+        "option_1": "substitution",
+        "option_2": "addition",
+        "option_3": "condensation",
+        "option_4": "polymerisation",
+        "correct_ans": "3"
+    },
+    "36": {
+        "quest": "<p>Hinsberg's reagent is</p>",
+        "option_1": "C<sub>6</sub> H<sub>5</sub> COCl",
+        "option_2": "CH<sub>3</sub>COCl",
+        "option_3": "C<sub>6</sub> H<sub>5</sub> CH<sub>2</sub> Cl",
+        "option_4": "C<sub>6</sub> H<sub>5</sub> SO<sub>2</sub> Cl",
+        "correct_ans": "4"
+    },
+    "37": {
+        "quest": "<p>Reduction of aniline with acetyl chloride in presence of NaOH produce\n</p>",
+        "option_1": "aniline hydrochloride",
+        "option_2": "acetanilide",
+        "option_3": "<i>p</i>-chloroaniline",
+        "option_4": "a red dye",
+        "correct_ans": "2"
+    },
+    "38": {
+        "quest": "<p>CHCl<sub>3</sub> + C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> + 3NaOH \u2192 <i>A</i> +3<i>B</i> + 3<i>C</i><br/> In the above reaction, the product <i>A</i> is\n</p>",
+        "option_1": "chlorobenzene",
+        "option_2": "phenyl isocyanide",
+        "option_3": "phenyl cyanide",
+        "option_4": "phenyl chloride",
+        "correct_ans": "2"
+    },
+    "39": {
+        "quest": "<p>The molecular formula C<sub>3</sub>H<sub>9</sub>N cannot represent </p>",
+        "option_1": "1\u00b0 amine",
+        "option_2": "2\u00b0 amine",
+        "option_3": "3\u00b0 amine",
+        "option_4": "quarternary salt",
+        "correct_ans": "4"
+    },
+    "40": {
+        "quest": "<p>CH<sub>3</sub>NH<sub>2</sub> + CHCl<sub>3</sub> + KOH \u2192 Nitrogen containing compound + KCl + H<sub>2</sub>O.<br/>\nNitrogen containing compound is\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q106O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q106O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q106O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q106O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "41": {
+        "quest": "<p>In the reaction,</p>",
+        "option_1": "NH<sub>3</sub>",
+        "option_2": "N<sub>2</sub>",
+        "option_3": "O<sub>2</sub>",
+        "option_4": "CO<sub>2</sub>",
+        "correct_ans": "2"
+    },
+    "42": {
+        "quest": "<p>Aniline gives a precipitate with bromine. The colour of precipitate is\n</p>",
+        "option_1": "red",
+        "option_2": "black",
+        "option_3": "blue\t",
+        "option_4": "white",
+        "correct_ans": "4"
+    },
+    "43": {
+        "quest": "<p>Aniline on oxidation with Na<sub>2</sub> Cr<sub>2</sub>O<sub>7</sub> and H<sub>2</sub> SO<sub>4</sub> gives</p>",
+        "option_1": "benzoic acid",
+        "option_2": "<i>m</i>-amino benzoic acid",
+        "option_3": "Schiff's base",
+        "option_4": "<i>p</i>-benzoquinone",
+        "correct_ans": "4"
+    },
+    "44": {
+        "quest": "<p>Ethylamine on acetylation gives</p>",
+        "option_1": "N-ethyl acetamide",
+        "option_2": "acetamide",
+        "option_3": "methyl acetamide\t",
+        "option_4": "None of these",
+        "correct_ans": "1"
+    },
+    "45": {
+        "quest": "<p>Benzyl amine reacts with nitrous acid to give\t</p>",
+        "option_1": "azobenzene",
+        "option_2": "benzene",
+        "option_3": "benzyl alcohol",
+        "option_4": "phenol",
+        "correct_ans": "3"
+    },
+    "46": {
+        "quest": "<p>Methyl amine reacts with methyl iodide. For completion of reaction, how many moles of methyl iodide are required ?</p>",
+        "option_1": "1",
+        "option_2": "2",
+        "option_3": "3",
+        "option_4": "4",
+        "correct_ans": "3"
+    },
+    "47": {
+        "quest": "<p>Identify C in the following reaction, </p>",
+        "option_1": "Benzamide",
+        "option_2": "Benzoic acid",
+        "option_3": "Chlorobenzene",
+        "option_4": "Aniline",
+        "correct_ans": "4"
+    },
+    "48": {
+        "quest": "<p>How many sigma and pi-bonds are there in the molecule of dicyanoethene (CN\u2014CH=CH\u2014CN)?\n</p>",
+        "option_1": "3 sigma and 3 pi",
+        "option_2": "5 sigma and 2 pi",
+        "option_3": "7 sigma and 5 pi",
+        "option_4": "2 sigma and 3 pi",
+        "correct_ans": "3"
+    },
+    "49": {
+        "quest": "<p>Which is not the property of ethanenitrile (CH<sub>3</sub> CN)?</p>",
+        "option_1": "Undergoes acidic hydrolysis to give carboxylic acid",
+        "option_2": "Undergoes alkaline hydrolysis to give salt of carboxylic acid",
+        "option_3": "It tautomerises to give methyl isocyanide",
+        "option_4": "It gives carbylamine reaction with chloroform",
+        "correct_ans": "4"
+    },
+    "50": {
+        "quest": "<p>Considering the basic strength of amines in aqueous solution, which one has the smallest pK<sub>b</sub> value?</p>",
+        "option_1": "( CH<sub>3</sub> )<sub>2</sub> NH",
+        "option_2": "CH<sub>3</sub>NH<sub>2</sub> ",
+        "option_3": "( CH<sub>3</sub> )<sub>3</sub> N",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> ",
+        "correct_ans": "1"
+    },
+    "51": {
+        "quest": "<p>Arrange the following in correct order of basicity.</p>",
+        "option_1": "I &gt; II &gt; III",
+        "option_2": "III &gt; II &gt; I",
+        "option_3": "II &gt; I &gt; III",
+        "option_4": "I &gt; III &gt; II",
+        "correct_ans": "3"
+    },
+    "52": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q42.png\"/></p",
+        "option_1": "it does not exist as Zwitter ion",
+        "option_2": "it does not act as inner salt",
+        "option_3": "\u2014SO<sub>3</sub> diminishes the basic character of \u2014NH<sub>2</sub> ",
+        "option_4": "\u2014NH<sub>2</sub> displays a powerful basic character",
+        "correct_ans": "3"
+    },
+    "53": {
+        "quest": "<p>Which of the following processes does not yield a primary amine?\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q44O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q44O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q44O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q44O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "54": {
+        "quest": "<p>An aromatic compound <i>A</i> (C<sub>7</sub>H<sub>9</sub>N) on reacting with NaNO<sub>2</sub> /HCl at 0\u00b0C forms benzyl alcohol and nitrogen gas. The number of isomers possible for the compound\n<i>A</i> is\n</p>",
+        "option_1": "5",
+        "option_2": "7",
+        "option_3": "3",
+        "option_4": "6",
+        "correct_ans": "1"
+    },
+    "55": {
+        "quest": "<p>An amine C<sub>3</sub>H<sub>9</sub>N reacts with benzene sulphonyl chloride to form a white precipitate which is insoluble in <i>aq</i>. NaOH. The amine is\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q46O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q46O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q46O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q46O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "56": {
+        "quest": "<p>The correct order of basic strength in aqueous solution is</p>",
+        "option_1": "(CH<sub>3</sub>)<sub>2</sub> NH &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>3</sub> N",
+        "option_2": "(CH<sub>3</sub>)<sub>3</sub> N &gt; (CH<sub>3</sub>)<sub>2</sub> NH &gt; CH<sub>3</sub>NH<sub>2</sub> ",
+        "option_3": "CH<sub>3</sub> NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>3</sub> N &gt; (CH<sub>3</sub>)<sub>2</sub> NH",
+        "option_4": "(CH<sub>3</sub> )<sub>3</sub> N &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>2</sub> NH",
+        "correct_ans": "1"
+    },
+    "57": {
+        "quest": "<p>What is Z in the following reaction sequence? </p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub> CO<sub>2</sub> H",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>OH",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>CHO",
+        "option_4": "C<sub>6</sub>H<sub>6</sub> ",
+        "correct_ans": "3"
+    },
+    "58": {
+        "quest": "<p>Aromatic primary amines can be distinguished from aliphatic primary amines by\n</p>",
+        "option_1": "Tollen's test",
+        "option_2": "action on red litmus paper",
+        "option_3": "azo dye test",
+        "option_4": "action with dil. HCl",
+        "correct_ans": "3"
+    },
+    "59": {
+        "quest": "<p>N-methyl aniline on reaction with nitrous acid gives</p>",
+        "option_1": "N-nitroso-N-methylaniline",
+        "option_2": "<i>p</i>-nitroso-N-methylaniline",
+        "option_3": "<i>p</i>-nitro-N-methylaniline",
+        "option_4": "N-nitro-N-methylaniline",
+        "correct_ans": "1"
+    },
+    "60": {
+        "quest": "<p>Unpleasant smell of carbylamine is obtained when chloroform and alcoholic KOH are heated with </p>",
+        "option_1": "any aliphatic amine",
+        "option_2": "any amine",
+        "option_3": "any primary amine",
+        "option_4": "any aromatic amine",
+        "correct_ans": "3"
+    },
+    "61": {
+        "quest": "<p>Amongst the compounds given, the one that would form a brilliant coloured dye on treatment with NaNO<sub>2</sub> in dil. HCl followed by addition to an alkaline solution of\n\u03b2-naphthol is\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q58O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q58O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q58O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q58O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "62": {
+        "quest": "<p><i>n</i>-butylamine (I), diethylamine (II) and N, N-dimethylethy-lamine (III) have the same molar mass. The increasing order of their boiling point is\n</p>",
+        "option_1": "III &lt; II &lt; I",
+        "option_2": "I &lt; II &lt; III",
+        "option_3": "II &lt; III &lt; I",
+        "option_4": "II &lt; I &lt; III",
+        "correct_ans": "1"
+    },
+    "63": {
+        "quest": "<p>Choose the incorrect statement.</p>",
+        "option_1": "Primary amines show intermolecular hydrogen bonds",
+        "option_2": "<i>tert</i>-butylamine is a primary amine",
+        "option_3": "Tertiary amines do not show intermolecular hydrogen bonds",
+        "option_4": "<i>Iso</i>-propylamine is a secondary amine",
+        "correct_ans": "4"
+    },
+    "64": {
+        "quest": "<p>Which one of the following compounds will dissolve in an alkali solution after it has undergo reaction with Hinsberg's\nreagent?\n</p>",
+        "option_1": "CH<sub>3</sub> NH<sub>2</sub>",
+        "option_2": "(CH<sub>3</sub>)<sub>3</sub> N",
+        "option_3": "(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub> NH",
+        "option_4": "C<sub>6</sub> H<sub>5</sub> NHC<sub>6</sub> H<sub>5</sub> ",
+        "correct_ans": "1"
+    },
+    "65": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q64.png\"/></p",
+        "option_1": "CH<sub>3</sub>Br",
+        "option_2": "CH<sub>3</sub>CONH<sub>2</sub> ",
+        "option_3": "CH<sub>3</sub>NH<sub>2</sub>",
+        "option_4": "CHBr<sub>3</sub> ",
+        "correct_ans": "3"
+    },
+    "66": {
+        "quest": "<p>In the chemical reaction,<br/>\nCH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> + CHCl<sub>3</sub> + 3KOH \u2192 <i>A</i> +  <i>B</i>  + 3H<sub>2</sub>O<br/>\nThe compounds <i>A</i> and <i>B</i> are respectively</p>",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>CONH<sub>2</sub> and 3KCl",
+        "option_2": "C<sub>2</sub>H<sub>5</sub>NCand K<sub>2</sub>CO<sub>3</sub>",
+        "option_3": "C<sub>2</sub>H<sub>5</sub> NC and 3KCl",
+        "option_4": "C<sub>2</sub>H<sub>5</sub>CN and 3KCl",
+        "correct_ans": "3"
+    },
+    "67": {
+        "quest": "<p>Why do 2\u00b0 and 3\u00b0 amines fail to undergo the carbylamine test?\n</p>",
+        "option_1": "They combine with chloroform to give a stable compound",
+        "option_2": "They react with alcoholic KOH",
+        "option_3": "The nitrogen atom of the amine group does not have the required number of hydrogen atoms",
+        "option_4": "All the given reasons are correct",
+        "correct_ans": "2"
+    },
+    "68": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q67.png\"/></p",
+        "option_1": "propanenitrile",
+        "option_2": "methylamine",
+        "option_3": "ethylamine",
+        "option_4": "acetamide ",
+        "correct_ans": "3"
+    },
+    "69": {
+        "quest": "<p>Consider the following reaction,</p>",
+        "option_1": "Acetanilide",
+        "option_2": "Benzanilide",
+        "option_3": "Azobenzene",
+        "option_4": "Hydrazobenzene",
+        "correct_ans": "2"
+    },
+    "70": {
+        "quest": "<p>Which of the following is most basic in nature? </p>",
+        "option_1": "NH<sub>3</sub>",
+        "option_2": "CH<sub>3</sub>NH<sub>2</sub>",
+        "option_3": "(CH<sub>3</sub>)<sub>2</sub>NH",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>N(CH<sub>3</sub>)<sub>2</sub>",
+        "correct_ans": "3"
+    },
+    "71": {
+        "quest": "<p>Given the following sequence of reactions,</p>",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q70O2.png\"/>",
+        "option_3": "CH<sub>3</sub>CH<sub>2</sub> \u2014COONH<sub>4</sub> ",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q70O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "72": {
+        "quest": "<p>Amino group is <i>ortho/para</i>-directing for aromatic electrophilic substitution. On nitration of aniline, a good amount of <i>m</i>-nitroaniline is obtained. This is due to</p>",
+        "option_1": "in nitration mixture, <i>ortho</i>, <i>para</i>-activity of NH<sub>2</sub> group is completely lost",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q71O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q71O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q71O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "73": {
+        "quest": "<p>Choose the amide which on reduction with LiAlH<sub>4</sub> yields a secondary amine\n</p>",
+        "option_1": "ethanamide",
+        "option_2": "N-methylethanamide ",
+        "option_3": "N, N-dimethylethanamide ",
+        "option_4": "phenylmethanamide",
+        "correct_ans": "2"
+    },
+    "74": {
+        "quest": "<p>Which of the following is strongest base?</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "option_2": "<i>p</i>-NO<sub>2</sub> \u2014C<sub>6</sub>H<sub>4</sub>NH<sub>2</sub> ",
+        "option_3": "<i>m</i>-NO<sub>2</sub> \u2014C<sub>6</sub> H<sub>4</sub> NH<sub>2</sub> ",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "75": {
+        "quest": "<p>From the following compounds which does not react with C<sub>6</sub>H<sub>5</sub>SO<sub>2</sub>Cl ?\n</p>",
+        "option_1": "C<sub>2</sub>H<sub>5</sub> \u2219NH<sub>2</sub>",
+        "option_2": "CH<sub>3</sub>\u2219NH<sub>2</sub>",
+        "option_3": "(CH<sub>3</sub>)<sub>2</sub>NH",
+        "option_4": "(C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N",
+        "correct_ans": "4"
+    },
+    "76": {
+        "quest": "<p>Aniline reacts with ... to yield ... as the final product.</p>",
+        "option_1": "bromine, 2-bromoaniline",
+        "option_2": "bromine, 2, 4, 6-tribromoaniline",
+        "option_3": "chloroform / KOH, phenyl cyanide",
+        "option_4": "acetyl chloride, benzanilide",
+        "correct_ans": "2"
+    },
+    "77": {
+        "quest": "<p>Gabriel's synthesis is used frequently for the preparation of which of the following?\n</p>",
+        "option_1": "Primary amines\t",
+        "option_2": "Primary alcohols",
+        "option_3": "Tertiary amines",
+        "option_4": "Tertiary alcohols",
+        "correct_ans": "1"
+    },
+    "78": {
+        "quest": "<p>The reaction of CHCl<sub>3</sub> and alcoholic KOH with <i>p</i>-toluidine gives</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q81O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q81O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q81O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q81O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "79": {
+        "quest": "<p>The correct order of increasing basic nature of the following bases is\n</p>",
+        "option_1": "II &lt; V &lt; I &lt; III &lt; IV",
+        "option_2": "V &lt; II &lt; I &lt; III &lt; IV",
+        "option_3": "II &lt; V &lt; I &lt; IV &lt; III",
+        "option_4": "V &lt; II &lt; I &lt; IV &lt; III ",
+        "correct_ans": "1"
+    },
+    "80": {
+        "quest": "<p>An organic amino compound reacts with aqueous nitrous acid at low temperature to produce an oily nitrosoamine. The compound is\n</p>",
+        "option_1": "CH<sub>3</sub>NH<sub>2</sub>",
+        "option_2": "CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_3": "CH<sub>3</sub>CH<sub>2</sub>NHCH<sub>2</sub>CH<sub>3</sub> ",
+        "option_4": "(CH<sub>3</sub>CH<sub>2</sub> )<sub>3</sub>N",
+        "correct_ans": "3"
+    },
+    "81": {
+        "quest": "<p>C<sub>5</sub>H<sub>13</sub>N reacts with HNO<sub>2</sub> to give an optically active alcohol. The compound is\n</p>",
+        "option_1": "pentan-1-amine",
+        "option_2": "pentan-2-amine",
+        "option_3": "N, N-dimethylpropan-2-amine",
+        "option_4": "N-methylbutan-2-amine",
+        "correct_ans": "2"
+    },
+    "82": {
+        "quest": "<p>Which of the following amines can be directly oxidised to the corresponding nitro compound by potassium permanganate ?\n</p>",
+        "option_1": "CH<sub>3</sub>NH<sub>2</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q85O2.png\"/>",
+        "option_3": "(CH<sub>3</sub>)<sub>2</sub>NH",
+        "option_4": "(CH<sub>3</sub>)<sub>3</sub> C \u2014NH<sub>2</sub> ",
+        "correct_ans": "4"
+    },
+    "83": {
+        "quest": "<p>In the following reaction sequence predict the compound <i>X</i> and <i>Y</i>.\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q86O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q86O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q86O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q86O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "84": {
+        "quest": "<p>Reaction of cyclohexanone with dimethylamine in the presence of catalytic amount of an acid forms a compound of water during the reaction is continuously removed. The compound formed is generally known as </p>",
+        "option_1": "an amine",
+        "option_2": "an imine",
+        "option_3": "an enamine",
+        "option_4": "a Schiff s base",
+        "correct_ans": "3"
+    },
+    "85": {
+        "quest": "<p>Decreasing order of basic nature in aqueous solutions</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> &gt; NH<sub>3</sub> &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>2</sub> NH ",
+        "option_2": "NH<sub>3</sub> &gt; C<sub>6</sub>H<sub>5</sub> NH<sub>2</sub> &gt; CH<sub>3</sub> NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>2</sub> NH",
+        "option_3": "(CH<sub>3</sub>)<sub>2</sub> NH &gt; CH<sub>3</sub> NH<sub>2</sub> &gt; NH<sub>3</sub> &gt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> ",
+        "option_4": "CH<sub>3</sub>NH<sub>2</sub> &gt; (CH<sub>3</sub>)<sub>2</sub> NH &gt;NH<sub>3</sub> &gt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> ",
+        "correct_ans": "3"
+    },
+    "86": {
+        "quest": "<p>Aniline reacts with conc. HNO<sub>3</sub> to give</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q92O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q92O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q92O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q92O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "87": {
+        "quest": "<p><i>Iso</i>-propyl amine with excess of acetyl chloride will give</p>",
+        "option_1": "(CH<sub>3</sub>CO)<sub>2</sub> N \u2013 CN \u2013 (CH<sub>3</sub>)<sub>2</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q94O2.png\"/>",
+        "option_3": "(CH<sub>3</sub>)<sub>2</sub> CHN(COCH<sub>3</sub>)<sub>2</sub>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q94O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "88": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q97.png\"/></p",
+        "option_1": "benzoic acid",
+        "option_2": "salicylic acid",
+        "option_3": "phenol",
+        "option_4": "aniline",
+        "correct_ans": "4"
+    },
+    "89": {
+        "quest": "<p>The compound will react most readily with NaOH to form methanol is\n</p>",
+        "option_1": "(CH<sub>3</sub>)<sub>4</sub> N<sup>+</sup> I<sup>-</sup>",
+        "option_2": "CH<sub>3</sub>OCH<sub>3</sub> ",
+        "option_3": "(CH<sub>3</sub>)<sub>3</sub> S<sup>+</sup> I<sup>-</sup>",
+        "option_4": "(CH<sub>3</sub>)<sub>3</sub>Cl",
+        "correct_ans": "1"
+    },
+    "90": {
+        "quest": "<p>The bad smelling substance formed by the action of alcoholic caustic potash on chloroform and aniline is</p>",
+        "option_1": "nitrobenzene",
+        "option_2": "phenyl isocyanide ",
+        "option_3": "phenyl cyanide",
+        "option_4": "phenyl isocyanate",
+        "correct_ans": "2"
+    },
+    "91": {
+        "quest": "<p>Which of the following is the strongest base?</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q105O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q105O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q105O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q105O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "92": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q107.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q107O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q107O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q107O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q107O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "93": {
+        "quest": "<p>The decreasing order of basic characters of the three amines and ammonia is\n</p>",
+        "option_1": "NH<sub>3</sub> &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &gt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> ",
+        "option_2": "C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; NH<sub>3</sub> &gt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> ",
+        "option_3": "C<sub>6</sub>H<sub>5</sub> NH<sub>2</sub> &gt; C<sub>2</sub> H<sub>5</sub>NH<sub>2</sub> &gt; CH<sub>3</sub>NH<sub>2</sub> &gt; NH<sub>3</sub> ",
+        "option_4": "CH<sub>3</sub> NH<sub>2</sub>&gt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &gt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> &gt; NH<sub>3</sub> ",
+        "correct_ans": "2"
+    },
+    "94": {
+        "quest": "<p>The amine which will not liberate nitrogen on reaction with nitrous acid is\n</p>",
+        "option_1": "trimethylamine",
+        "option_2": "ethylamine",
+        "option_3": "<i>sec</i>-butylamine",
+        "option_4": "<i>t</i>-butylamine",
+        "correct_ans": "1"
+    },
+    "95": {
+        "quest": "<p><i>n</i>-propylamine yields a volatile compound <i>X</i> on warming with alc. alkali and chloroform. <i>X</i> has an offensive odour. The structure of <i>X</i> is\n</p>",
+        "option_1": "CH<sub>3</sub> CH<sub>2</sub>CH<sub>2</sub> CN\t",
+        "option_2": "(CH<sub>3</sub>)<sub>2</sub> CHCN",
+        "option_3": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>NC",
+        "option_4": "(CH<sub>3</sub> )<sub>2</sub> CHNC ",
+        "correct_ans": "3"
+    },
+    "96": {
+        "quest": "<p>High basicity of Me<sub>2</sub>NH relative to Me<sub>3</sub>N is attributed to</p>",
+        "option_1": "effect of solvent",
+        "option_2": "inductive effect of Me",
+        "option_3": "shape of Me<sub>2</sub>NH",
+        "option_4": "shape of Me<sub>3</sub>N",
+        "correct_ans": "1"
+    },
+    "97": {
+        "quest": "<p>Dye test can be used to distinguish</p>",
+        "option_1": "ethylamine and acetamide",
+        "option_2": "ethylamine and aniline",
+        "option_3": "urea and acetamide",
+        "option_4": "methylamine and ethylamine",
+        "correct_ans": "2"
+    },
+    "98": {
+        "quest": "<p>Identify the product in the following sequence  3, 4, 5-tribromoaniline </p>",
+        "option_1": "3, 4, 5-tribromobenzene",
+        "option_2": "1, 2, 3-tribromobenzene",
+        "option_3": "2, 4, 6-tribromobenzene",
+        "option_4": "3, 4, 5-tribromonitrobenzene",
+        "correct_ans": "2"
+    },
+    "99": {
+        "quest": "<p>Among the amines (<i>A</i>) C<sub>6</sub> H<sub>5</sub>NH<sub>2</sub> , (<i>B</i>)CH<sub>3</sub>NH<sub>2</sub>, (<i>C</i>) (CH<sub>3</sub>)<sub>2</sub> NH, (<i>D</i>) (CH<sub>3</sub>)<sub>3</sub> N, the order of basicity is\n</p>",
+        "option_1": "<i>A &lt; B &lt; D &lt; C</i>",
+        "option_2": "<i>C &lt; D &lt; B &lt; A</i> ",
+        "option_3": "<i>A &gt; B &gt; C &gt; D</i> ",
+        "option_4": "<i>B &lt; C &lt; D &lt; A</i> ",
+        "correct_ans": "1"
+    },
+    "100": {
+        "quest": "<p>Which of the following compounds will form alcohol on treatment with NaNO<sub>2</sub> , HCl / H<sub>2</sub>O at 0\u00b0C ?\n</p>",
+        "option_1": "(CH<sub>3</sub>)CHNH<sub>2</sub> ",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q122O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q122O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "101": {
+        "quest": "<p>A gaseous carbon compound is soluble in dilute HCl. The solution on treating with NaNO<sub>2</sub> gives off nitrogen leaving behind a solution which smells of wood spirit. The carbon compound is\n</p>",
+        "option_1": "HCHO",
+        "option_2": "CO",
+        "option_3": "C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "option_4": "CH<sub>3</sub>NH<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "102": {
+        "quest": "<p>The reagent with which the following reaction is best accomplished is\n</p>",
+        "option_1": "H<sub>3</sub> PO<sub>2</sub> ",
+        "option_2": "H<sub>3</sub> PO<sub>3</sub> ",
+        "option_3": "H<sub>3</sub> PO<sub>4</sub> ",
+        "option_4": "NaHSO<sub>3</sub> ",
+        "correct_ans": "1"
+    },
+    "103": {
+        "quest": "<p>In the chemical reactions,</p>",
+        "option_1": "fluorobenzene and phenol",
+        "option_2": "benzene diazonium chloride and benzonitrile",
+        "option_3": "nitrobenzene and chlorobenzene",
+        "option_4": "phenol and bromobenzene",
+        "correct_ans": "2"
+    },
+    "104": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q130.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q130O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q130O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q130O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat225Q130O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "105": {
+        "quest": "<p>Benzene diazonium chloride on treatment with hypo-phosphorus acid and water in the presence of Cu<sup>+</sup> catalyst produce\n</p>",
+        "option_1": "benzene",
+        "option_2": "toluene",
+        "option_3": "aniline",
+        "option_4": "chlorobenzene",
+        "correct_ans": "1"
+    },
+    "106": {
+        "quest": "<p>In the nitration of benzene with a mixture of concentrated nitric acid and concentrated Sulphuric acid, the active species involved is</p>",
+        "option_1": "Nitrite ion",
+        "option_2": "Nitrate ion",
+        "option_3": "Nitronium ion",
+        "option_4": "Nitric oxide",
+        "correct_ans": "3"
+    },
+    "107": {
+        "quest": "<p>Mark the correct statement</p>",
+        "option_1": "Methylamine is slightly acidic",
+        "option_2": "Methylamine is less basic than ammonia",
+        "option_3": "Methylamine is a stronger base than ammonia",
+        "option_4": "Methylamine forms salts with alkalies",
+        "correct_ans": "3"
+    },
+    "108": {
+        "quest": "<p>Pick up the correct statement</p>",
+        "option_1": "Boiling points of alkyl halides are greater than those of the  corresponding alkanes",
+        "option_2": "In water, the solubility decreases as CH<sub>3</sub>OH &gt; C<sub>2</sub>H<sub>5</sub>OH&gt; C<sub>6</sub>H<sub>5</sub>OH",
+        "option_3": "Aniline is a weaker base than ammonia",
+        "option_4": "All above statements are true",
+        "correct_ans": "4"
+    },
+    "109": {
+        "quest": "<p>Acetanilide on nitration followed by alkaline hydrolysis mainly gives</p>",
+        "option_1": "o\u2013Nitroacetanilide",
+        "option_2": "p\u2013Nitroaniline",
+        "option_3": "m\u2013Nitroaniline",
+        "option_4": "2,4,6\u2013Trinitroaniline",
+        "correct_ans": "2"
+    },
+    "110": {
+        "quest": "<p>The following reaction is</p>",
+        "option_1": "nucleophilic substitution",
+        "option_2": "electrophilic substitution",
+        "option_3": "fee radical substitution",
+        "option_4": "electrophilic addition",
+        "correct_ans": "1"
+    },
+    "111": {
+        "quest": "<p>The correct order of increasing basic nature for the bases NH<sub>3</sub>, CH<sub>3</sub>NH<sub>2</sub> and (CH<sub>3</sub>)<sub>2</sub>NH is</p>",
+        "option_1": "CH<sub>3</sub>NH<sub>2</sub>&lt; (CH<sub>3</sub>)<sub>2</sub>NH &lt; NH<sub>3</sub>",
+        "option_2": "CH<sub>3</sub>NH<sub>2</sub><nh>3 &lt; (CH<sub>3</sub>)<sub>2</sub>NH</nh>",
+        "option_3": "(CH<sub>3</sub>)<sub>2</sub>NH&lt; NH<sub>3</sub><ch>3NH<sub>2</sub></ch>",
+        "option_4": "NH<sub>3</sub><ch>3NH<sub>2</sub> &lt; (CH<sub>3</sub>)<sub>2</sub>NH</ch>",
+        "correct_ans": "4"
+    },
+    "112": {
+        "quest": "<p>Nitrobenzene gives N-phenylhydroxylamine by</p>",
+        "option_1": "Sn/HCl",
+        "option_2": "H<sub>2</sub>/Pd \u2013 C",
+        "option_3": "Zn/NaOH",
+        "option_4": "Zn/NH<sub>2</sub>Cl",
+        "correct_ans": "4"
+    },
+    "113": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q71.png\"/></p",
+        "option_1": "Cope reaction",
+        "option_2": "Ritter reaction",
+        "option_3": "Schmidt reaction",
+        "option_4": "Gabriel reaction",
+        "correct_ans": "1"
+    },
+    "114": {
+        "quest": "<p>Which of the following compounds reacts slower than benzene in electrophilic substitution?\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q2O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q2O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q2O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q2O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "115": {
+        "quest": "<p>The structure of the compound formed, when nitrobenzene is reduced by lithium aluminium hydride (LiAlH<sub>4</sub>) is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q6O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q6O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q6O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q6O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "116": {
+        "quest": "<p>Secondary nitro alkanes can be converted into ketones by using Y. Identify Y from the following.\n</p>",
+        "option_1": "Aqueous HCl",
+        "option_2": "Aqueous NaOH",
+        "option_3": "KMnO<sub>4</sub>",
+        "option_4": "CO",
+        "correct_ans": "1"
+    },
+    "117": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q10.png\"/></p",
+        "option_1": "NO",
+        "option_2": "\u2014NH<sub>2</sub>",
+        "option_3": "NHOH",
+        "option_4": "None of the above",
+        "correct_ans": "2"
+    },
+    "118": {
+        "quest": "<p>Which of the following reactions can produce aniline as main product?\n</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + Zn / KOH",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + Zn / NH<sub>4</sub>Cl",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + LiAlH<sub>4</sub>",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + Zn / HCl",
+        "correct_ans": "4"
+    },
+    "119": {
+        "quest": "<p>In the reaction, </p>",
+        "option_1": "SiC",
+        "option_2": "H<sub>2</sub>SO<sub>4</sub>",
+        "option_3": "KMnO<sub>4</sub>",
+        "option_4": "Fe/HCl",
+        "correct_ans": "4"
+    },
+    "120": {
+        "quest": "<p>The IUPAC name of the following compound is</p>",
+        "option_1": "1, 2, 3-tricyanopropane",
+        "option_2": "propane-1, 2, 3-trinitrile",
+        "option_3": "3-cyanopentane-1, 5-dinitrile",
+        "option_4": "1, 3, 5-pentanetrinitrile",
+        "correct_ans": "1"
+    },
+    "121": {
+        "quest": "<p>Final product of hydrolysed alkyl cyanide is </p>",
+        "option_1": "RCOOH",
+        "option_2": "RCONH<sub>2</sub>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q17O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q17O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "122": {
+        "quest": "<p>The compound with foul odour among the following is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q22O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q22O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q22O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q22O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "123": {
+        "quest": "<p>In the reaction,</p>",
+        "option_1": "acetone",
+        "option_2": "ethanamine",
+        "option_3": "acetaldehyde",
+        "option_4": "dimethyl amine",
+        "correct_ans": "3"
+    },
+    "124": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat223Q31.png\"/></p",
+        "option_1": "LiAlH<sub>4</sub>",
+        "option_2": "H<sub>2</sub>SO<sub>4</sub>",
+        "option_3": "Ni",
+        "option_4": "2KBr",
+        "correct_ans": "1"
+    },
+    "125": {
+        "quest": "<p>In the reaction shown below, the major product(s) formed is/are\n</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q39O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q39O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q39O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q39O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "126": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q43.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q43O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q43O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q43O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q43O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "127": {
+        "quest": "<p>The major product of the following reaction is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q57O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q57O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q57O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat224Q57O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "128": {
+        "quest": "<p>Comparing basic strength of NH<sub>3</sub> , CH<sub>3</sub>NH<sub>2</sub> and C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> it may be concluded that\n</p>",
+        "option_1": "basic strength remains unaffected",
+        "option_2": "basic strength of alkyl amines is lowest",
+        "option_3": "basic strength of aryl amines is lowest",
+        "option_4": "basic strength of NH<sub>3</sub> is highest",
+        "correct_ans": "3"
+    },
+    "129": {
+        "quest": "<p>Nitration of aniline in strongly acidic medium, result in the formation of <i>m</i> -nitroaniline also.<br/>\t\nThis is because\n</p>",
+        "option_1": "amino group is <i>meta</i> orienting during electrophilic substitution reaction.",
+        "option_2": "nitro group goes always to the <i>meta</i> position irrespective of the substituents.",
+        "option_3": "nitration of aniline is a nucleophilic substitution reaction in strongly acidic medium.",
+        "option_4": "in strongly acidic conditions aniline is present as anilinium ion.",
+        "correct_ans": "4"
+    },
+    "130": {
+        "quest": "<p>Acetamide is treated separately with the following reagents. Which one of these would give methylamine?</p>",
+        "option_1": "PCl<sub>5</sub>",
+        "option_2": "NaOH + Br<sub>2</sub>",
+        "option_3": "Sodalime",
+        "option_4": "Hot conc. H<sub>2</sub>SO<sub>4</sub>",
+        "correct_ans": "2"
+    },
+    "131": {
+        "quest": "<p>The compound that is most reactive towards electrophilic nitration is</p>",
+        "option_1": "Toluene",
+        "option_2": "Benzene",
+        "option_3": "Benzoic acid",
+        "option_4": "Nitrobenzene",
+        "correct_ans": "1"
+    },
+    "132": {
+        "quest": "<p>Indicate which nitrogen compound amongst the following would undergo Hofmann reaction (i.e., reaction with Br<sub>2</sub> and strong KOH) to furnish the primary amine (R \u2013 NH<sub>2</sub>).</p>",
+        "option_1": "RCONHCH<sub>3</sub>",
+        "option_2": "RCOONH<sub>4</sub>",
+        "option_3": "RCONH<sub>2</sub>",
+        "option_4": "R \u2013 CO \u2013 NHOH",
+        "correct_ans": "3"
+    },
+    "133": {
+        "quest": "<p>Which amine amongst the following will answer positively the carbylamine test (i.e, heating with CHCl<sub>3</sub> and KOH)?</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub> \u2013 NH \u2013 CH<sub>3</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q6O2.png\"/>",
+        "option_3": "C<sub>6</sub>H<sub>5</sub> \u2013 NH \u2013 C<sub>4</sub>H<sub>9</sub>",
+        "option_4": "C<sub>6</sub>H<sub>5</sub> \u2013 N(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>",
+        "correct_ans": "2"
+    },
+    "134": {
+        "quest": "<p>Aniline on reaction with acetyl chloride gives</p>",
+        "option_1": "Phenol",
+        "option_2": "Acetamide",
+        "option_3": "Acetanilide",
+        "option_4": "Benzene",
+        "correct_ans": "3"
+    },
+    "135": {
+        "quest": "<p>Match the compounds in List I with their nature from List II, as seen in aqueous medium from the combinations shown:</p>",
+        "option_1": "I \u2013 C: II \u2013 C; III \u2013 B; IV \u2013 A",
+        "option_2": "I \u2013 B; II \u2013 C; III \u2013 C; IV \u2013 A",
+        "option_3": "I \u2013 C; II \u2013 B ; III \u2013 B ; IV \u2013 C",
+        "option_4": "I \u2013 A; II \u2013 A; III \u2013 C ; IV \u2013 B",
+        "correct_ans": "1"
+    },
+    "136": {
+        "quest": "<p>Arrange the following:\n<br/>CH<sub>3</sub>NH<sub>2</sub>,(CH<sub>3</sub>)<sub>2</sub>NH, C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>, (CH<sub>3</sub>)<sub>3</sub>N in increasing order of basicity.</p>",
+        "option_1": "(CH<sub>3</sub>)<sub>3</sub>N &lt; (CH<sub>3</sub>)<sub>2</sub>NH &lt; CH<sub>3</sub>NH<sub>2</sub> &lt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "option_2": "Reverse of (a)",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>&lt; (CH<sub>3</sub>)<sub>3</sub>N &lt; CH<sub>3</sub>NH<sub>2</sub> &lt; (CH<sub>3</sub>)<sub>2</sub>NH",
+        "option_4": "Reverse of (c).",
+        "correct_ans": "3"
+    },
+    "137": {
+        "quest": "<p>The major product (70% to 80%) of the reaction between m-dinitrobenzene with NH<sub>4</sub>HS is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q24O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q24O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q24O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q24O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "138": {
+        "quest": "<p>A compound \u2018Z\u2019 reacts with three moles of CH<sub>3</sub>I and gives a product which\non hydrolysis gives [(CH<sub>3</sub>)<sub>4</sub>N]<sup>+</sup>OH<sup>-</sup>. Compound \u2018Z\u2019 is</p>",
+        "option_1": "CH<sub>3</sub>NH<sub>2</sub>",
+        "option_2": "(CH<sub>3</sub>)<sub>2</sub>NH",
+        "option_3": "(CH<sub>3</sub>)<sub>3</sub>N",
+        "option_4": "(CH<sub>3</sub>)<sub>4</sub>NCl<sup>\u2212</sup>",
+        "correct_ans": "1"
+    },
+    "139": {
+        "quest": "<p>Gabriel phthalimide reaction is used for preparation of</p>",
+        "option_1": "Primary aromatic amines",
+        "option_2": "Secondary amines",
+        "option_3": "Primary aliphatic amines",
+        "option_4": "Tertiary amines",
+        "correct_ans": "3"
+    },
+    "140": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q42.png\"/></p",
+        "option_1": "SnCl<sub>2</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q42O2.png\"/>",
+        "option_3": "NH<sub>2</sub>",
+        "option_4": "Cl",
+        "correct_ans": "2"
+    },
+    "141": {
+        "quest": "<p>Hinsberg reagent is</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>SO<sub>3</sub>H",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>NO",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>SO<sub>2</sub>Cl",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>N<sub>2</sub>Cl",
+        "correct_ans": "3"
+    },
+    "142": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q47.png\"/></p",
+        "option_1": "Acetanilide",
+        "option_2": "Benzanilide",
+        "option_3": "Azobenzene",
+        "option_4": "Hydrazobenzene",
+        "correct_ans": "2"
+    },
+    "143": {
+        "quest": "<p>An optically active compound with M.F.C<sub>6</sub>H<sub>11</sub>N dissolves in dilute aqueous hydrochloric acid and releases N<sub>2</sub> gas on treatment with nitrous acid. The compound is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q66O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q66O2.png\"/>",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>CH(NH<sub>2</sub>)CH<sub>3</sub>",
+        "option_4": "C<sub>6</sub>H<sub>5</sub> \u2013 NH \u2013 C<sub>2</sub>H<sub>5</sub>",
+        "correct_ans": "1"
+    },
+    "144": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q8.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q8O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q8O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q8O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q8O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "145": {
+        "quest": "<p>Which of the following is not a nitro derivative?</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>",
+        "option_2": "CH<sub>3</sub>CH<sub>2</sub>ONO",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57SubCat222Q13O3.png\"/>",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>(OH)NO<sub>2</sub>",
+        "correct_ans": "2"
+    },
+    "146": {
+        "quest": "<p>Identify A and B in the reaction given below.</p>",
+        "option_1": "acetic acid, methanol",
+        "option_2": "acetone, methane",
+        "option_3": "ethanoic acid, ethane",
+        "option_4": "ethanoic acid, methane",
+        "correct_ans": "4"
+    },
+    "147": {
+        "quest": "<p>Amongst the following the most basic compound is</p>",
+        "option_1": "Benzylamine",
+        "option_2": "Aniline",
+        "option_3": "Acetanilide",
+        "option_4": "P \u2013 Nitroaniline",
+        "correct_ans": "2"
+    },
+    "148": {
+        "quest": "<p>The order of basic strength among the following amines in benzene solution is</p>",
+        "option_1": "CH<sub>3</sub>NH<sub>2</sub>&gt; (CH<sub>3</sub>)<sub>3</sub>N &gt; (CH<sub>3</sub>)<sub>2</sub>NH",
+        "option_2": "(CH<sub>3</sub>)<sub>3</sub>N &gt; (CH<sub>3</sub>)<sub>2</sub>NH &gt; CH<sub>3</sub>NH<sub>2</sub>",
+        "option_3": "CH<sub>3</sub>NH<sub>2</sub>&gt;(CH<sub>3</sub>)<sub>2</sub>NH&gt; (CH<sub>3</sub>)<sub>3</sub>N",
+        "option_4": "(CH<sub>3</sub>)<sub>3</sub>N&gt;CH<sub>3</sub>NH<sub>2</sub>&gt;(CH<sub>3</sub>)<sub>2</sub>NH",
+        "correct_ans": "2"
+    },
+    "149": {
+        "quest": "<p>Butanenitrile may be prepared by heating</p>",
+        "option_1": "Propyl alcohol with KCN",
+        "option_2": "Butyl alcohol with KCN",
+        "option_3": "Butyl chloride with KCN",
+        "option_4": "Propyl chloride with KCN",
+        "correct_ans": "4"
+    },
+    "150": {
+        "quest": "<p>Towards electrophilic substitution, the most reactive will be</p>",
+        "option_1": "Nitrobenzene",
+        "option_2": "Aniline",
+        "option_3": "Aniline hydrochloride",
+        "option_4": "N \u2013 Acetylaniline",
+        "correct_ans": "2"
+    },
+    "151": {
+        "quest": "<p>The correct order of increasing basicity in aqueous solution is</p>",
+        "option_1": "NH<sub>3</sub> &lt; C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> &lt; (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>NH &lt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &lt; C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N",
+        "option_2": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> &lt; NH<sub>3</sub> &lt; (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N &lt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &lt; (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub> NH",
+        "option_3": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub> &lt; NH<sub>3</sub> &lt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &lt; (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N &lt; (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>NH",
+        "option_4": "None of the above",
+        "correct_ans": "3"
+    },
+    "152": {
+        "quest": "<p>Match the compounds in List I with the appropriate test that will be answered by each one of them in List II from the combinations shown :</p>",
+        "option_1": "I\u2014A ; II\u2014D ; III\u2014B ; IV\u2014A",
+        "option_2": "I\u2014A ; II\u2014D ; III\u2014C ; IV\u2014B",
+        "option_3": "I\u2014D ; II\u2014B ; III\u2014C ; IV\u2014A",
+        "option_4": "I\u2014B ; II\u2014C ; III\u2014A ; IV\u2014D",
+        "correct_ans": "4"
+    },
+    "153": {
+        "quest": "<p>What is the end product in the following sequence of operations ?</p>",
+        "option_1": "Ethyl cyanide",
+        "option_2": "Methylamine",
+        "option_3": "Ethylamine",
+        "option_4": "Acetamide",
+        "correct_ans": "3"
+    },
+    "154": {
+        "quest": "<p>What is the decreasing order of basicity of primary, secondary and tertiary ethylamines and NH<sub>3</sub>?</p>",
+        "option_1": "NH<sub>3</sub> &gt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub>&gt; (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub> NH &gt; (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N",
+        "option_2": "(C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N &gt; (C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>NH &gt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &gt; NH<sub>3</sub>",
+        "option_3": "(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>NH &gt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &gt; (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N &gt; NH<sub>3</sub>",
+        "option_4": "(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>NH &gt; (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>N &gt; C<sub>2</sub>H<sub>5</sub>NH<sub>2</sub> &gt; NH<sub>3</sub>",
+        "correct_ans": "4"
+    },
+    "155": {
+        "quest": "<p>Acetamide and ethylamine can be distinguished by reacting with</p>",
+        "option_1": "Aqueous HCl and heat",
+        "option_2": "Aqueous NaOH and heat",
+        "option_3": "Acidified KMnO<sub>4</sub>",
+        "option_4": "Bromine water",
+        "correct_ans": "4"
+    },
+    "156": {
+        "quest": "<p>Aniline reacts with phosgene and KOH to form</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q22O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q22O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q22O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q22O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "157": {
+        "quest": "<p>Which one of the following is a typical example of zwitterion ?</p>",
+        "option_1": "Aniline",
+        "option_2": "Aminophenol",
+        "option_3": "Glycine",
+        "option_4": "Acetamide",
+        "correct_ans": "3"
+    },
+    "158": {
+        "quest": "<p>Reduction of nitrobenzene in the presence of ZN/NH<sub>4</sub>Cl gives</p>",
+        "option_1": "Azobenzene",
+        "option_2": "Aniline",
+        "option_3": "N \u2013 Phenylhydroxylamine",
+        "option_4": "Hydrazobenzene",
+        "correct_ans": "3"
+    },
+    "159": {
+        "quest": "<p>Which reaction sequence would be best to prepare 3-chlroaniline from benzene?</p>",
+        "option_1": "Chlorination, nitration, reduction",
+        "option_2": "Nitration, chlorination, reduction",
+        "option_3": "Nitration,reduction chlorination",
+        "option_4": "Nitration reduction acetylation chlorination, hydrolysis",
+        "correct_ans": "2"
+    },
+    "160": {
+        "quest": "<p>Which of the following behaves both as a nucleophilie and as an electrophile ?</p>",
+        "option_1": "CH<sub>3</sub> \u2013 C = N",
+        "option_2": "CH<sub>3</sub>OH",
+        "option_3": "CH<sub>2</sub> = CH \u2013 CH<sub>3</sub>",
+        "option_4": "CH<sub>3</sub>NH<sub>2</sub>",
+        "correct_ans": "1"
+    },
+    "161": {
+        "quest": "<p>The product \u2018D\u2019 of the reaction,</p>",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_2": "CH<sub>3</sub>CN",
+        "option_3": "HCONH<sub>2</sub>",
+        "option_4": "CH<sub>3</sub>CONH<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "162": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q34.png\"/></p",
+        "option_1": "Acetone",
+        "option_2": "Ethanamine",
+        "option_3": "Acetaldehyde",
+        "option_4": "Dimethylamine",
+        "correct_ans": "3"
+    },
+    "163": {
+        "quest": "<p>In the following reaction X is</p>",
+        "option_1": "Benzoic acid",
+        "option_2": "Salicyclic acid",
+        "option_3": "Phenol",
+        "option_4": "Aniline",
+        "correct_ans": "4"
+    },
+    "164": {
+        "quest": "<p>Which of the following reactions will not give a primary amine ?</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q36O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q36O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q36O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q36O4.png\"/>",
+        "correct_ans": "3"
+    },
+    "165": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q37.png\"/></p",
+        "option_1": "4 \u2013 Nitrochlorobenzene",
+        "option_2": "1 \u2013 Nitrochlorobenzene",
+        "option_3": "3 \u2013 Nitrochlorobenzene",
+        "option_4": "None of these",
+        "correct_ans": "3"
+    },
+    "166": {
+        "quest": "<p>Identify the product C in the series :</p>",
+        "option_1": "CH<sub>3</sub>COOH",
+        "option_2": "CH<sub>3</sub>CH<sub>2</sub>NHOH",
+        "option_3": "CH<sub>3</sub>CONH<sub>2</sub>",
+        "option_4": "CH<sub>3</sub>CHO",
+        "correct_ans": "4"
+    },
+    "167": {
+        "quest": "<p>\u2018Z\u2019 in the following sequence of reactions is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q39O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q39O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q39O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q39O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "168": {
+        "quest": "<p>Among the following, the strongest base is</p>",
+        "option_1": "C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>",
+        "option_2": "p \u2013 NO<sub>2</sub> \u2013 C<sub>6</sub>H<sub>4</sub>NH<sub>2</sub>",
+        "option_3": "m \u2013 NO<sub>2</sub> \u2013 C<sub>6</sub>H<sub>4</sub>NH<sub>2</sub>",
+        "option_4": "C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "correct_ans": "4"
+    },
+    "169": {
+        "quest": "<p>When acetamide is treated with NaOBr, the product formed is</p>",
+        "option_1": "CH<sub>3</sub>CN",
+        "option_2": "CH<sub>3</sub>COBr",
+        "option_3": "CH<sub>3</sub>NH<sub>2</sub>",
+        "option_4": "CH<sub>3</sub>OH",
+        "correct_ans": "3"
+    },
+    "170": {
+        "quest": "<p>The correct order of basicities of the following compounds is</p>",
+        "option_1": "2&gt; 1&gt;3&gt;4",
+        "option_2": "1&gt;3&gt;2&gt;4",
+        "option_3": "3&gt;1&gt;2&gt;4",
+        "option_4": "1&gt;2&gt;3&gt;4",
+        "correct_ans": "2"
+    },
+    "171": {
+        "quest": "<p>The compound that will react most readily with NaOH to form methanol is</p>",
+        "option_1": "(CH<sub>3</sub>)4N<sup>+</sup>I<sup>\u2013</sup>",
+        "option_2": "CH<sub>3</sub>OCH<sub>3</sub>",
+        "option_3": "(CH<sub>3</sub>)<sub>3</sub>S<sup>+</sup>I<sup>\u2013</sup>",
+        "option_4": "(CH<sub>3</sub>)<sub>3</sub>CCl",
+        "correct_ans": "1"
+    },
+    "172": {
+        "quest": "<p>An organic compound \u2018A\u2019 having molecular formula C<sub>2</sub>H<sub>3</sub>N on reduction gave another compound \u2018B\u2019. Upon treatment with nitrous acid, \u2018B\u2019 gave ethyl alcohol. On warming with chloroform and alcoholic KOH, it formed an offensive smelling compound \u2018C\u2019. The compound \u2018C\u2019 is</p>",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q48O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q48O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q48O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "173": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q49.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q49O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q49O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q49O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q49O4.png\"/>",
+        "correct_ans": "2"
+    },
+    "174": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q50.png\"/></p",
+        "option_1": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>NHCOCH<sub>3</sub>",
+        "option_2": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>",
+        "option_3": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CONHCH<sub>3</sub>",
+        "option_4": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CONHCOCH<sub>3</sub>",
+        "correct_ans": "1"
+    },
+    "175": {
+        "quest": "<p>A compound \u2018A\u2019 when treated with HNO<sub>3</sub> (in presence of H<sub>2</sub>SO<sub>4</sub>) gives compound \u2018B\u2019, which is then reduced with Sn and HCl to aniline? The compound \u2018A\u2019 is</p>",
+        "option_1": "Toluene",
+        "option_2": "Benzene",
+        "option_3": "Ethane",
+        "option_4": "Acetamide",
+        "correct_ans": "2"
+    },
+    "176": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q52.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q52O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q52O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q52O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q52O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "177": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q55.png\"/></p",
+        "option_1": "p-Bromoaniline",
+        "option_2": "Bromoacetophenone",
+        "option_3": "p-Bromoacetanide",
+        "option_4": "0-Bromoacetophenone",
+        "correct_ans": "1"
+    },
+    "178": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q56.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q56O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q56O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q56O3.png\"/>",
+        "option_4": "Error! Not a valid link",
+        "correct_ans": "1"
+    },
+    "179": {
+        "quest": "<p>Arrange the following amines in order of increasing basicity. H-Butylamine(I),sec-Butylamine(II),isobutylamine(III),tert-Butylamine(IV)</p>",
+        "option_1": "I &lt; II &lt; III &lt; IV",
+        "option_2": "II &lt; III &lt; I &lt; IV",
+        "option_3": "IV &lt; III &lt; II &lt; I",
+        "option_4": "III &lt; IV &lt; I&lt; II",
+        "correct_ans": "3"
+    },
+    "180": {
+        "quest": "<p>The product formed when acetone is reacted with nitromethane in presence of a base is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q58O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q58O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q58O3.png\"/>",
+        "option_4": "CH<sub>3</sub>COCH = CHNO<sub>2</sub>",
+        "correct_ans": "3"
+    },
+    "181": {
+        "quest": "<p>The products A and B in the following sequence of reactions</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q59O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q59O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q59O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q59O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "182": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q60.png\"/></p",
+        "option_1": "R \u2013 N = C= O",
+        "option_2": "R \u2013 CH=N \u2013 OH",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q60O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q60O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "183": {
+        "quest": "<p>The product of a reaction between methyl isocyanate (MIC) and ethanol is urethane with formula</p>",
+        "option_1": "CH<sub>3</sub> \u2013 NHCOOC<sub>2</sub>H<sub>5</sub>",
+        "option_2": "C<sub>2</sub>H<sub>5</sub> \u2013 NHCOOCH<sub>3</sub>",
+        "option_3": "CH<sub>3</sub> \u2013 NHCOOCH<sub>3</sub>",
+        "option_4": "C<sub>2</sub>H<sub>5</sub> \u2013 NH \u2013 COOC<sub>2</sub>H<sub>5</sub>",
+        "correct_ans": "1"
+    },
+    "184": {
+        "quest": "<p>The red coloured compound formed during the Victor Meyer\u2019s test for ethyl alcohol is</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q62O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q62O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q62O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q62O4.png\"/>",
+        "correct_ans": "1"
+    },
+    "185": {
+        "quest": "<p>Which of the following compounds will have the highest dipole moment ?</p>",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q63O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q63O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q63O3.png\"/>",
+        "option_4": "\t\t4) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q63O4.png\"/>",
+        "correct_ans": "4"
+    },
+    "186": {
+        "quest": "<p>m \u2013 Bromotoluene is prepared by</p>",
+        "option_1": "Bromination of toluene",
+        "option_2": "Friedel \u2013 crafts reaction of bromobenzene with CH<sub>3</sub>Cl",
+        "option_3": "Bromination of nitrobenzene and subsequent replacement of the nitro  group with methyl group",
+        "option_4": "Bromination of aceto \u2013 p \u2013 toluidide followed by hydrolysis and  deamination",
+        "correct_ans": "4"
+    },
+    "187": {
+        "quest": "<p>Gabriel phthalimide synthesis for amino acids involves the reaction between potassium phthalimide and an appropriate \u03b1 \u2013 haloester. For obtaining alanine, the haloester to be used is</p>",
+        "option_1": "Ethyl 3 \u2013 chlorobutanoate",
+        "option_2": "Ethyl 3 \u2013 chloropropanoate",
+        "option_3": "Ethyl 2 \u2013 chloropropanoate",
+        "option_4": "Ethyl chloroacetate",
+        "correct_ans": "3"
+    },
+    "188": {
+        "quest": "<p>In the following compounds :</p>",
+        "option_1": "IV &gt; I &gt; III &gt; II",
+        "option_2": "III &gt; I &gt; IV &gt; II",
+        "option_3": "II &gt; I &gt; III &gt;IV",
+        "option_4": "I &gt; III &gt; II &gt; IV",
+        "correct_ans": "4"
+    },
+    "189": {
+        "quest": "<p>Hydrazobenzene on treatment with H<sub>2</sub>SO<sub>4</sub> gives</p>",
+        "option_1": "Azobenzene",
+        "option_2": "Benzidine",
+        "option_3": "Azoxybenzene",
+        "option_4": "Azobenzene \u2013 4 \u2013 sulphonic acid",
+        "correct_ans": "2"
+    },
+    "190": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q70.png\"/></p",
+        "option_1": "\t\t1) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q70O1.png\"/>",
+        "option_2": "\t\t2)<img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q70O2.png\"/>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q70O3.png\"/>",
+        "option_4": "None is correct",
+        "correct_ans": "1"
+    },
+    "191": {
+        "quest": "<p>Consider p-aminophenol</p>",
+        "option_1": "x in A and \u03b2 in B",
+        "option_2": "x in A and \u03b1 in B",
+        "option_3": "y in A and \u03b1 in B",
+        "option_4": "y in A and \u03b2 in B",
+        "correct_ans": "1"
+    },
+    "192": {
+        "quest": "<p><img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q73.png\"/></p",
+        "option_1": "Mixture of CH<sub>2</sub> = CH \u2013 CD<sub>3</sub> and CH<sub>3</sub> \u2013 CH= CD<sub>2</sub>",
+        "option_2": "CH<sub>3</sub> \u2013 CH = CD<sub>2</sub>",
+        "option_3": "\t\t3) <img src=\"https://jeefocus.com/assets/images/question/2/Sec2Cat57QATest54Q73O3.png\"/>",
+        "option_4": "CH<sub>2</sub> = CH \u2013 CD<sub>3</sub>",
+        "correct_ans": "1"
+    }
+}
