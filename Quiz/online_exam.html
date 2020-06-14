@@ -16,6 +16,14 @@
         </nav>
 
         <div class="row">
+            <div class="col s12" id = "timer" style="font-weight: bold; margin-top: 30px;">
+                <span>Timer:</span>
+                
+            </div>
+            
+        </div>
+
+        <div class="row">
         <div class="col s12 m8 l6 offset-m2 offset-l3">
 
         <div class="test_title" style="text-align: center">
@@ -133,8 +141,25 @@
 
 
         <script>
-            
+
+            function startTime() {
+                var today = new Date();
+                //var h = 17 - today.getHours();
+                var m = 59 - today.getMinutes();
+                var s = 59 - today.getSeconds();
+                m = checkTime(m);
+                s = checkTime(s);
+                document.getElementById('timer').innerHTML = "00" + ":" + m + ":" + s;
+                var t = setTimeout(startTime, 500);
+            }
+            function checkTime(i) {
+                if (i < 10) {i = "0" + i};
+                return i;
+            }
+
+
             $(document).ready(function(){
+                startTime()
                 $('.modal').modal();
                 $("#quiz_score").hide();
                 $("#quiz_solution").hide();
