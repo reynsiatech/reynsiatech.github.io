@@ -1,6 +1,0 @@
-Title of the page
-favicon image
-Name of the App
-logo
-pricing plans
-contact details
