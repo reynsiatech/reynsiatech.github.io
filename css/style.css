@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px;
   border: 1px solid rgba(100, 100, 100, 0.5);
   color: black;
-  /*background: #1de099;*/
+  background: rgba(29, 224, 153, 0.8);
 }
 
 #intro .btn-get-started:hover {
