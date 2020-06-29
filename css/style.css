@@ -190,8 +190,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid black;
+  border: 1px solid rgba(100, 100, 100, 0.5);
   color: black;
+  /*background: #1de099;*/
 }
 
 #intro .btn-get-started:hover {
