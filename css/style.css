@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro .product-screens .product-screen-1 {
   position: absolute;
   z-index: 30;
-  left: calc(50% + 54px);
+  left: calc(30%);
   bottom: 0;
   top: 30px;
 }
