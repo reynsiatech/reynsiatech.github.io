@@ -162,11 +162,12 @@ h1, h2, h3, h4, h5, h6 {
   #intro h3 {
     font-size: 20px;
     line-height: 36px;
+    font-weight: 500;
   }
 }
 
 #intro p {
-  color: black;
+  color: #78909c;
   margin-bottom: 20px;
   padding: 0 15px;
   font-size: 20px;
@@ -177,6 +178,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 15px;
     line-height: 24px;
     margin-bottom: 20px;
+    color: #78909c;
   }
 }
 
