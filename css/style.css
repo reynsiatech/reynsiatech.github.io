@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #intro p {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 24px;
     margin-bottom: 20px;
     color: #78909c;
@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .product-screens {
-  padding-top: 30px;
+  padding-top: 50px;
   position: absolute;
   left: 0;
   right: 0;
