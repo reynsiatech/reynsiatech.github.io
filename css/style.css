@@ -192,6 +192,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
+  /*margin-top: 100px;*/
   border: 1px solid rgba(100, 100, 100, 0.5);
   color: black;
   background: rgba(29, 224, 153, 0.8);
@@ -203,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .product-screens {
-  padding-top: 40px;
+  padding-top: 30px;
   position: absolute;
   left: 0;
   right: 0;
