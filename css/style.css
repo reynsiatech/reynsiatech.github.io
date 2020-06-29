@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro .product-screens {
-  padding-top: 30px;
+  padding-top: 50px;
   position: absolute;
   left: 0;
   right: 0;
@@ -212,6 +212,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   width: 100%;
   height: 50%;
+  /*bottom: 0px;*/
 }
 
 /*#intro .product-screens img {
@@ -221,7 +222,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro .product-screens .product-screen-1 {
   position: absolute;
   z-index: 30;
-  left: calc(30%);
+  left: calc(37%);
   bottom: 0;
   top: 30px;
 }
