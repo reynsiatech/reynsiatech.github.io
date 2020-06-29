@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #intro h3 {
-    font-size: 25px;
+    font-size: 28px;
     line-height: 36px;
     font-weight: 550;
   }
@@ -1000,7 +1000,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
+  height: 100%;
 }
 
 #team .member .pic img {
