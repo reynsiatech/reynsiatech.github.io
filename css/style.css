@@ -152,14 +152,14 @@ h1, h2, h3, h4, h5, h6 {
 #intro h3 {
   margin: 30px 0 10px 0;
   padding: 0 15px;
-  font-size: 40px;
-  font-weight: 400;
+  font-size: 35px;
+  font-weight: 500;
   line-height: 56px;
-  color: black;
+  color: #37474f;
 }
 
 @media (max-width: 768px) {
-  #intro h2 {
+  #intro h3 {
     font-size: 20px;
     line-height: 36px;
   }
@@ -167,9 +167,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro p {
   color: black;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
   padding: 0 15px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 @media (max-width: 768px) {
