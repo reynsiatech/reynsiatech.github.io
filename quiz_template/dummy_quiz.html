@@ -17,6 +17,12 @@
 		width: 100%;
 		height: 100%;
 	}
+	.text_have{
+		font-size: 25px;
+	}
+	.text_given{
+		font-size: 18px;
+	}
 
     }
 
@@ -29,7 +35,7 @@
 </head>
 <body>
 <nav>
-<div class="nav-wrapper" style="background-color: #5E50F9;">
+<div class="nav-wrapper" style="background: linear-gradient(45deg, #1de099, #1dc8cd);">
 <a href="#" class="brand-logo">UnchaAI</a>
 </div>
 </nav>
@@ -224,18 +230,18 @@ JEE Main 2020 Test-Series
 </div>
 </div>
 <div class="modal-footer">
-<button class="modal-close btn waves-effect waves-light blue">Cancel</button>
-<button class="btn waves-effect waves-light blue" onclick="evaluate_quiz()">Submit</button>
+<button class="modal-close btn waves-effect waves-light blue" style="background: linear-gradient(45deg, #1de099, #1dc8cd);">Cancel</button>
+<button class="btn waves-effect waves-light blue" style="background: linear-gradient(45deg, #1de099, #1dc8cd);" onclick="evaluate_quiz()">Submit</button>
 </div>
 </div>
 <div id="submit_button" style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
-<button class="btn waves-effect waves-light blue modal-trigger" href="#confirm_submit">Submit Quiz</button>
+<button class="btn waves-effect waves-light blue modal-trigger" href="#confirm_submit" style="background: linear-gradient(45deg, #1de099, #1dc8cd);">Submit Quiz</button>
 </div>
 <div id="quiz_score">
-<h3>You have scored</h3>
+<h3 class="text_have">You have scored</h3>
 <h2 class="score"></h2>
-<h4>in the given quiz!!!</h4>
-<button class="btn waves-effect waves-light" onclick="see_solution()">See Solution</button>
+<h4 class="text_given">in the given quiz!!!</h4>
+<button class="btn waves-effect waves-light" style="background: linear-gradient(45deg, #1de099, #1dc8cd);" onclick="see_solution()">See Solution</button>
 </div>
 <div id="quiz_solution">
 
