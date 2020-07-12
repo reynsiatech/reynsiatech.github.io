@@ -1,0 +1,991 @@
+Name,Email,Department,Gender,Roll No
+A  Gayathri,gayathri@iitk.ac.in,AEROSPACE ENGG.,F,190001
+A  Kedarnath,akedar@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190002
+Aadeesh  Jain,aadeej@iitk.ac.in,CIVIL ENGG.,M,190003
+Aakarshika  Singh,aaka@iitk.ac.in,MECHANICAL ENGINEERING,F,190004
+Aakash Kumar Choudhary,aakashch@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190005
+Aakash  Lawa,aaklawa@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190006
+Aakash  Rathi,aakashr@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190007
+Aakash  Singh,akhsingh@iitk.ac.in,MECHANICAL ENGINEERING,M,190008
+Aanchal  Jain,aanchal@iitk.ac.in,CIVIL ENGG.,F,190009
+Aarjav  Jain,aarjav@iitk.ac.in,ELECTRICAL ENGG.,M,190010
+Aarushi  Singh,aarushis@iitk.ac.in,CHEMICAL ENGG.,F,190011
+Aaryan  Mehar,aaryanm@iitk.ac.in,ECONOMICS,M,190012
+Aaryansh Mohan Bansal,arynshmb@iitk.ac.in,AEROSPACE ENGG.,M,190013
+Aashish  Patel,aashishp@iitk.ac.in,ELECTRICAL ENGG.,M,190014
+Aayush,paayush@iitk.ac.in,MATHEMATICS,M,190015
+Abhay Dayal Mathur,admathur@iitk.ac.in,CHEMICAL ENGG.,M,190016
+Abhay  Mishra,mabhay@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190017
+Abhay  Yadav,abhayy@iitk.ac.in,CHEMISTRY,M,190018
+Abhaya Pratap Singh,asinghp@iitk.ac.in,CIVIL ENGG.,M,190019
+Abhijeet  Kumar,abhivasu@iitk.ac.in,MECHANICAL ENGINEERING,M,190020
+Abhijeet  Sharma,abhijdev@iitk.ac.in,CHEMICAL ENGG.,M,190021
+Abhijeet  Singh,abhisin@iitk.ac.in,ELECTRICAL ENGG.,M,190022
+Abhimanyu  Sethia,sethia@iitk.ac.in,MATHEMATICS,M,190023
+Abhinav  Agarwal,abhiagar@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190024
+Abhinav  Aggarwal,abhinava@iitk.ac.in,AEROSPACE ENGG.,M,190025
+Abhinav D Singh,abhids@iitk.ac.in,AEROSPACE ENGG.,M,190026
+Abhinav  Kumar,abhiku@iitk.ac.in,CIVIL ENGG.,M,190027
+Abhinav  Maheshwari,abhinavm@iitk.ac.in,MECHANICAL ENGINEERING,M,190028
+Abhinav  Manawat,amanawat@iitk.ac.in,ELECTRICAL ENGG.,M,190029
+Abhinav Raj Singh,abhinavr@iitk.ac.in,CIVIL ENGG.,M,190030
+Abhinav  Tiwari,abtiwari@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190031
+Abhinav  Verma,abhive@iitk.ac.in,ECONOMICS,M,190032
+Abhisar  Bhardwaj,abhisarb@iitk.ac.in,ELECTRICAL ENGG.,M,190033
+Abhishek,abhitam@iitk.ac.in,CIVIL ENGG.,M,190034
+Abhishek,abhishkc@iitk.ac.in,ECONOMICS,M,190035
+Abhishek  Dohare,abhida@iitk.ac.in,CHEMISTRY,M,190036
+Abhishek  Gurjar,abgurjar@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190037
+Abhishek  Kumar,abhiavi@iitk.ac.in,ELECTRICAL ENGG.,M,190038
+Abhishek Kumar Prince,akprince@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190039
+Abhishek  Meena,abhim@iitk.ac.in,MECHANICAL ENGINEERING,M,190040
+Abhishek  Singh,abhiske@iitk.ac.in,EARTH SCIENCES,M,190041
+Abhishek  Verma,abhivrm@iitk.ac.in,AEROSPACE ENGG.,M,190042
+Abhishek Vijay Yadav,abhivy@iitk.ac.in,CIVIL ENGG.,M,190043
+Abhishek  Yadav,avyadav@iitk.ac.in,ELECTRICAL ENGG.,M,190044
+Acanksha  Jain,acanksha@iitk.ac.in,ELECTRICAL ENGG.,F,190045
+Achint Sanket Soni,achint@iitk.ac.in,ELECTRICAL ENGG.,M,190046
+Adarsh  Anand,adarshr@iitk.ac.in,ECONOMICS,M,190047
+Adarsh  Anand,adarsh@iitk.ac.in,ELECTRICAL ENGG.,M,190048
+Adarsh  Anand,adarshad@iitk.ac.in,MATHEMATICS,M,190049
+Adarsh  Baderia,adarshb@iitk.ac.in,AEROSPACE ENGG.,M,190050
+Adarsh  Chaudhary,adarshch@iitk.ac.in,MECHANICAL ENGINEERING,M,190051
+Adarsh  Verma,vadarsh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190052
+Adhiraj  Sinha,adhirajs@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190053
+Adit  Khokar,adit@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190054
+Aditi,aditisan@iitk.ac.in,ELECTRICAL ENGG.,F,190055
+Aditi  Arya,aditia@iitk.ac.in,ELECTRICAL ENGG.,F,190056
+Aditi  Goyal,aditi@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190057
+Aditya  Agarwal,adityaag@iitk.ac.in,ELECTRICAL ENGG.,M,190058
+Aditya  Goyal,agoyal@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190059
+Aditya  Gupta,adtgupta@iitk.ac.in,EARTH SCIENCES,M,190060
+Aditya Gupta(Shiv G Gupta),adigup@iitk.ac.in,ELECTRICAL ENGG.,M,190061
+Aditya  Jindal,jaditya@iitk.ac.in,CHEMICAL ENGG.,M,190062
+Aditya Krishna Rao,adikrao@iitk.ac.in,ELECTRICAL ENGG.,M,190063
+Aditya  Neelabha,adityan@iitk.ac.in,MECHANICAL ENGINEERING,M,190064
+Aditya  Prakash,adityaap@iitk.ac.in,AEROSPACE ENGG.,M,190065
+Aditya Prakash(V K Sinha),prakasha@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190066
+Aditya Prakash(Uma Kant),aprksh@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190067
+Aditya  Ranjan,aranjan@iitk.ac.in,ELECTRICAL ENGG.,M,190068
+Aditya  Vats,vaditya@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190069
+Adsule Harish Sunil,harishss@iitk.ac.in,PHYSICS,M,190070
+Agarwal Aryan Rajesh,aryanag@iitk.ac.in,CIVIL ENGG.,M,190071
+Agrim  Saharia,agrims@iitk.ac.in,ELECTRICAL ENGG.,M,190072
+Aishashwini,aish@iitk.ac.in,AEROSPACE ENGG.,F,190073
+Ajay  Kumar,ajayaky@iitk.ac.in,PHYSICS,M,190074
+Ajay  Sinhmar,ajaysr@iitk.ac.in,MATHEMATICS,M,190075
+Ajit  Meena,ajitm@iitk.ac.in,ECONOMICS,M,190076
+Akanksha  Gautam,agautam@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190077
+Akanksha  Mandoliya,akanksha@iitk.ac.in,ECONOMICS,F,190078
+Akarsh  Raj,akarshr@iitk.ac.in,MECHANICAL ENGINEERING,M,190079
+Akash  Kar,akashkar@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190080
+Akash  Kumar,akashkum@iitk.ac.in,ELECTRICAL ENGG.,M,190081
+Akash Kumar Bhoi,akashkb@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190082
+Akash  Ojha,ojha@iitk.ac.in,ELECTRICAL ENGG.,M,190083
+Akash  Patel,akashp@iitk.ac.in,MECHANICAL ENGINEERING,M,190084
+Akashdeep  Bhateja,abhateja@iitk.ac.in,EARTH SCIENCES,M,190085
+Akhil,akhild@iitk.ac.in,AEROSPACE ENGG.,M,190086
+Akhil  Hooda,akhilho@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190087
+Akshat  Goyal,akshatgo@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190088
+Akshat Ravi Chaudhari,cakshat@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190089
+Akshat  Sharma,akshatsh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190090
+Akshat  Srivastava,akshtsri@iitk.ac.in,CHEMICAL ENGG.,M,190091
+Akshay  Agarwal,akshayba@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190092
+Akshay  Gupta,akshay@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190093
+Akshay  Jain,akshayj@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190094
+Akshay  Mehta,akshaym@iitk.ac.in,ELECTRICAL ENGG.,M,190095
+Akshit  Kanaujia,akshitkn@iitk.ac.in,MATHEMATICS,M,190096
+Akshita,akshita@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190097
+Alok Kumar (B Prasad),kralok@iitk.ac.in,CHEMICAL ENGG.,M,190098
+Alok Kumar (S Kumar),aloks@iitk.ac.in,MATHEMATICS,M,190099
+Alok Kumar Thakur,alokthak@iitk.ac.in,CIVIL ENGG.,M,190100
+Alok  Tripathi,aloktrip@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190101
+Aman  Agrawal,amanagr@iitk.ac.in,MATHEMATICS,M,190102
+Aman  Dixit,amandx@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190103
+Aman  Gupta,amanjpr@iitk.ac.in,ELECTRICAL ENGG.,M,190104
+Aman  Jain,amanjain@iitk.ac.in,CIVIL ENGG.,M,190105
+Aman  Jaiswal,jaman@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190106
+Aman  Jakhar,ajakhar@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190107
+Aman  Raw,amnraw@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190108
+Aman  Yadav,amanydv@iitk.ac.in,MECHANICAL ENGINEERING,M,190109
+Amartya Shekhar Das,asdas@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190110
+Amay  Bhargava,amay@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190111
+Ambuja  Budakoti,baambuja@iitk.ac.in,MECHANICAL ENGINEERING,F,190112
+Amgothu  Nandeeswar,nandeesw@iitk.ac.in,PHYSICS,M,190113
+Amir  Raza,amirraza@iitk.ac.in,MECHANICAL ENGINEERING,M,190114
+Amit  Kumar,amkumar@iitk.ac.in,CHEMICAL ENGG.,M,190115
+Amit Kumar Meena,akmeena@iitk.ac.in,AEROSPACE ENGG.,M,190116
+Amit Kumar Singh,amitsgh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190117
+Amit Kumar Yadav,amitkum@iitk.ac.in,CIVIL ENGG.,M,190118
+Amit  Yadav,amityd@iitk.ac.in,MECHANICAL ENGINEERING,M,190119
+Amitesh Singh Sisodia,amiteshs@iitk.ac.in,ELECTRICAL ENGG.,M,190120
+Amrapali Santosh Pawar,amrapali@iitk.ac.in,CHEMICAL ENGG.,F,190121
+Amrit  Kumar,amritkr@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190122
+Anand  Patwa,anandp@iitk.ac.in,CHEMISTRY,M,190123
+Anant  Dev,anantdev@iitk.ac.in,CHEMICAL ENGG.,M,190124
+Anant Pratap Singh,anantps@iitk.ac.in,ELECTRICAL ENGG.,M,190125
+Ananya,ananyars@iitk.ac.in,ELECTRICAL ENGG.,F,190126
+Ananya  Agrawal,aananya@iitk.ac.in,ECONOMICS,F,190127
+Ananya  Gupta,ananyag@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190128
+Ananyae Kumar Bhartari,ananyae@iitk.ac.in,CHEMICAL ENGG.,M,190129
+Anay  Nagar,anayn@iitk.ac.in,CIVIL ENGG.,M,190130
+Anchal  Gupta,anchalgu@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190131
+Anhad  Jagdish,anhad@iitk.ac.in,EARTH SCIENCES,M,190133
+Aniket  Kumar,aniketkr@iitk.ac.in,MECHANICAL ENGINEERING,M,190134
+Aniket  Saini,saniket@iitk.ac.in,CHEMICAL ENGG.,M,190135
+Aniket  Sankhi,sankhi@iitk.ac.in,CIVIL ENGG.,M,190136
+Anil  Gusaiwal,anilg@iitk.ac.in,ELECTRICAL ENGG.,M,190137
+Anil Kumar Piparaiya,kanilp@iitk.ac.in,CHEMISTRY,M,190138
+Anil  Takhar,anilth@iitk.ac.in,MECHANICAL ENGINEERING,M,190139
+Animesh  Singh,animesh@iitk.ac.in,CIVIL ENGG.,M,190140
+Anirudh  Meena,anirudhp@iitk.ac.in,ELECTRICAL ENGG.,M,190141
+Anirudha  Brahma,anirbrhm@iitk.ac.in,CHEMISTRY,M,190142
+Anish  Garg,anishgg@iitk.ac.in,AEROSPACE ENGG.,M,190143
+Anita  Waskale,anitaw@iitk.ac.in,AEROSPACE ENGG.,F,190144
+Anjali  Jangir,janjali@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190145
+Anjali  Rai,anjaliss@iitk.ac.in,ELECTRICAL ENGG.,F,190146
+Anjali  Rana,anjalir@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190147
+Ankit,ankitsur@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190148
+Ankit  Agrawal,ankitag@iitk.ac.in,AEROSPACE ENGG.,M,190149
+Ankit M Patel,ankitmp@iitk.ac.in,AEROSPACE ENGG.,M,190150
+Ankit  Yadav,ankitd@iitk.ac.in,MECHANICAL ENGINEERING,M,190151
+Ankita  Yadav,ankitay@iitk.ac.in,AEROSPACE ENGG.,F,190152
+Anmol  Agarwal,anmolag@iitk.ac.in,CHEMICAL ENGG.,M,190153
+Anmol  Pabla,apabla@iitk.ac.in,MECHANICAL ENGINEERING,M,190154
+Rahul Annadur Kesavan,rahulak@iitk.ac.in,PHYSICS,M,190155
+Annapureddy Venkata Jayanth Reddy,jayanthr@iitk.ac.in,ELECTRICAL ENGG.,M,190156
+Ansh  Saxena,anshsx@iitk.ac.in,CIVIL ENGG.,M,190157
+Anshit  Arya,anshit@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190158
+Anshul  Agarwal,anshulag@iitk.ac.in,CIVIL ENGG.,M,190159
+Anshul  Kapoor,anshulak@iitk.ac.in,MECHANICAL ENGINEERING,M,190160
+Anshuman  Singh,anshum@iitk.ac.in,ELECTRICAL ENGG.,M,190161
+Anshumann,anshmn@iitk.ac.in,ELECTRICAL ENGG.,M,190162
+Antreev Singh Brar,antreev@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190163
+Anubhav  Kalyani,anukal@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190164
+Anuj  Chaudhary,anujch@iitk.ac.in,MECHANICAL ENGINEERING,M,190165
+Anupam Kumar Yadav,anupamky@iitk.ac.in,ELECTRICAL ENGG.,M,190166
+Anurag  Hudda,anuraghu@iitk.ac.in,EARTH SCIENCES,M,190167
+Anurag  Kumar,anukum@iitk.ac.in,AEROSPACE ENGG.,M,190168
+Anurag  Tyagi,anuragat@iitk.ac.in,MATHEMATICS,M,190169
+Anurag  Yadav,anuyadav@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190170
+Aparna  Nagdeve,aparna@iitk.ac.in,ELECTRICAL ENGG.,F,190171
+Archana,archanay@iitk.ac.in,CIVIL ENGG.,F,190172
+Arindam  Vashishth,arindamv@iitk.ac.in,MECHANICAL ENGINEERING,M,190173
+Aritra  Banerjee,abanerji@iitk.ac.in,ELECTRICAL ENGG.,M,190174
+Arka  Das,dasarka@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190175
+Arpit  Maheshwari,arpitm@iitk.ac.in,ELECTRICAL ENGG.,M,190176
+Arpit  Singh,arpitsg@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190177
+Arpit  Verma,varpit@iitk.ac.in,ELECTRICAL ENGG.,M,190178
+Arun Kumar (P Kumar),arunswa@iitk.ac.in,EARTH SCIENCES,M,190179
+Arun Kumar (S Singh),arunku@iitk.ac.in,MECHANICAL ENGINEERING,M,190180
+Arush,aarush@iitk.ac.in,CIVIL ENGG.,M,190181
+Arush Kumar Singh,arush@iitk.ac.in,AEROSPACE ENGG.,M,190182
+Arvendra Singh Kushwah,arvendra@iitk.ac.in,ELECTRICAL ENGG.,M,190183
+Arya  Bhatta,aryab@iitk.ac.in,ELECTRICAL ENGG.,M,190184
+Aryan  Kumar,aryankmr@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190185
+Aryan  Mundada,rnmundra@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190186
+Aryan  Pandeya,apandeya@iitk.ac.in,MECHANICAL ENGINEERING,M,190187
+Aryan  Singh,aryansin@iitk.ac.in,ELECTRICAL ENGG.,M,190188
+Aryash  Pateriya,aryashp@iitk.ac.in,CIVIL ENGG.,M,190189
+Ashish,ashishce@iitk.ac.in,CIVIL ENGG.,M,190190
+Ashish  Ahuja,ashisha@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190191
+Ashish Kumar (Ram Kumar),ashk@iitk.ac.in,AEROSPACE ENGG.,M,190192
+Ashish Kumar (Mahesh Kumar),ashibar@iitk.ac.in,CHEMISTRY,M,190193
+Ashok Kumar Jyani,ashokjy@iitk.ac.in,CIVIL ENGG.,M,190194
+Ashok Kumar Saini,askumar@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190195
+Ashwani Kumar Srivastava,ashwanis@iitk.ac.in,CIVIL ENGG.,M,190196
+Asish Kumar Mandoi,akmandoi@iitk.ac.in,ELECTRICAL ENGG.,M,190197
+Asmita  Nimesh,asmita@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190198
+Astha  Pant,asthap@iitk.ac.in,MECHANICAL ENGINEERING,F,190199
+Atharv Singh Patlan,atharvsp@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190200
+Atreya  Goswami,atreya@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190201
+Atul  Umak,atulumak@iitk.ac.in,CIVIL ENGG.,M,190202
+Atur  Gupta,atur@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190203
+Avadhi  Jindal,avadhi@iitk.ac.in,CIVIL ENGG.,F,190204
+Avinash  Bansal,avinashb@iitk.ac.in,CHEMICAL ENGG.,M,190205
+Avinash  Kumar,avinashj@iitk.ac.in,EARTH SCIENCES,M,190206
+Avinash  Vishwakarma,avinashv@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190207
+Ayush  Azad,ayusazad@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190209
+Ayush  Baranwal,ayubaran@iitk.ac.in,CHEMICAL ENGG.,M,190210
+Ayush  Dwivedi,ayushvns@iitk.ac.in,CIVIL ENGG.,M,190211
+Ayush  Gupta,gayush@iitk.ac.in,CHEMISTRY,M,190212
+Ayush  Kumar,kumayu@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190213
+Ayush Kumar Singh,ayushks@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190214
+Ayush  Nishad,ayushn@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190215
+Ayush  Ranjan,ayranjan@iitk.ac.in,MECHANICAL ENGINEERING,M,190216
+Ayush  Singh,ayushsgh@iitk.ac.in,MECHANICAL ENGINEERING,M,190217
+Ayush  Yadav,ayushyad@iitk.ac.in,PHYSICS,M,190218
+Ayushi  Agarwal,aagarwal@iitk.ac.in,MECHANICAL ENGINEERING,F,190219
+Ayushi  Arora,ayushii@iitk.ac.in,CHEMISTRY,F,190220
+Ayushi  Chaudhary,ayushic@iitk.ac.in,ELECTRICAL ENGG.,F,190221
+Azad  Prajapat,azadp@iitk.ac.in,CIVIL ENGG.,M,190222
+Azhar  Tanweer,azhart@iitk.ac.in,AEROSPACE ENGG.,M,190223
+Banavathu  Meena,meenab@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190224
+Bandaru  Sukeerthi,sukee@iitk.ac.in,MECHANICAL ENGINEERING,F,190225
+Banoth  Naveen,bnaveen@iitk.ac.in,PHYSICS,M,190226
+Banoth  Viratraj,bvirat@iitk.ac.in,AEROSPACE ENGG.,M,190227
+Bashaboyna  Vasavi,vasavi@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190228
+Bhagwat  Garg,bhagwat@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190229
+Bharti  Jain,bhartij@iitk.ac.in,AEROSPACE ENGG.,F,190230
+Bhaskar  Shukla,bshukla@iitk.ac.in,CHEMICAL ENGG.,M,190231
+Bhatt  Harshal,harshal@iitk.ac.in,CHEMICAL ENGG.,M,190232
+Bhaumik Bharatbhai Jadav,bhaumik@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190233
+Bhavika  Rangwani,bhavikar@iitk.ac.in,ECONOMICS,F,190234
+Bhimadole Rohan Ravindra,brohanr@iitk.ac.in,PHYSICS,M,190235
+Bhukya Vinay Kumar,vinaybhu@iitk.ac.in,EARTH SCIENCES,M,190236
+Bibek  Lakra,bibekp@iitk.ac.in,ELECTRICAL ENGG.,M,190237
+Bidhan  Arya,bidhanar@iitk.ac.in,AEROSPACE ENGG.,M,190238
+Bisweswar  Martha,bmartha@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190239
+Boda Sai Charan,saiboda@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190240
+Bommareddy Indra Sena Reddy,indrasr@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190241
+Boodidha Surya Vamshi Reddy,suryav@iitk.ac.in,PHYSICS,M,190242
+C S Naga Pavan,nagpav@iitk.ac.in,AEROSPACE ENGG.,M,190243
+Chaitanya  Sahni,csahni@iitk.ac.in,MECHANICAL ENGINEERING,M,190244
+Chaitanya.P,chaitu@iitk.ac.in,ELECTRICAL ENGG.,M,190245
+Chandra Shekhar,cshekhar@iitk.ac.in,CIVIL ENGG.,M,190246
+Chetan  Kalyan,chetan@iitk.ac.in,MECHANICAL ENGINEERING,M,190247
+Chirag  Sharma,chiragsh@iitk.ac.in,CIVIL ENGG.,M,190248
+Chiranjit  Roy,chiran@iitk.ac.in,PHYSICS,M,190249
+Darpan,darpanar@iitk.ac.in,CHEMICAL ENGG.,M,190250
+Darshana Singh Baghel,darshana@iitk.ac.in,CIVIL ENGG.,F,190251
+Darshit Hemendra Trevadia,darshitt@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190252
+Dawood Bin Mansoor,dawood@iitk.ac.in,AEROSPACE ENGG.,M,190253
+Debaditya  Bhattacharya,debbh@iitk.ac.in,PHYSICS,M,190254
+Debanjan  Manna,debmanna@iitk.ac.in,AEROSPACE ENGG.,M,190255
+Deborathi  Sen,debosen@iitk.ac.in,CHEMICAL ENGG.,M,190256
+Deeksha  Vijay,deekshav@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190257
+Deepak  Adarsh,deepadar@iitk.ac.in,ECONOMICS,M,190258
+Deepak  Kumar,deepkum@iitk.ac.in,CHEMISTRY,M,190259
+Deepak  Meena,deepakmn@iitk.ac.in,ELECTRICAL ENGG.,M,190260
+Deepalok  Kaushik,deepalok@iitk.ac.in,CIVIL ENGG.,M,190261
+Deepanshu  Rathi,drathi@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190262
+Deepender  Kumar,deepenk@iitk.ac.in,ELECTRICAL ENGG.,M,190263
+Deependra  Samota,samota@iitk.ac.in,MECHANICAL ENGINEERING,M,190264
+Deepesh  Chandra,dchandra@iitk.ac.in,MECHANICAL ENGINEERING,M,190265
+Deesari Sai Durga Ganesh Dora,dsdgdora@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190266
+Deshanki  Singhal,deshanki@iitk.ac.in,CHEMISTRY,F,190267
+Dev  Yadav,devyadav@iitk.ac.in,ELECTRICAL ENGG.,M,190268
+Devang  Uniyal,devangu@iitk.ac.in,MECHANICAL ENGINEERING,M,190269
+Devansh  Jain,devanshj@iitk.ac.in,CIVIL ENGG.,M,190270
+Devansh Kumar Sahu,dksahu@iitk.ac.in,MECHANICAL ENGINEERING,M,190271
+Devansh  Mishra,mdevans@iitk.ac.in,CIVIL ENGG.,M,190272
+Devansh  Parmar,dparmar@iitk.ac.in,ELECTRICAL ENGG.,M,190273
+Devanshu  Singla,dsingla@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190274
+Devaraj,devaraj@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190275
+Devesh  Goyal,devesh@iitk.ac.in,CIVIL ENGG.,M,190276
+Devesh  Kumar,rdevesh@iitk.ac.in,ELECTRICAL ENGG.,M,190277
+Devika  Srivastava,devika@iitk.ac.in,CHEMISTRY,F,190278
+Dewanti  Painkra,dewanti@iitk.ac.in,MECHANICAL ENGINEERING,F,190279
+Dhananjay  Gupta,gdhanjay@iitk.ac.in,CHEMICAL ENGG.,M,190280
+Dhananjay  Hira,hira@iitk.ac.in,PHYSICS,M,190281
+Dhanya  Sagar,dhanya@iitk.ac.in,CIVIL ENGG.,F,190282
+Dharamchand,dharamch@iitk.ac.in,PHYSICS,M,190283
+Dharoor Sai Ashwith,ashwith@iitk.ac.in,ELECTRICAL ENGG.,M,190284
+Dheeraj  Agarwal,adheeraj@iitk.ac.in,CHEMICAL ENGG.,M,190285
+Dheeraj  Bana,djbana@iitk.ac.in,CIVIL ENGG.,M,190286
+Dheeraj  Singla,sdheeraj@iitk.ac.in,MECHANICAL ENGINEERING,M,190287
+Dhiravath  Raju,dhirav@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190288
+Dhriti  Garg,dhriti@iitk.ac.in,MATHEMATICS,F,190289
+Dhrubajit  Basumatary,dhruba@iitk.ac.in,MECHANICAL ENGINEERING,M,190290
+Dhruv  Goyal,dhruvg@iitk.ac.in,ELECTRICAL ENGG.,M,190291
+Dhruv  Mittal,mdhruv@iitk.ac.in,MATHEMATICS,M,190292
+Dhruv Shikhar Gupta,dhruvsg@iitk.ac.in,ELECTRICAL ENGG.,M,190293
+Dhruv  Singhal,dhruvsin@iitk.ac.in,CIVIL ENGG.,M,190294
+Dhruvil Manish Doshi,dmdoshi@iitk.ac.in,PHYSICS,M,190295
+Digvijay  Singh,digvij@iitk.ac.in,EARTH SCIENCES,M,190296
+Diksha  Banka,diksha@iitk.ac.in,CHEMICAL ENGG.,F,190297
+Dileep  Meena,dileepm@iitk.ac.in,CIVIL ENGG.,M,190298
+Dilip  Kumar,kdilip@iitk.ac.in,CIVIL ENGG.,M,190299
+Dilip Kumar Meena,dilipkm@iitk.ac.in,CHEMISTRY,M,190300
+Dilip  Parmar,dilipsan@iitk.ac.in,MATHEMATICS,M,190301
+Dinesh,dineshkm@iitk.ac.in,CHEMICAL ENGG.,M,190302
+Dinesh  Kumar,dinkumar@iitk.ac.in,MATHEMATICS,M,190303
+Dinesh  Ram,dram@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190304
+Dipali  Shrivastava,dipalish@iitk.ac.in,CIVIL ENGG.,F,190305
+Dipanshu  Garg,dipanshu@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190306
+Divvyansh  Chhaparia,divyansh@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190307
+Divya  Mohan,divyam@iitk.ac.in,MATHEMATICS,M,190308
+Divyansh  Garg,divigarg@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190309
+Divyansh  Sati,divsati@iitk.ac.in,MECHANICAL ENGINEERING,M,190310
+Divyansh  Shukla,sdivya@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190311
+Divyansh  Sikhar,sikhar@iitk.ac.in,ECONOMICS,M,190312
+Divyansh  Tripathi,divtri@iitk.ac.in,CHEMICAL ENGG.,M,190313
+Divyanshi  Agarwal,divi@iitk.ac.in,CHEMICAL ENGG.,F,190314
+Divyanshu  Aseri,daseri@iitk.ac.in,ELECTRICAL ENGG.,M,190315
+Divyanshu  Gangwar,dvyanshu@iitk.ac.in,ELECTRICAL ENGG.,M,190316
+Divyanshu  Gupta,divyg@iitk.ac.in,MECHANICAL ENGINEERING,M,190317
+Divyanshu  Narang,dnarang@iitk.ac.in,ELECTRICAL ENGG.,M,190318
+Diwakar  Choudhary,diwakard@iitk.ac.in,PHYSICS,M,190319
+Diya  Singhal,diyans@iitk.ac.in,EARTH SCIENCES,F,190320
+Donga  Harika,harikad@iitk.ac.in,MECHANICAL ENGINEERING,F,190321
+Dravya  Marwaha,dravya@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190322
+Dwara Nikhesh Babu,nikheshd@iitk.ac.in,MECHANICAL ENGINEERING,M,190323
+Esans  Singh,esans@iitk.ac.in,CIVIL ENGG.,M,190324
+Faizan Ahmad Shah,fshah@iitk.ac.in,MECHANICAL ENGINEERING,M,190325
+Falguni  Yadav,falguni@iitk.ac.in,MECHANICAL ENGINEERING,F,190326
+Gagan  Aryan,gagan@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190327
+Gamakshi  Verma,gamakshi@iitk.ac.in,CHEMISTRY,F,190328
+Ganesh  Hasda,ganeshh@iitk.ac.in,AEROSPACE ENGG.,M,190329
+Ganji  Bhavani,bhavani@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190330
+Ganta  Abhimithra,abimitra@iitk.ac.in,ELECTRICAL ENGG.,M,190331
+Ganta Srujith Reddy,gsrujith@iitk.ac.in,ECONOMICS,M,190332
+Gaurav  Dadhich,gauravd@iitk.ac.in,MECHANICAL ENGINEERING,M,190333
+Gaurav Kumar (M Kumar),grvk@iitk.ac.in,AEROSPACE ENGG.,M,190334
+Gaurav Kumar (Shiv Lal),kgaurav@iitk.ac.in,AEROSPACE ENGG.,M,190335
+Gaurav Kumar (Pawan K Singh),bgaurav@iitk.ac.in,CHEMISTRY,M,190336
+Gaurav Kumar (J P Prasad),gauravkg@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190337
+Gaurav Kumar Chauhan,gauravc@iitk.ac.in,AEROSPACE ENGG.,M,190338
+Gaurav Kumar Sharma,gauravs@iitk.ac.in,CHEMICAL ENGG.,M,190339
+Gaurav  Manwani,gmanwani@iitk.ac.in,MATHEMATICS,M,190340
+Gaurvika  Kapoor,gkapoor@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190341
+Ghanshyam Prashant Waindeshkar,ghanwain@iitk.ac.in,ECONOMICS,M,190342
+Ghulam Hussain Farooqui,ghulam@iitk.ac.in,CHEMISTRY,M,190343
+Gopi  Krishna,gopik@iitk.ac.in,PHYSICS,M,190344
+Gourav  Patanwal,patanwal@iitk.ac.in,MECHANICAL ENGINEERING,M,190345
+Govind  Gupta,govindg@iitk.ac.in,CIVIL ENGG.,M,190346
+Govind  Tripathi,govindt@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190347
+Gulshan Kumar Choudhary,gulshan@iitk.ac.in,MATHEMATICS,M,190348
+Gurbaaz Singh Nandra,gurbaaz@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190349
+Gurugubelli  Navya,navyaa@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190350
+Gyanendra  Kumar,krgyan@iitk.ac.in,MECHANICAL ENGINEERING,M,190351
+Gyarsi Lal Meena,glmeena@iitk.ac.in,ELECTRICAL ENGG.,M,190352
+Hardik  Sharma,hardiksh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190353
+Hariom  Shakyawal,harioms@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190354
+Harish Kumar Parche,harishp@iitk.ac.in,MECHANICAL ENGINEERING,M,190355
+Harishankar K P S,harikps@iitk.ac.in,PHYSICS,M,190356
+Harsh,harshhar@iitk.ac.in,MECHANICAL ENGINEERING,M,190357
+Harsh  Choudhary,hcharsh@iitk.ac.in,CIVIL ENGG.,M,190358
+Harsh  Garg,hrshgrg@iitk.ac.in,ELECTRICAL ENGG.,M,190359
+Harsh  Kumar,harshku@iitk.ac.in,ELECTRICAL ENGG.,M,190360
+Harsh Kumar Gautam,harshgau@iitk.ac.in,CIVIL ENGG.,M,190361
+Harsh  Mishra,harshm@iitk.ac.in,CHEMISTRY,M,190362
+Harsh  Patel,harshp@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190363
+Harsh  Sharma,hrshma@iitk.ac.in,ELECTRICAL ENGG.,M,190364
+Harsh  Sheoran,harshshn@iitk.ac.in,ELECTRICAL ENGG.,M,190365
+Harshal Mohan Patil,harshalp@iitk.ac.in,CIVIL ENGG.,M,190366
+Harshit  Balwada,hbalwada@iitk.ac.in,CHEMICAL ENGG.,M,190367
+Harshit  Gautam,hargau@iitk.ac.in,CHEMISTRY,M,190368
+Harshit  Itondia,itondia@iitk.ac.in,PHYSICS,M,190369
+Harshit Tiwari (Om Prakash),htiwari@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190370
+Harshit Tiwari (B K Tiwari),harshitt@iitk.ac.in,MATHEMATICS,M,190371
+Harshvardhan  Arya,harshva@iitk.ac.in,ELECTRICAL ENGG.,M,190372
+Heetesh Kumar Dabura,heetesh@iitk.ac.in,CIVIL ENGG.,M,190373
+Hem Kalpak Shah,hemshah@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190374
+Hem  Kumar,hemo@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190375
+Himanshu Kishor Choubey,himkc@iitk.ac.in,MECHANICAL ENGINEERING,M,190376
+Himanshu  Pandey,himame@iitk.ac.in,MECHANICAL ENGINEERING,M,190377
+Himanshu  Patidar,himanp@iitk.ac.in,MATHEMATICS,M,190378
+Himanshu Potham Shetty,hpshetty@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190379
+Himanshu Shekhar Das,himsheda@iitk.ac.in,MATHEMATICS,M,190380
+Himanshu  Sood,himsood@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190381
+Hitesh  Kumar,hitesh@iitk.ac.in,CIVIL ENGG.,M,190382
+Hrithik  Sharma,hrsharma@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190383
+Indrajeet  Kumar,indrakum@iitk.ac.in,MECHANICAL ENGINEERING,M,190384
+Ishaan  Sodhani,ishaans@iitk.ac.in,CHEMICAL ENGG.,M,190385
+Ishan  Patel,ishaaan@iitk.ac.in,PHYSICS,M,190386
+Ishika  Goyadi,igoyadi@iitk.ac.in,ELECTRICAL ENGG.,F,190387
+Ishika  Taneja,ishika@iitk.ac.in,ELECTRICAL ENGG.,F,190388
+Ishir  Roongta,ishir@iitk.ac.in,ELECTRICAL ENGG.,M,190389
+Ishit Manojkumar Darania,ishitdar@iitk.ac.in,CIVIL ENGG.,M,190390
+Jaagrati  Jain,jaagrati@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190391
+Jadhav  Ankita,jadhav@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190392
+Jadhav Dnyandeep Chandrakant,dcjadhav@iitk.ac.in,MECHANICAL ENGINEERING,M,190393
+Jahnvi  Tripathi,jahnvi@iitk.ac.in,CHEMISTRY,F,190394
+Jami Sai Chandra Prakash,cprakash@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190395
+Janhavi  Bhoge,janhavim@iitk.ac.in,CIVIL ENGG.,F,190396
+Jaskirat  Singh,kirat@iitk.ac.in,MATHEMATICS,M,190397
+Jaswant  Kumar,jaswantk@iitk.ac.in,MATHEMATICS,M,190398
+Jatin  Garg,jjating@iitk.ac.in,MECHANICAL ENGINEERING,M,190399
+Jatin  Kumar,jatinrao@iitk.ac.in,CIVIL ENGG.,M,190400
+Jay  Verma,jayverma@iitk.ac.in,CIVIL ENGG.,M,190401
+Jayesh  Sharma,sjayesh@iitk.ac.in,ELECTRICAL ENGG.,M,190402
+Jeet  Sethia,jeets@iitk.ac.in,ELECTRICAL ENGG.,M,190403
+Jetti Naga Karthik,jkarthik@iitk.ac.in,MATHEMATICS,M,190404
+Jignesh  Mohanty,mohantyj@iitk.ac.in,PHYSICS,M,190405
+Jitendra  Kumar,jitendrk@iitk.ac.in,MECHANICAL ENGINEERING,M,190406
+Jitendra  Singh,jisingh@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190407
+Jitesh  Hemji,jithemji@iitk.ac.in,MECHANICAL ENGINEERING,M,190408
+Jitin,jitin@iitk.ac.in,CHEMICAL ENGG.,M,190409
+Jiya  Yadav,jiyay@iitk.ac.in,ELECTRICAL ENGG.,F,190410
+Jyotsana,jyotsana@iitk.ac.in,CIVIL ENGG.,F,190411
+K Jayanth Ragav,kjayanth@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190412
+Kale Rohit Ramesh,rohitk@iitk.ac.in,CHEMISTRY,M,190413
+Kanika  Kukreja,kanikak@iitk.ac.in,CHEMICAL ENGG.,F,190414
+Kapil,kapilag@iitk.ac.in,CIVIL ENGG.,M,190415
+Karpurapu Manoj Kumar,manojkmk@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190416
+Kartik,kartikgg@iitk.ac.in,ELECTRICAL ENGG.,M,190417
+Kartik  Jhanwar,kartikjh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190418
+Kartik  Saini,sainiks@iitk.ac.in,CHEMISTRY,M,190419
+Kartikeya  Gupta,gkartik@iitk.ac.in,MECHANICAL ENGINEERING,M,190420
+Karunanidhi  Rajpoot,knraj@iitk.ac.in,AEROSPACE ENGG.,M,190421
+Kaushal  Chaudhary,kaushalc@iitk.ac.in,ECONOMICS,M,190422
+Kaustubh  Mishra,kostov@iitk.ac.in,MECHANICAL ENGINEERING,M,190423
+Kaustubh  Verma,kauver@iitk.ac.in,ELECTRICAL ENGG.,M,190424
+Kavya  Agarwal,kavya@iitk.ac.in,EARTH SCIENCES,F,190425
+Keerthana M Arun,keerthm@iitk.ac.in,PHYSICS,F,190426
+Keshav  Maheshwari,keshavm@iitk.ac.in,CIVIL ENGG.,M,190427
+Ketan  Chaturvedi,ketanch@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190428
+Khushal  Singh,khushals@iitk.ac.in,CHEMICAL ENGG.,M,190429
+Khushboo  Sachdeva,khushbus@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190430
+Khushi  Singh,khushi@iitk.ac.in,ECONOMICS,F,190431
+Khyathi  Vagolu,khyathi@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190432
+Kindikeri Vyjayanthi Reddy,vyreddy@iitk.ac.in,MATHEMATICS,F,190433
+Kindinti Uday Kiran,kindinti@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190434
+Kislay  Tripathi,kislayt@iitk.ac.in,CIVIL ENGG.,M,190435
+Kratik  Agrawal,kratik@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190436
+Kratika  Agarwal,kratika@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190437
+Krishna Pankaj Agrawal,krishnaa@iitk.ac.in,MECHANICAL ENGINEERING,M,190438
+Kritarth  Lohomi,kritarth@iitk.ac.in,ECONOMICS,M,190439
+Kritin  Sharma,kritins@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190440
+Kshitiz  Doon,kshitizd@iitk.ac.in,CIVIL ENGG.,M,190441
+Kuldeep Meena ( M K Meena),kuldeepm@iitk.ac.in,CIVIL ENGG.,M,190442
+Kuldeep  Meena,kdmeena@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190443
+Kuldeep Singh Dahiya,ksdahiya@iitk.ac.in,MECHANICAL ENGINEERING,M,190444
+Kulshrestha  Meena,klmeena@iitk.ac.in,CHEMICAL ENGG.,M,190445
+Kumar  Rajnish,krajnish@iitk.ac.in,ELECTRICAL ENGG.,M,190446
+Kunal  Aggarwal,kunala@iitk.ac.in,ELECTRICAL ENGG.,M,190447
+Kunal  Saini,kunalsni@iitk.ac.in,EARTH SCIENCES,M,190448
+Kunal  Singh,kunalss@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190449
+Kuntal  Desai,kuntald@iitk.ac.in,ELECTRICAL ENGG.,M,190450
+Kush  Daga,kushdaga@iitk.ac.in,ECONOMICS,M,190451
+Kushal  Maheshwari,kushalm@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190452
+Lakshay  Jangu,lakshayj@iitk.ac.in,MATHEMATICS,M,190453
+Lakshita  Mohanty,lakshita@iitk.ac.in,MECHANICAL ENGINEERING,F,190454
+Lakshya  Gujar,lakshyag@iitk.ac.in,ELECTRICAL ENGG.,M,190455
+Lavudya  Rajkumar,lrajk@iitk.ac.in,EARTH SCIENCES,M,190456
+Lipi  Jain,lipijain@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190457
+Lochan Karthick Ravichandran,lochankr@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190458
+Lochan Prakash Gupta,lochanag@iitk.ac.in,CIVIL ENGG.,M,190459
+Lokesh Ajaykumar Bharati,lokeshab@iitk.ac.in,MECHANICAL ENGINEERING,M,190460
+Lokhande Aniket Kashinath,aniketkl@iitk.ac.in,AEROSPACE ENGG.,M,190461
+Love Kumar Varshney,lovekv@iitk.ac.in,MECHANICAL ENGINEERING,M,190462
+Maan  Bahadur,maan@iitk.ac.in,MECHANICAL ENGINEERING,M,190463
+Madhavaneni Vivek Rao,vivekrao@iitk.ac.in,MECHANICAL ENGINEERING,M,190464
+Madiha  Fatima,madiha@iitk.ac.in,ELECTRICAL ENGG.,F,190465
+Mahantesh B Naik,mbnaik@iitk.ac.in,MECHANICAL ENGINEERING,M,190466
+Mahaveer  Bana,mahaveer@iitk.ac.in,CIVIL ENGG.,M,190467
+Mahesh  Mandar,mandar@iitk.ac.in,ELECTRICAL ENGG.,M,190468
+Mahima  Arora,marora@iitk.ac.in,MATHEMATICS,F,190469
+Malepati  Umesh,mumesh@iitk.ac.in,MECHANICAL ENGINEERING,M,190470
+Malkurthi  Sreekar,srikarbt@iitk.ac.in,ELECTRICAL ENGG.,M,190471
+Malla Sri Harsha,msharsha@iitk.ac.in,ECONOMICS,M,190472
+Mamraj  Gaina,mamraj@iitk.ac.in,CIVIL ENGG.,M,190473
+Mamta  Gautam,mgautam@iitk.ac.in,PHYSICS,F,190474
+Mandar  Bapat,mandarb@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190475
+Manish,manishy@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190477
+Manish Kumar (Hukum Singh),maniskr@iitk.ac.in,ELECTRICAL ENGG.,M,190478
+Manish  Kumar,kmanis@iitk.ac.in,EARTH SCIENCES,M,190479
+Manish Kumar Bharati,mbharati@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190480
+Manish Kumar Mina,kmmanish@iitk.ac.in,CIVIL ENGG.,M,190481
+Manish  Mayank,manmay@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190482
+Manish  Meena,manishmn@iitk.ac.in,MECHANICAL ENGINEERING,M,190483
+Manit  Ajmera,manitajm@iitk.ac.in,MECHANICAL ENGINEERING,M,190484
+Manjeet  Kumar,mankumar@iitk.ac.in,ELECTRICAL ENGG.,M,190485
+Mantaas Singh Chahal,mantaas@iitk.ac.in,ELECTRICAL ENGG.,M,190486
+Manvendra  Singh,manavs@iitk.ac.in,CHEMICAL ENGG.,M,190487
+Maryam Raza Khan,maryam@iitk.ac.in,MECHANICAL ENGINEERING,F,190488
+Maulik  Singhal,smaulik@iitk.ac.in,MECHANICAL ENGINEERING,M,190489
+Mayank  Sarwa,smayank@iitk.ac.in,ECONOMICS,M,190490
+Md Kaif Faiyaz,kaif@iitk.ac.in,PHYSICS,M,190491
+Md  Saif,mdsaif@iitk.ac.in,MECHANICAL ENGINEERING,M,190492
+Meghna  Singh,meghnas@iitk.ac.in,MECHANICAL ENGINEERING,F,190493
+Mehak,mehak@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190494
+Aaryen Milan Mehta,ammehta@iitk.ac.in,MATHEMATICS,M,190495
+Menda  Mukesh,mmukesh@iitk.ac.in,MECHANICAL ENGINEERING,M,190496
+Meshram Manav Praful,manavm@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190497
+Mirge Saurabh Arun,smirge@iitk.ac.in,CHEMICAL ENGG.,M,190498
+Mohammad Imad Khan,imad@iitk.ac.in,EARTH SCIENCES,M,190499
+Mohammad  Saad,mohdsaad@iitk.ac.in,MECHANICAL ENGINEERING,M,190500
+Mohammed Rizwan Sheikh,mdrizwan@iitk.ac.in,CHEMISTRY,M,190501
+Mohd  Azam,azam@iitk.ac.in,MATHEMATICS,M,190502
+Mohd  Muzzammil,muzzu@iitk.ac.in,CIVIL ENGG.,M,190503
+Mohd Shahid Awan,shahidm@iitk.ac.in,MATHEMATICS,M,190504
+Mohit  Anand,mohit@iitk.ac.in,MECHANICAL ENGINEERING,M,190505
+Mohit  Kumar,mohitdbg@iitk.ac.in,CHEMICAL ENGG.,M,190506
+Mohit Makarand Kulkarni,mohitmk@iitk.ac.in,MATHEMATICS,M,190507
+Mohit  Sharma,mohitms@iitk.ac.in,MECHANICAL ENGINEERING,M,190508
+Mohit  Yadav,myadav@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190509
+Moin  Ahmed,moinahmd@iitk.ac.in,ELECTRICAL ENGG.,M,190510
+Varshith Raj Moora,varshith@iitk.ac.in,AEROSPACE ENGG.,M,190511
+Mridul  Dubey,mriduldu@iitk.ac.in,MECHANICAL ENGINEERING,M,190512
+Mridul  Khare,mridulk@iitk.ac.in,CIVIL ENGG.,M,190513
+Mrunmayee  Shiledar,mrunmaye@iitk.ac.in,ELECTRICAL ENGG.,F,190514
+Ms. Sonam Saini,sonams@iitk.ac.in,CIVIL ENGG.,F,190515
+Mubashshir  Uddin,muddin@iitk.ac.in,PHYSICS,M,190516
+Mudavath Girish Chandra,girishm@iitk.ac.in,CHEMISTRY,M,190517
+Mukesh  Kumar,mkgoyal@iitk.ac.in,MECHANICAL ENGINEERING,M,190518
+Munish  Gupta,munish@iitk.ac.in,MECHANICAL ENGINEERING,M,190519
+Muskan,muskango@iitk.ac.in,ELECTRICAL ENGG.,F,190520
+N  Bhuvan,nbhuvan@iitk.ac.in,ELECTRICAL ENGG.,M,190521
+Naivedya Neeraj Amarnani,naivedya@iitk.ac.in,MATHEMATICS,M,190522
+Naiza  Singla,naiza@iitk.ac.in,ELECTRICAL ENGG.,F,190523
+Nakul  Jindal,nakulj@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190524
+Nakula  Neeraje,nakula@iitk.ac.in,ELECTRICAL ENGG.,M,190525
+Naman  Chhaparia,namanac@iitk.ac.in,MATHEMATICS,M,190526
+Naman  Gupta,namangup@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190527
+Namgyal Lhamo Dolma,namgyal@iitk.ac.in,ECONOMICS,F,190528
+Namratesh  Shukla,nshukla@iitk.ac.in,EARTH SCIENCES,M,190529
+Nand Kishor Loyal,nkloyal@iitk.ac.in,EARTH SCIENCES,M,190530
+Nandini  Shahi,nandinis@iitk.ac.in,EARTH SCIENCES,F,190531
+Nandni  Sinha,snandni@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190532
+Narender Kumar Dhaka,narender@iitk.ac.in,CIVIL ENGG.,M,190533
+Naveen  Byadwal,nbyadwal@iitk.ac.in,CHEMICAL ENGG.,M,190534
+Naveen Kumar Mathur,naveenkm@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190535
+Naveenkumar  V,naveenk@iitk.ac.in,ELECTRICAL ENGG.,M,190536
+Navshruti  Singh,nshruti@iitk.ac.in,CIVIL ENGG.,F,190537
+Neelabh  Singhania,neel@iitk.ac.in,ELECTRICAL ENGG.,M,190538
+Neeraj  Kishore,nerajkns@iitk.ac.in,MECHANICAL ENGINEERING,M,190540
+Neeraj Kumar Kaushal,kaushal@iitk.ac.in,CIVIL ENGG.,M,190541
+Neeraj Pratap Singh,nprataps@iitk.ac.in,EARTH SCIENCES,M,190542
+Neeraj  Swami,neerajs@iitk.ac.in,MATHEMATICS,M,190543
+Neha  Gupta,negup@iitk.ac.in,ECONOMICS,F,190544
+Nibir  Baruah,nibir@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190545
+Nidhi,nidhik@iitk.ac.in,CIVIL ENGG.,F,190546
+Niket  Jain,nikejain@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190547
+Nikhil Kumar Singh,nikhilks@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190548
+Nikhil  Mehta,nikhilme@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190549
+Nikhil  Mishra,nmishra@iitk.ac.in,CIVIL ENGG.,M,190550
+Nikhil Murlidhar Karamchandani,nikhilk@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190551
+Nikhil  Raj,rnikhil@iitk.ac.in,ECONOMICS,M,190552
+Nikita  Chauhan,nikitach@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190553
+Nikunj  Mundhra,nikm@iitk.ac.in,CHEMISTRY,M,190554
+Nilay  Beniwal,nilayb@iitk.ac.in,MATHEMATICS,M,190555
+Nirbhi  Pareek,nirbhi@iitk.ac.in,ELECTRICAL ENGG.,F,190556
+Nirmal  Agarwal,nirmalag@iitk.ac.in,MATHEMATICS,M,190557
+Shruti Raju Nisal,shrutin@iitk.ac.in,ELECTRICAL ENGG.,F,190558
+Nishant  Jain,nishanj@iitk.ac.in,EARTH SCIENCES,M,190559
+Nishant  Meena,mnishant@iitk.ac.in,CHEMICAL ENGG.,M,190560
+Nishant  Trivedi,nishantt@iitk.ac.in,MATHEMATICS,M,190561
+Nishima  Panwar,niship@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190562
+Nitesh  Kumar,niteshk@iitk.ac.in,ELECTRICAL ENGG.,M,190563
+Nitesh  Meena,nmeena@iitk.ac.in,CHEMICAL ENGG.,M,190564
+Nitesh  Pandey,nitpan@iitk.ac.in,CHEMICAL ENGG.,M,190565
+Nitika  Singhvi,nitkitas@iitk.ac.in,ELECTRICAL ENGG.,F,190566
+Nitin  Gupta,niting@iitk.ac.in,ELECTRICAL ENGG.,M,190567
+Nitin  Jangir,nitinjr@iitk.ac.in,CIVIL ENGG.,M,190568
+Nitin  Kumar,nitinkum@iitk.ac.in,ELECTRICAL ENGG.,M,190569
+Nitin Kumar Jarwal,nitinkj@iitk.ac.in,CIVIL ENGG.,M,190570
+Nitin Kumar Malhotra,nitinkm@iitk.ac.in,AEROSPACE ENGG.,M,190571
+Nitin  Patil,nitinp@iitk.ac.in,CIVIL ENGG.,M,190572
+Nitish Kumar (J M Seth)),nitishk@iitk.ac.in,ELECTRICAL ENGG.,M,190573
+Nitish Kumar (S Kumar),nkyadav@iitk.ac.in,MECHANICAL ENGINEERING,M,190574
+Nivedan Neeraj Amarnani,nivedan@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190575
+Nupur  Jain,nupurj@iitk.ac.in,MATHEMATICS,F,190576
+P Praveen Kumar,ppraveen@iitk.ac.in,ELECTRICAL ENGG.,M,190577
+P S Priti Sudha,pssudha@iitk.ac.in,MATHEMATICS,F,190578
+Padam  Sharma,padams@iitk.ac.in,CIVIL ENGG.,M,190579
+Padmaja Vikas Chavan,padmaja@iitk.ac.in,CHEMISTRY,F,190580
+Pakshal  Secretry,pakshal@iitk.ac.in,ECONOMICS,M,190581
+Palak  Khandelwal,palakk@iitk.ac.in,CIVIL ENGG.,F,190582
+Palak  Shah,palak@iitk.ac.in,CIVIL ENGG.,F,190583
+Pallepogu  Ericlim,eric@iitk.ac.in,CIVIL ENGG.,M,190584
+Pankaj  Bairwa,pankajmb@iitk.ac.in,CIVIL ENGG.,M,190585
+Panshul  Rastogi,panshul@iitk.ac.in,ECONOMICS,M,190586
+Paras Dev Prasad,parasdp@iitk.ac.in,PHYSICS,M,190587
+Parikshit  Ghosh,paghosh@iitk.ac.in,CHEMICAL ENGG.,M,190588
+Parth  Bhardwaj,parthb@iitk.ac.in,AEROSPACE ENGG.,M,190589
+Parth  Kamal,parthkug@iitk.ac.in,MECHANICAL ENGINEERING,M,190590
+Parth Sandip Patil,parthp@iitk.ac.in,MECHANICAL ENGINEERING,M,190591
+Parth  Srivastava,parthsri@iitk.ac.in,CIVIL ENGG.,M,190592
+Patil Aditya Bharat,adip@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190593
+Patil Ritika Vitthal,ritikap@iitk.ac.in,CHEMICAL ENGG.,F,190594
+Pavan  Meena,mepavan@iitk.ac.in,CIVIL ENGG.,M,190595
+Pawan  Kumar,pawankr@iitk.ac.in,ELECTRICAL ENGG.,M,190596
+Peri Sai Satvik,pssatvik@iitk.ac.in,ELECTRICAL ENGG.,M,190597
+Phalak Chinmayee Vikas,phalak@iitk.ac.in,ELECTRICAL ENGG.,F,190598
+Pintu  Behera,pintu@iitk.ac.in,CHEMICAL ENGG.,M,190599
+Piyush  Agarwal,piyuagr@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190600
+Piyush  Kumar,piyushk@iitk.ac.in,ELECTRICAL ENGG.,M,190601
+Piyush  Tiwari,piyushtr@iitk.ac.in,ELECTRICAL ENGG.,M,190602
+Podilapu Nootana Lakshmi,nootana@iitk.ac.in,ECONOMICS,F,190603
+Poluri Bhakthi Reddy,bhakthi@iitk.ac.in,CIVIL ENGG.,F,190604
+Pooja  Choudhary,poojach@iitk.ac.in,ELECTRICAL ENGG.,F,190605
+Pooja  Saini,poojasn@iitk.ac.in,MATHEMATICS,F,190606
+Prabudh Vaibhav Gautam,prabudh@iitk.ac.in,ECONOMICS,M,190607
+Prachi  Gupta,prachig@iitk.ac.in,AEROSPACE ENGG.,F,190608
+Prachi  Priya,prachi@iitk.ac.in,EARTH SCIENCES,F,190609
+Prachi  Singh,prachisg@iitk.ac.in,MECHANICAL ENGINEERING,F,190610
+Praful Samadhan Mane,prafulsm@iitk.ac.in,CHEMICAL ENGG.,M,190611
+Pragati  Singh,spragati@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190612
+Prajwal  Arya,prajwala@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190613
+Prajwal Sanjay Khobre,prajwalk@iitk.ac.in,AEROSPACE ENGG.,M,190614
+Prakarsh  Agrawal,prakarsh@iitk.ac.in,CIVIL ENGG.,M,190615
+Prakhar  Maheshwari,prakharm@iitk.ac.in,ELECTRICAL ENGG.,M,190616
+Prakhar  Mishra,prakhst@iitk.ac.in,MECHANICAL ENGINEERING,M,190617
+Prakhar  Pradhan,prakharp@iitk.ac.in,CIVIL ENGG.,M,190618
+Prakriti  Singh,prakriti@iitk.ac.in,PHYSICS,F,190619
+Pranab  Pandey,pranabp@iitk.ac.in,AEROSPACE ENGG.,M,190620
+Pranav  Kumar,pranavkr@iitk.ac.in,ELECTRICAL ENGG.,M,190621
+Pranav  Singh,pransing@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190622
+Pranay  Agarwal,pranayag@iitk.ac.in,MATHEMATICS,M,190623
+Pranjal  Khatri,pranjalr@iitk.ac.in,EARTH SCIENCES,M,190624
+Pranjal  Praneel,praneel@iitk.ac.in,PHYSICS,M,190625
+Pranjal Pratap Dubey,dpratap@iitk.ac.in,EARTH SCIENCES,M,190626
+Pranjal  Sharma,spranjal@iitk.ac.in,ECONOMICS,M,190627
+Pranjal  Singh,pranjala@iitk.ac.in,CHEMICAL ENGG.,M,190628
+Pranshu  Singhal,psinghal@iitk.ac.in,MECHANICAL ENGINEERING,M,190629
+Prarabdh  Dar,prarabdh@iitk.ac.in,ECONOMICS,M,190630
+Prashant  Verma,pvverma@iitk.ac.in,CHEMICAL ENGG.,M,190631
+Pratap  Singh,avpratap@iitk.ac.in,CHEMICAL ENGG.,M,190632
+Prateek  Gupta,pratekg@iitk.ac.in,MECHANICAL ENGINEERING,M,190633
+Prateek  Jain,prateekj@iitk.ac.in,ELECTRICAL ENGG.,M,190634
+Prateek  Pandey,prateekp@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190635
+Prateesh  Awasthi,prateesh@iitk.ac.in,MECHANICAL ENGINEERING,M,190636
+Prathmesh Singh Dhakad,psdhakad@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190637
+Pratik Rajendra Tidke,pratikt@iitk.ac.in,ELECTRICAL ENGG.,M,190638
+Pratikhya  Ranjit,pranjit@iitk.ac.in,ELECTRICAL ENGG.,F,190639
+Pratyush  Baiplawat,pratyusk@iitk.ac.in,CIVIL ENGG.,M,190640
+Pratyush  Ranjan,pranjan@iitk.ac.in,CIVIL ENGG.,M,190641
+Praveen  Prabhat,pprav@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190642
+Pravesh  Kumar,pravesh@iitk.ac.in,CIVIL ENGG.,M,190643
+Preeti  Kumari,preetik@iitk.ac.in,ELECTRICAL ENGG.,F,190644
+Prince  Kumar,princkum@iitk.ac.in,MECHANICAL ENGINEERING,M,190645
+Prince Kumar Ahirwar,pprince@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190646
+Prince  Raj,prince@iitk.ac.in,CHEMICAL ENGG.,M,190647
+Priyal  Pathak,priyal@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190648
+Priyanka  Jalan,prianka@iitk.ac.in,CHEMICAL ENGG.,F,190649
+Priyanshu Bhusan Mohapatra,pbhusan@iitk.ac.in,ELECTRICAL ENGG.,M,190650
+Priyanshu  Kumar,priykr@iitk.ac.in,CIVIL ENGG.,M,190651
+Priyanshu  Yadav,pryadav@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190652
+Protyaydeep  Shee,protyay@iitk.ac.in,CHEMISTRY,M,190653
+Purushottam,shottam@iitk.ac.in,CHEMICAL ENGG.,M,190655
+Pushpanshu  Tripathi,pushpans@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190656
+Pyla Venkata Sri Lekha,srilekha@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190657
+Raghav Prakash Agarwal,raghav@iitk.ac.in,CHEMICAL ENGG.,M,190659
+Raghavan  Gopalan,raghavg@iitk.ac.in,PHYSICS,M,190660
+Raghib  Anwar,raghib@iitk.ac.in,ELECTRICAL ENGG.,M,190661
+Rahul,rahull@iitk.ac.in,EARTH SCIENCES,M,190662
+Rahul  Godara,rahulgo@iitk.ac.in,AEROSPACE ENGG.,M,190663
+Rahul  Kumar,rahukum@iitk.ac.in,ELECTRICAL ENGG.,M,190664
+Rahul  Narwar,rnarwar@iitk.ac.in,PHYSICS,M,190665
+Rahul  Raj,rajrahul@iitk.ac.in,AEROSPACE ENGG.,M,190666
+Rahul Rathod Kethavathu,rrathod@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190667
+Rahul  Sethi,sethir@iitk.ac.in,MATHEMATICS,M,190668
+Rahul  Sharma,rahulsh@iitk.ac.in,MECHANICAL ENGINEERING,M,190669
+Rahul  Singh,sghrahul@iitk.ac.in,MECHANICAL ENGINEERING,M,190670
+Rahul  Verma,arahulv@iitk.ac.in,MATHEMATICS,M,190671
+Raj  Agarwal,rajagrwl@iitk.ac.in,MECHANICAL ENGINEERING,M,190672
+Raj  Aryan,rajarya@iitk.ac.in,CIVIL ENGG.,M,190673
+Raj Karan Kumar,rajkaran@iitk.ac.in,CIVIL ENGG.,M,190674
+Raj Kumar Yadav,rjkryv@iitk.ac.in,CIVIL ENGG.,M,190675
+Rajat  Goyal,goyalr@iitk.ac.in,MATHEMATICS,M,190676
+Rajat  Narnauli,narnauli@iitk.ac.in,ELECTRICAL ENGG.,M,190677
+Rajat  Singh,rajats@iitk.ac.in,CHEMISTRY,M,190678
+Rajeev  Nathani,rajeevrk@iitk.ac.in,CHEMICAL ENGG.,M,190679
+Rajeev  Ranjan,rajevran@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190680
+Rajit  Das,rajitdas@iitk.ac.in,EARTH SCIENCES,M,190681
+Raju  Singh,rajusing@iitk.ac.in,CHEMICAL ENGG.,M,190682
+Rakesh  Gurjar,rakeshgj@iitk.ac.in,CHEMICAL ENGG.,M,190683
+Rakesh  Tetarwal,tetarwal@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190684
+Ramavath  Kalyan,kalyanrk@iitk.ac.in,EARTH SCIENCES,M,190685
+Ramdas  Tiwari,rtiwari@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190686
+Ramraj  Meena,rajmeena@iitk.ac.in,ELECTRICAL ENGG.,M,190687
+Randhir  Kumar,randhir@iitk.ac.in,CHEMICAL ENGG.,M,190688
+Ranjeet Singh Meena,ranjit@iitk.ac.in,ELECTRICAL ENGG.,M,190689
+Rashi  Gupta,grashi@iitk.ac.in,MECHANICAL ENGINEERING,F,190690
+Ratnesh  Kushwaha,ratkush@iitk.ac.in,CHEMICAL ENGG.,M,190691
+Reetika  Tayal,reetika@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190692
+Rhythm  Chouksey,crhythm@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190693
+Ridham  Jain,ridham@iitk.ac.in,CHEMICAL ENGG.,M,190694
+Ridhul  Sambod,ridsam@iitk.ac.in,EARTH SCIENCES,M,190695
+Rihanshu  Verma,rihanshu@iitk.ac.in,CIVIL ENGG.,M,190696
+Rinku  Jakhar,rjjakhar@iitk.ac.in,MECHANICAL ENGINEERING,F,190697
+Rishabh  Arora,risharo@iitk.ac.in,CIVIL ENGG.,M,190698
+Rishabh Bhavesh Shah,rishabhs@iitk.ac.in,AEROSPACE ENGG.,M,190699
+Rishabh  Chaudhary,rishch@iitk.ac.in,CHEMICAL ENGG.,M,190700
+Rishabh  Dugaye,rishabhd@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190701
+Rishabh  Katiyar,rkatiyar@iitk.ac.in,ELECTRICAL ENGG.,M,190702
+Rishabh  Kaushik,kaushikr@iitk.ac.in,AEROSPACE ENGG.,M,190703
+Rishabh  Mukati,rishmuka@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190704
+Rishi  Patle,rpatle@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190705
+Rishi  Prakash,rishipr@iitk.ac.in,ECONOMICS,M,190706
+Rishi  Verma,rishiver@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190707
+Rishika  Saraswat,rishika@iitk.ac.in,AEROSPACE ENGG.,F,190708
+Ritik  Bansal,ritikb@iitk.ac.in,ELECTRICAL ENGG.,M,190709
+Ritu  Kumar,ritukr@iitk.ac.in,ELECTRICAL ENGG.,M,190710
+Riya  Bhalla,briya@iitk.ac.in,CHEMICAL ENGG.,F,190711
+Riya  Sahu,riyasahu@iitk.ac.in,ELECTRICAL ENGG.,F,190712
+Riya  Verma,riyav@iitk.ac.in,CIVIL ENGG.,F,190713
+Rohan  Baijal,rbaijal@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190714
+Rohan  Kumar,rohankj@iitk.ac.in,CIVIL ENGG.,M,190715
+Rohan Pratap Singh,rohanps@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190716
+Rohit  Kejriwal,rohitkej@iitk.ac.in,MATHEMATICS,M,190717
+Rohit  Kumar,kmrrohit@iitk.ac.in,ELECTRICAL ENGG.,M,190718
+Rohit  Sharma,rohitsh@iitk.ac.in,CIVIL ENGG.,M,190719
+Romit  Mohanty,romit@iitk.ac.in,ELECTRICAL ENGG.,M,190720
+Roushan  Prakash,roushan@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190721
+Ruchika  Waskle,ruchikaa@iitk.ac.in,ELECTRICAL ENGG.,F,190722
+Rupeswar  Meher,rmeher@iitk.ac.in,CHEMICAL ENGG.,M,190723
+S T Shri Sathan,sathan@iitk.ac.in,PHYSICS,M,190725
+S.Shruthi,shruthi@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190726
+Saad  Ahmad,ahmsaad@iitk.ac.in,MECHANICAL ENGINEERING,M,190727
+Saankulp  Jain,saankulp@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190728
+Saaransh  Aggarwal,saaragg@iitk.ac.in,ELECTRICAL ENGG.,M,190729
+Sachin (Raju Prasad),rsachin@iitk.ac.in,ELECTRICAL ENGG.,M,190730
+Sachin (Ram Singh),sachindd@iitk.ac.in,MECHANICAL ENGINEERING,M,190731
+Sachin  Kumar,kumarsa@iitk.ac.in,AEROSPACE ENGG.,M,190732
+Sachin  Kuntal,ksachin@iitk.ac.in,ELECTRICAL ENGG.,M,190733
+Sachin  Meena,msachin@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190734
+Sagar  Agrawal,sagarag@iitk.ac.in,MATHEMATICS,M,190735
+Sagarima  Datta,sadatta@iitk.ac.in,MECHANICAL ENGINEERING,F,190736
+Sahil,malsahil@iitk.ac.in,MECHANICAL ENGINEERING,M,190737
+Sahil  Maurya,sahilm@iitk.ac.in,ELECTRICAL ENGG.,M,190738
+Saket  Dhakar,saketd@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190739
+Saksham  Goyal,sakshamg@iitk.ac.in,CIVIL ENGG.,M,190740
+Saksham  Gupta,gsaksham@iitk.ac.in,MECHANICAL ENGINEERING,M,190741
+Saksham  Mehra,saksham@iitk.ac.in,MECHANICAL ENGINEERING,M,190742
+Saksham  Pruthi,sakshamp@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190743
+Sakshi  Gautam,sakshiga@iitk.ac.in,CHEMICAL ENGG.,F,190744
+Sakshi Shashank Pachghare,sakshipa@iitk.ac.in,MATHEMATICS,F,190745
+Saloni  Dabgar,salonid@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190746
+Samanvay  Lakhotia,samanvay@iitk.ac.in,CHEMICAL ENGG.,M,190747
+Samarth  Choudhary,samc@iitk.ac.in,ELECTRICAL ENGG.,M,190748
+Samarth  Sachan,ssamarth@iitk.ac.in,MECHANICAL ENGINEERING,M,190749
+Samiksha  Jaiswal,sami@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190750
+Samir  Kumar,samirkr@iitk.ac.in,ELECTRICAL ENGG.,M,190751
+Samriddhi  Gupta,smgupta@iitk.ac.in,CHEMICAL ENGG.,F,190752
+Sanchit  Sinha,sanchits@iitk.ac.in,ELECTRICAL ENGG.,M,190753
+Sandeep  Gautam,gautams@iitk.ac.in,ECONOMICS,M,190754
+Sandipan  Mitra,sandipan@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190755
+Sanidhya  Rathore,srathore@iitk.ac.in,ELECTRICAL ENGG.,M,190756
+Sanjana  Kanaparthi,sanjana@iitk.ac.in,ELECTRICAL ENGG.,F,190757
+Sanjay  Pander,sjpander@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190758
+Sanjay  Sukumaran,sanjayso@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190759
+Sanket Dhananjay Kale,sanketk@iitk.ac.in,CHEMICAL ENGG.,M,190760
+Sanskar  Garg,gsanskar@iitk.ac.in,PHYSICS,M,190761
+Sanskar  Mittal,sanskarm@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190762
+Sanskar Sanjay Shah,sanskars@iitk.ac.in,CIVIL ENGG.,M,190763
+Sanyog  Gupta,sanyog@iitk.ac.in,ECONOMICS,M,190764
+Sanyukta  Agarwal,sanyukta@iitk.ac.in,PHYSICS,F,190765
+Sarabada Mrinalini Sai,mrinalin@iitk.ac.in,MATHEMATICS,F,190766
+Saral  Verma,svsaral@iitk.ac.in,CIVIL ENGG.,M,190767
+Saranya  Satheesh,saranyas@iitk.ac.in,AEROSPACE ENGG.,F,190768
+Sarthak  Gothalyan,gsarthak@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190769
+Sarthak  Gupta,sarthakg@iitk.ac.in,CHEMICAL ENGG.,M,190770
+Sarthak  Ponia,sarponia@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190771
+Sarthak  Rout,sarthakr@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190772
+Sarvesh  Chandra,csarvesh@iitk.ac.in,ELECTRICAL ENGG.,M,190773
+Satendra Singh Kushwah,kushwahs@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190774
+Satwik Chand Saroj,satwikup@iitk.ac.in,ELECTRICAL ENGG.,M,190775
+Satyam  Sourav,rsatyam@iitk.ac.in,MECHANICAL ENGINEERING,M,190776
+Satyendra  Kumar,satyakr@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190777
+Saumya  Dabi,saumdabi@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190778
+Saumya  Sehgal,ssehgal@iitk.ac.in,CHEMICAL ENGG.,F,190779
+Saurabh Kumar ( S K Sinha),sksinha@iitk.ac.in,CHEMICAL ENGG.,M,190780
+Saurabh  Kumar,saurab@iitk.ac.in,CIVIL ENGG.,M,190781
+Saurabh Kumar Meena,saurabhm@iitk.ac.in,CIVIL ENGG.,M,190782
+Saurav Kumar (R Singh),sauraj@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190783
+Saurav Kumar ( J Lal),sauravku@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190784
+Saurav Kumar (U Paswan),saurav@iitk.ac.in,MECHANICAL ENGINEERING,M,190785
+Saurav  Suman,ssumans@iitk.ac.in,PHYSICS,M,190786
+Saurav  Thacker,sauravt@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190787
+Sayak  Bhattacharjee,sayakb@iitk.ac.in,PHYSICS,M,190788
+Shakshi,shakshi@iitk.ac.in,MECHANICAL ENGINEERING,F,190789
+Shalvin  Saksena,shalvin@iitk.ac.in,CHEMISTRY,M,190790
+Shantanu S Thakur,sthakur@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190792
+Sharmin  Ansar,sharmin@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190793
+Shashank  Katiyar,shashkat@iitk.ac.in,EARTH SCIENCES,M,190794
+Shashank  Wankhade,wankhade@iitk.ac.in,ELECTRICAL ENGG.,M,190795
+Shashikala  Patel,vkshashi@iitk.ac.in,CHEMICAL ENGG.,F,190796
+Shashwat  Agarwal,shashag@iitk.ac.in,MECHANICAL ENGINEERING,M,190797
+Shaunak  Kaushik,shaunakk@iitk.ac.in,CHEMICAL ENGG.,M,190798
+Sheikh Shefnaan Fahad,fahadshk@iitk.ac.in,AEROSPACE ENGG.,M,190799
+Shelke Harsh Maruti,shelke@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190800
+Sheth Harshiv Rakeshkumar,harshiv@iitk.ac.in,AEROSPACE ENGG.,M,190801
+Ankit Jagdish Shinde,ankits@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190802
+Shiv Pal Yadav,shivpalk@iitk.ac.in,CHEMISTRY,M,190803
+Shivam  Agarwal,shivamag@iitk.ac.in,CHEMISTRY,M,190804
+Shivam  Goel,shivamg@iitk.ac.in,MECHANICAL ENGINEERING,M,190805
+Shivam  Kumar,kumarsh@iitk.ac.in,CHEMISTRY,M,190807
+Shivam  Malhotra,mshivam@iitk.ac.in,ELECTRICAL ENGG.,M,190808
+Shivam  Shivanshu,shivamsi@iitk.ac.in,ELECTRICAL ENGG.,M,190809
+Shivamshree  Gupta,shvmshri@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190810
+Shivangi  Srivastava,ssrivas@iitk.ac.in,MATERIALS SCIENCE & ENGG.,F,190811
+Shivani  Chaudhary,shivanic@iitk.ac.in,MATHEMATICS,F,190812
+Shivani  Guntaka,shivani@iitk.ac.in,CHEMISTRY,F,190813
+Shivanshu  Tyagi,shivty@iitk.ac.in,CHEMISTRY,M,190814
+Shivanshu  Yadav,shivay@iitk.ac.in,CHEMICAL ENGG.,M,190815
+Shiven  Tripathi,shiven@iitk.ac.in,ELECTRICAL ENGG.,M,190816
+Shobhit  Singh,shobhit@iitk.ac.in,EARTH SCIENCES,M,190817
+Shorya  Kumar,shoryak@iitk.ac.in,ELECTRICAL ENGG.,M,190818
+Shrayansh  Jakar,shray@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190819
+Shresth  Grover,shrgo@iitk.ac.in,AEROSPACE ENGG.,M,190820
+Shreya  Bhiwaniya,shreyaya@iitk.ac.in,MECHANICAL ENGINEERING,F,190821
+Shreya  Vaish,vaishrey@iitk.ac.in,CIVIL ENGG.,F,190822
+Shreyanil  Bhuyan,bhuyan@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190823
+Shreyasi  Prasad,shreyap@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190824
+Shrinivas  Sontakke,shri@iitk.ac.in,ELECTRICAL ENGG.,M,190826
+Shriyans  Thakur,shriyans@iitk.ac.in,CHEMICAL ENGG.,M,190827
+Shubh  Agrawal,agshubh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190828
+Shubham,shubhsha@iitk.ac.in,CIVIL ENGG.,M,190829
+Shubham  Indoliya,shubhind@iitk.ac.in,ECONOMICS,M,190830
+Shubham  Jangid,shubja@iitk.ac.in,CHEMISTRY,M,190831
+Shubham  Kumawat,kumawats@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190833
+Shubham Sanjay Korde,sskorde@iitk.ac.in,ELECTRICAL ENGG.,M,190834
+Shubhankar  Gambhir,shbkgmbr@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190835
+Shubhi  Kant,shubhka@iitk.ac.in,CIVIL ENGG.,F,190836
+Shubhi  Kesarwani,shubhike@iitk.ac.in,CIVIL ENGG.,F,190837
+Siddharth  Gupta,siddgupt@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190838
+Siddharth Kumar Pandey,siddhkp@iitk.ac.in,ECONOMICS,M,190839
+Siddharth Kumar Singh,sksingh@iitk.ac.in,ECONOMICS,M,190840
+Siddharth  Mishra,sidmish@iitk.ac.in,EARTH SCIENCES,M,190841
+Siddhartha Pratap Singh,sidps@iitk.ac.in,CHEMISTRY,M,190842
+Sidhartha  Watsa,sidwat@iitk.ac.in,MECHANICAL ENGINEERING,M,190843
+Singini  Sowmya,singini@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190844
+Snehil  Srivastava,snsri@iitk.ac.in,ELECTRICAL ENGG.,M,190845
+Sohum  Rajdev,sohum@iitk.ac.in,ECONOMICS,M,190846
+Som Vishwas Tambe,somvt@iitk.ac.in,AEROSPACE ENGG.,M,190847
+Somya  Lohani,somyaloh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190848
+Sonali  Gupta,gsonali@iitk.ac.in,CIVIL ENGG.,F,190849
+Sonam  Meena,sonamm@iitk.ac.in,CIVIL ENGG.,F,190850
+Soni  Kumari,ksoni@iitk.ac.in,CHEMICAL ENGG.,F,190851
+Sonu  Keshri,sonu@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190852
+Soumyadeep  Saha,saha@iitk.ac.in,PHYSICS,M,190853
+Sourabh  Mundhra,msourabh@iitk.ac.in,CHEMICAL ENGG.,M,190854
+Sourabh  Rai,sourabhr@iitk.ac.in,ELECTRICAL ENGG.,M,190855
+Sourav  Agrawal,sourava@iitk.ac.in,CIVIL ENGG.,M,190856
+Sourav  Dhaniya,souravdh@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190857
+Sparsh  Chitransh,sparsh@iitk.ac.in,CHEMICAL ENGG.,M,190858
+Sparsh  Neema,sparshn@iitk.ac.in,ECONOMICS,M,190859
+Sparsh  Sihotiya,sparshs@iitk.ac.in,CIVIL ENGG.,M,190860
+Sparsh  Singhal,ssparsh@iitk.ac.in,CHEMICAL ENGG.,M,190861
+Srajan  Jain,srajan@iitk.ac.in,CIVIL ENGG.,M,190862
+Sree Preetham B,preetham@iitk.ac.in,ELECTRICAL ENGG.,M,190863
+Stanzin  Yangdol,yangdol@iitk.ac.in,MATHEMATICS,F,190864
+Subhash  Nayaka,snayaka@iitk.ac.in,ECONOMICS,M,190865
+Subhrojyoti  Chatterjee,sjyoti@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190866
+Subiksha Shree S,subiksha@iitk.ac.in,ELECTRICAL ENGG.,F,190867
+Sudhir  Bishnoi,sudhirb@iitk.ac.in,ELECTRICAL ENGG.,M,190868
+Sudhir Kumar Patel,sudhirp@iitk.ac.in,CIVIL ENGG.,M,190869
+Suhas  S,suhass@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190870
+Sujal  Singh,sujal@iitk.ac.in,MECHANICAL ENGINEERING,M,190871
+Sulakshna  Mallik,sumallik@iitk.ac.in,EARTH SCIENCES,F,190872
+Sumeet  Gupta,sumeetg@iitk.ac.in,CHEMISTRY,M,190873
+Sumit  Sahu,sumitsh@iitk.ac.in,MATHEMATICS,M,190874
+Sumit Singh Sheoran,sumitss@iitk.ac.in,CIVIL ENGG.,M,190875
+Sunay  Chhajed,sunay@iitk.ac.in,EARTH SCIENCES,M,190876
+Sunil,sunilkmr@iitk.ac.in,ELECTRICAL ENGG.,M,190877
+Sunkesula Sai Deepika,deepikas@iitk.ac.in,ELECTRICAL ENGG.,F,190878
+Sunny Kumar Bhagat,sunny@iitk.ac.in,CHEMICAL ENGG.,M,190879
+Supriya  Shekhar,supriyas@iitk.ac.in,CHEMICAL ENGG.,F,190880
+Suraj  Baranwal,surajgkp@iitk.ac.in,CIVIL ENGG.,M,190881
+Suraj  Prakash,kpssuraj@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190882
+Suresh  Bawari,sureshb@iitk.ac.in,CIVIL ENGG.,M,190883
+Sushant  Saini,sushant@iitk.ac.in,CIVIL ENGG.,M,190884
+Sushil  Bawari,bsushil@iitk.ac.in,ELECTRICAL ENGG.,M,190885
+Suyash  Agrawal,suyag@iitk.ac.in,CHEMICAL ENGG.,M,190886
+Swapnil  Singh,swapsing@iitk.ac.in,ELECTRICAL ENGG.,F,190887
+Swapnil Vibhakar Vaidya,svvaidya@iitk.ac.in,EARTH SCIENCES,M,190888
+T Sai Kiran,kiransai@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190889
+T Shiva Shruthi,shruthis@iitk.ac.in,MECHANICAL ENGINEERING,F,190890
+Tanay Arvind Bavchikar,tbavchi@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190891
+Tanisha  Agrawal,taniagra@iitk.ac.in,ECONOMICS,F,190892
+Tanishka  Agrawal,agltani@iitk.ac.in,MECHANICAL ENGINEERING,F,190893
+Tanishq  Gupta,tanishqg@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190894
+Tanishq Rajesh Chourishi,tanishqc@iitk.ac.in,MECHANICAL ENGINEERING,M,190895
+Taniya  Shaji,taniya@iitk.ac.in,PHYSICS,F,190896
+Tanmay  Gupta,tanmayg@iitk.ac.in,MATHEMATICS,M,190897
+Tanmay  Johri,johrit@iitk.ac.in,MECHANICAL ENGINEERING,M,190898
+Tanya  Arya,tanya@iitk.ac.in,AEROSPACE ENGG.,F,190899
+Tanya  Sinha,tanyaas@iitk.ac.in,AEROSPACE ENGG.,F,190900
+Tarun  Agarwal,tarunag@iitk.ac.in,ELECTRICAL ENGG.,M,190901
+Tarun  Kanodia,taruntk@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190902
+Tarun Kumar Katchh,tkkatchh@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190903
+Tathagat  Patel,tathagat@iitk.ac.in,ECONOMICS,M,190904
+Tej  Prakash,tejp@iitk.ac.in,CHEMICAL ENGG.,M,190905
+Tej  Singh,tejsingh@iitk.ac.in,ECONOMICS,M,190906
+Tejas  Shingte,rnstejas@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190907
+Tejesh  Vaish,tejesh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190908
+Teki Sai Veerabhadra Nikhil,nicktsv@iitk.ac.in,CHEMISTRY,M,190909
+Telang Pranit Purushottam,pptelang@iitk.ac.in,CHEMICAL ENGG.,M,190910
+Prathamesh Ashok Thakare,pthakare@iitk.ac.in,AEROSPACE ENGG.,M,190911
+Titiksha  Upadhyay,titiksha@iitk.ac.in,AEROSPACE ENGG.,F,190912
+Tsering  Youdon,tsering@iitk.ac.in,MATHEMATICS,F,190913
+Tupuru Sri Kanya,srikanya@iitk.ac.in,CHEMICAL ENGG.,F,190914
+Tushar,tusharb@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190915
+Tushar  Kumar,ktushar@iitk.ac.in,MECHANICAL ENGINEERING,M,190916
+Tushar  Sachan,sachtus@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190917
+Tushar  Singla,tusharsi@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190918
+Twinkle  Arora,twinkle@iitk.ac.in,MECHANICAL ENGINEERING,F,190919
+Udit Narayan Pandey,udit@iitk.ac.in,MECHANICAL ENGINEERING,M,190920
+Ujjwal  Agarwal,ujjagar@iitk.ac.in,CHEMISTRY,M,190921
+Uma  Singh,umaas@iitk.ac.in,MECHANICAL ENGINEERING,F,190922
+Atharva Sandip Umbarkar,atharvau@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190923
+Urbi  Ghosh,urbi@iitk.ac.in,COMPUTER SCIENCE & ENGG.,F,190924
+Utkarsh,karshut@iitk.ac.in,CIVIL ENGG.,M,190925
+Utkarsh  Agrawal,utkarshm@iitk.ac.in,ELECTRICAL ENGG.,M,190926
+Utkarsh  Arya,uarya@iitk.ac.in,AEROSPACE ENGG.,M,190927
+Utkarsh  Jain,utkjain@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190928
+Utkarsh  Jha,utjha@iitk.ac.in,ELECTRICAL ENGG.,M,190929
+Utkarsh Singh (Ajit Kumar),utkarshu@iitk.ac.in,ECONOMICS,M,190930
+Utkarsh Singh ( R B Singh),sutkarsh@iitk.ac.in,ELECTRICAL ENGG.,M,190931
+Utkarsh  Verma,utkrsh@iitk.ac.in,CIVIL ENGG.,M,190932
+V Pramodh Gopalan,pramodh@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190933
+Vaibhav  Bajpai,vaibhavb@iitk.ac.in,ELECTRICAL ENGG.,M,190934
+Vaibhav Singh Dhruwanshi,vaibsd@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190935
+Vaishnavi  Gupta,guptav@iitk.ac.in,CHEMICAL ENGG.,F,190936
+Vaishnavi  Saini,vaishu@iitk.ac.in,PHYSICS,F,190937
+Vallem  Prajwal,prajwalv@iitk.ac.in,AEROSPACE ENGG.,M,190938
+Vandanapu  Pranay,vpranay@iitk.ac.in,ELECTRICAL ENGG.,M,190939
+Vangala Krishna Sai,vksai@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190940
+Vansh  Bansal,vanshb@iitk.ac.in,COMPUTER SCIENCE & ENGG.,M,190941
+Vardhaman  Jain,vardhuj@iitk.ac.in,AEROSPACE ENGG.,M,190942
+Varenya  Srivastava,varenya@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190943
+Varsha  Mina,varsham@iitk.ac.in,CIVIL ENGG.,F,190944
+Varun Dev Laskotra,vdev@iitk.ac.in,ELECTRICAL ENGG.,M,190945
+Varun  Khatri,varunk@iitk.ac.in,CHEMICAL ENGG.,M,190946
+Varun  Muralidharan,varunmu@iitk.ac.in,PHYSICS,M,190947
+Varun  Singh,varunsng@iitk.ac.in,CHEMICAL ENGG.,M,190948
+Varun  Soni,svarun@iitk.ac.in,ELECTRICAL ENGG.,M,190949
+Vasundhara  Rai,vasurai@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,F,190950
+Vatsal  Chaudhary,vatsalc@iitk.ac.in,EARTH SCIENCES,M,190951
+Vatsal  Karwa,vatsalk@iitk.ac.in,CHEMICAL ENGG.,M,190952
+Vatsalya  Singh,vatsalrg@iitk.ac.in,CHEMISTRY,M,190953
+Ved Vitthal Shukla,vvshukla@iitk.ac.in,AEROSPACE ENGG.,M,190954
+Vedang  Tiwari,vedangt@iitk.ac.in,MECHANICAL ENGINEERING,M,190955
+Vedanshu  Sehra,vedanshu@iitk.ac.in,ELECTRICAL ENGG.,M,190956
+Vedit  Kumawat,vedit@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190957
+Veer Bhadra Yadav,veerby@iitk.ac.in,MECHANICAL ENGINEERING,M,190958
+Videeta  Sharma,videeta@iitk.ac.in,ELECTRICAL ENGG.,F,190959
+Videh  Aggarwal,videhag@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190960
+Vijay  Fagaria,vfagaria@iitk.ac.in,ECONOMICS,M,190961
+Vijay Kumar Chauhan,vijaykc@iitk.ac.in,CIVIL ENGG.,M,190962
+Vijay Kumar Maurya,vijaykm@iitk.ac.in,CIVIL ENGG.,M,190963
+Vikas  Khangar,vkhangar@iitk.ac.in,CIVIL ENGG.,M,190964
+Vikas  Kumar,vikaskr@iitk.ac.in,ELECTRICAL ENGG.,M,190965
+Vikash  Meghwal,mevikash@iitk.ac.in,CHEMISTRY,M,190966
+Vikram  Meena,meenaji@iitk.ac.in,MECHANICAL ENGINEERING,M,190967
+Vinamra  Shrivastava,vinamra@iitk.ac.in,ELECTRICAL ENGG.,M,190968
+Vinayak  Lal,vnyklal@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190969
+Vinayak  Shukla,svinayak@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190970
+Vineet,vinet@iitk.ac.in,ELECTRICAL ENGG.,M,190971
+Vineet  Bindal,vineetbi@iitk.ac.in,MECHANICAL ENGINEERING,M,190972
+Vineet  Yadav,vineety@iitk.ac.in,CIVIL ENGG.,M,190973
+Vinoba  Pandey,vinobap@iitk.ac.in,MECHANICAL ENGINEERING,M,190974
+Vipin  Jain,vipinj@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190975
+Viplav  Patel,viplavp@iitk.ac.in,CHEMICAL ENGG.,M,190976
+Virendra Singh Meena,mviren@iitk.ac.in,MECHANICAL ENGINEERING,M,190977
+Virendra  Sonkaria,sonkaria@iitk.ac.in,CIVIL ENGG.,M,190978
+Vishabh  Verma,vishabh@iitk.ac.in,CHEMICAL ENGG.,M,190979
+Vishal  Meena,vishalch@iitk.ac.in,CHEMISTRY,M,190980
+Vishal  Yadav,visyad@iitk.ac.in,MECHANICAL ENGINEERING,M,190981
+Vishrant Chirag Dave,vishrant@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190982
+Vishwaraj  Singh,vrsingh@iitk.ac.in,CHEMICAL ENGG.,M,190983
+Visvesh  Subramani,visvesh@iitk.ac.in,ELECTRICAL ENGG.,M,190984
+Vivek  Jorewal,vivekjel@iitk.ac.in,ELECTRICAL ENGG.,M,190985
+Vivek  Kumar,viveksun@iitk.ac.in,EARTH SCIENCES,M,190986
+Vivek Kumar Rajoriya,rvivek@iitk.ac.in,PHYSICS,M,190987
+Vivek Kumar Singh,vksingh@iitk.ac.in,MATHEMATICS,M,190988
+Vivek  Raj,rajviv@iitk.ac.in,CHEMISTRY,M,190989
+Vivek Singh Rajawat,vrajawat@iitk.ac.in,CIVIL ENGG.,M,190990
+Vrahant  Nagoria,vrahant@iitk.ac.in,CHEMICAL ENGG.,M,190991
+Warungase Rutuj Balasaheb,rutujw@iitk.ac.in,ECONOMICS,M,190992
+Aman Muratlal Yadav,amyadav@iitk.ac.in,ELECTRICAL ENGG.,M,190993
+Yash  Agrawal,yashag@iitk.ac.in,MATERIALS SCIENCE & ENGG.,M,190994
+Yash  Burnwal,byash@iitk.ac.in,MATHEMATICS,M,190995
+Yash  Choudhary,yashchd@iitk.ac.in,BIOL.SCI. AND BIO.ENGG.,M,190996
+Yash Gupta (P Gupta),yashbg@iitk.ac.in,ECONOMICS,M,190997
+Yash Gupta (U C Gupta),gyash@iitk.ac.in,MATHEMATICS,M,190998
+Yash  Laddha,yladdha@iitk.ac.in,CIVIL ENGG.,M,190999
+Yash Vardhan Singh Rathore,yashvsr@iitk.ac.in,EARTH SCIENCES,M,191000
+Shivam  Pal,shivampa@iitk.ac.in,ELECTRICAL ENGG.,M,15807678
