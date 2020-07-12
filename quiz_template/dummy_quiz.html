@@ -3,21 +3,50 @@
 <html>
 <head>
 <title>Unchaai Quiz - Organic Chemistry</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<style type="text/css">
+	
+	@media (max-width: 768px) {
+		.title{
+			font-size: 25px;
+	}
+	.responsive-img{
+		width: 100%;
+		height: 100%;
+	}
+	.text_have{
+		font-size: 25px;
+	}
+	.text_given{
+		font-size: 18px;
+	}
+	.text_ques{
+		font-size: 18px;
+	}
+
+    }
+
+	@media (min-width: 1024px) {
+	  
+	}
+
+	
+</style>
 </head>
 <body>
 <nav>
-<div class="nav-wrapper" style="background-color: #5E50F9;">
+<div class="nav-wrapper" style="background: linear-gradient(45deg, #1de099, #1dc8cd);">
 <a href="#" class="brand-logo">UnchaAI</a>
 </div>
 </nav>
-<div class="row">
+<div class="row" style="padding: 20px;">
 <div class="col s12 m8 l6 offset-m2 offset-l3">
-<div class="test_title" style="text-align: center">
-<h3>
-Practice Quiz on Acids
+<div class="test_title">
+<h3 class="title">
+JEE Main 2020 Test-Series
 </h3>
 <p><strong>Rule 1</strong>: Please try to do it by your own.</p>
 <p><strong>Rule 2</strong>: Be fully prepared before attempting these questions</p>
@@ -26,7 +55,7 @@ Practice Quiz on Acids
 <form id="question_form" style="margin-top: 50px;">
 
 <div class="question">
-<h5>Question 1</h5>
+<h5 class="text_ques">Question 1</h5>
 <img class="responsive-img" src="Q/1.PNG">
 <p>
 <label>
@@ -59,7 +88,7 @@ Practice Quiz on Acids
 </br></br>
 
 <div class="question">
-<h5>Question 2</h5>
+<h5 class="text_ques">Question 2</h5>
 <img class="responsive-img" src="Q/2.PNG">
 <p>
 <label>
@@ -92,7 +121,7 @@ Practice Quiz on Acids
 </br></br>
 
 <div class="question">
-<h5>Question 3</h5>
+<h5 class="text_ques">Question 3</h5>
 <img class="responsive-img" src="Q/3.PNG">
 <p>
 <label>
@@ -125,7 +154,7 @@ Practice Quiz on Acids
 </br></br>
 
 <div class="question">
-<h5>Question 4</h5>
+<h5 class="text_ques">Question 4</h5>
 <img class="responsive-img" src="Q/4.PNG">
 <p>
 <label>
@@ -158,7 +187,7 @@ Practice Quiz on Acids
 </br></br>
 
 <div class="question">
-<h5>Question 5</h5>
+<h5 class="text_ques">Question 5</h5>
 <img class="responsive-img" src="Q/5.PNG">
 <p>
 <label>
@@ -204,18 +233,18 @@ Practice Quiz on Acids
 </div>
 </div>
 <div class="modal-footer">
-<button class="modal-close btn waves-effect waves-light blue">Cancel</button>
-<button class="btn waves-effect waves-light blue" onclick="evaluate_quiz()">Submit</button>
+<button class="modal-close btn waves-effect waves-light blue" style="background: linear-gradient(45deg, #1de099, #1dc8cd);">Cancel</button>
+<button class="btn waves-effect waves-light blue" style="background: linear-gradient(45deg, #1de099, #1dc8cd);" onclick="evaluate_quiz()">Submit</button>
 </div>
 </div>
 <div id="submit_button" style="text-align: center; margin-top: 30px; margin-bottom: 40px;">
-<button class="btn waves-effect waves-light blue modal-trigger" href="#confirm_submit">Submit Quiz</button>
+<button class="btn waves-effect waves-light blue modal-trigger" href="#confirm_submit" style="background: linear-gradient(45deg, #1de099, #1dc8cd);">Submit Quiz</button>
 </div>
 <div id="quiz_score">
-<h3>You have scored</h3>
+<h3 class="text_have">You have scored</h3>
 <h2 class="score"></h2>
-<h4>in the given quiz!!!</h4>
-<button class="btn waves-effect waves-light" onclick="see_solution()">See Solution</button>
+<h4 class="text_given">in the given quiz!!!</h4>
+<button class="btn waves-effect waves-light" style="background: linear-gradient(45deg, #1de099, #1dc8cd);" onclick="see_solution()">See Solution</button>
 </div>
 <div id="quiz_solution">
 
