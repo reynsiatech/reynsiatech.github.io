@@ -1,4 +1,21 @@
+print("Welcome to DPP generation code! please answer the following questions.")
 
+title = str(input("Title of the DPP: "))
+no_of_questions = int(input("No of questions you want to ask: "))
+
+# question_list = []
+answer_list = []
+# solution_list = []
+
+for i in range(no_of_questions):
+    # question_list.append(str(input("Enter image name of " + str(i+1) + " question: ")))
+    answer_list.append(str(input("Enter answer (A/B/C/D) of " + str(i+1) + " question: ")))
+    # solution_list.append(str(input("Enter image name of " + str(i+1) + " solution: ")))
+
+file_name = str(input("Enter file name with .html estension: "))
+
+
+final_html_code = """
 <!DOCTYPE html>
 <html>
 <head>
@@ -46,169 +63,60 @@
 <div class="col s12 m8 l6 offset-m2 offset-l3">
 <div class="test_title">
 <h3 class="title">
-JEE Main 2020 Test-Series
+"""
+
+
+final_html_code += title
+
+final_html_code += """
 </h3>
 <p><strong>Rule 1</strong>: Please try to do it by your own.</p>
 <p><strong>Rule 2</strong>: Be fully prepared before attempting these questions</p>
 <p><strong>Rule 3</strong>: Please try to answer the following questions correctly!</p>
 </div>
 <form id="question_form" style="margin-top: 50px;">
+"""
 
+
+quest_template = """
 
 <div class="question">
-<h5 class="text_ques">Question 1</h5>
-<img class="responsive-img" src="Q/1.PNG">
+<h5 class="text_ques">Question {}</h5>
+<img class="responsive-img" src="Q/{}.PNG">
 <p>
 <label>
-<input name="quest1" value="A" type="radio" />
+<input name="quest{}" value="A" type="radio" />
 <span>Option A</span>
 </label>
 </p>
 <p>
 <label>
-<input name="quest1" value="B" type="radio" />
+<input name="quest{}" value="B" type="radio" />
 <span>Option B</span>
 </label>
 </p>
 <p>
 <label>
-<input name="quest1" value="C" type="radio" />
+<input name="quest{}" value="C" type="radio" />
 <span>Option C</span>
 </label>
 </p>
 <p>
 <label>
-<input name="quest1" value="D" type="radio" />
+<input name="quest{}" value="D" type="radio" />
 <span>Option D</span>
 </label>
 </p>
 </div>
 </br></br>
+"""
 
 
-<div class="question">
-<h5 class="text_ques">Question 2</h5>
-<img class="responsive-img" src="Q/2.PNG">
-<p>
-<label>
-<input name="quest2" value="A" type="radio" />
-<span>Option A</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest2" value="B" type="radio" />
-<span>Option B</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest2" value="C" type="radio" />
-<span>Option C</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest2" value="D" type="radio" />
-<span>Option D</span>
-</label>
-</p>
-</div>
-</br></br>
+for i in range(no_of_questions):
+    final_html_code += quest_template.format(i+1, i+1, i+1, i+1, i+1, i+1)
 
 
-<div class="question">
-<h5 class="text_ques">Question 3</h5>
-<img class="responsive-img" src="Q/3.PNG">
-<p>
-<label>
-<input name="quest3" value="A" type="radio" />
-<span>Option A</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest3" value="B" type="radio" />
-<span>Option B</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest3" value="C" type="radio" />
-<span>Option C</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest3" value="D" type="radio" />
-<span>Option D</span>
-</label>
-</p>
-</div>
-</br></br>
-
-
-<div class="question">
-<h5 class="text_ques">Question 4</h5>
-<img class="responsive-img" src="Q/4.PNG">
-<p>
-<label>
-<input name="quest4" value="A" type="radio" />
-<span>Option A</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest4" value="B" type="radio" />
-<span>Option B</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest4" value="C" type="radio" />
-<span>Option C</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest4" value="D" type="radio" />
-<span>Option D</span>
-</label>
-</p>
-</div>
-</br></br>
-
-
-<div class="question">
-<h5 class="text_ques">Question 5</h5>
-<img class="responsive-img" src="Q/5.PNG">
-<p>
-<label>
-<input name="quest5" value="A" type="radio" />
-<span>Option A</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest5" value="B" type="radio" />
-<span>Option B</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest5" value="C" type="radio" />
-<span>Option C</span>
-</label>
-</p>
-<p>
-<label>
-<input name="quest5" value="D" type="radio" />
-<span>Option D</span>
-</label>
-</p>
-</div>
-</br></br>
-
+final_html_code += """
 </form>
 <div id="confirm_submit" class="modal">
 <div class="modal-content">
@@ -237,42 +145,22 @@ JEE Main 2020 Test-Series
 <button class="btn waves-effect waves-light" style="background: linear-gradient(45deg, #1de099, #1dc8cd);" onclick="see_solution()">See Solution</button>
 </div>
 <div id="quiz_solution">
+"""
 
-<h5>Question 1</h5>
-<img class="responsive-img" src="Q/1.PNG">
-<h6 style="color: blue; font-weight: bold;">Correct Answer: B</h6>
-<h6 style="color: Red; font-weight: bold;" id="ans_1">Your Answer: </h6>
-<img class="responsive-img" src="A/1.PNG">
+solution_template = """
+<h5>Question {}</h5>
+<img class="responsive-img" src="Q/{}.PNG">
+<h6 style="color: blue; font-weight: bold;">Correct Answer: {}</h6>
+<h6 style="color: Red; font-weight: bold;" id="ans_{}">Your Answer: </h6>
+<img class="responsive-img" src="A/{}.PNG">
 </br></br>
+"""
 
-<h5>Question 2</h5>
-<img class="responsive-img" src="Q/2.PNG">
-<h6 style="color: blue; font-weight: bold;">Correct Answer: C</h6>
-<h6 style="color: Red; font-weight: bold;" id="ans_2">Your Answer: </h6>
-<img class="responsive-img" src="A/2.PNG">
-</br></br>
+for i in range(no_of_questions):
+    final_html_code += solution_template.format(i+1, i+1, answer_list[i], i+1, i+1)
 
-<h5>Question 3</h5>
-<img class="responsive-img" src="Q/3.PNG">
-<h6 style="color: blue; font-weight: bold;">Correct Answer: C</h6>
-<h6 style="color: Red; font-weight: bold;" id="ans_3">Your Answer: </h6>
-<img class="responsive-img" src="A/3.PNG">
-</br></br>
 
-<h5>Question 4</h5>
-<img class="responsive-img" src="Q/4.PNG">
-<h6 style="color: blue; font-weight: bold;">Correct Answer: D</h6>
-<h6 style="color: Red; font-weight: bold;" id="ans_4">Your Answer: </h6>
-<img class="responsive-img" src="A/4.PNG">
-</br></br>
-
-<h5>Question 5</h5>
-<img class="responsive-img" src="Q/5.PNG">
-<h6 style="color: blue; font-weight: bold;">Correct Answer: B</h6>
-<h6 style="color: Red; font-weight: bold;" id="ans_5">Your Answer: </h6>
-<img class="responsive-img" src="A/5.PNG">
-</br></br>
-
+final_html_code += """
 </div>
 </div>
 </div>
@@ -283,7 +171,14 @@ $('.modal').modal();
 $("#quiz_score").hide();
 $("#quiz_solution").hide();
 });
-var correect_answers = ['B', 'C', 'C', 'D', 'B']
+var correect_answers = ['"""
+
+for i in range(no_of_questions-1):
+    final_html_code += answer_list[i] + "', '"
+final_html_code += answer_list[no_of_questions-1] + "']"
+
+
+final_html_code += """
 function print_score(score) {
 $("#question_form").remove();
 $("#submit_button").remove();
@@ -345,10 +240,11 @@ $.ajax({
 url: 'https://script.google.com/macros/s/AKfycby-uchi8wXfa0Y0g0tKY9KeUbpRSMlGLnWgGmeMGwatPhrhqWI/exec',
 type: 'POST',
 data: {
+"Sheet_Type": "DPP",
+"Sheet_Name": page_name,
 "Name": name,
 "Mobile_No": mobile_no,
 "Score": score,
-"Quiz": page_name,
 "Performance": perform,
 "Answers": answers
 },
@@ -371,3 +267,8 @@ $("#quiz_solution").show();
 </body>
 </html>
 
+"""
+
+file = open(file_name, "wt")
+file.write(final_html_code)
+file.close()

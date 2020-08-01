@@ -1,6 +1,6 @@
-print("Welcome to test generation code! please answer the following questions.")
+print("Welcome to DPP generation code! please answer the following questions.")
 
-title = str(input("Title of the Quiz: "))
+title = str(input("Title of the DPP: "))
 no_of_questions = int(input("No of questions you want to ask: "))
 
 # question_list = []
