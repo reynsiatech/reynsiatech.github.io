@@ -1,6 +1,6 @@
-print("Welcome to DPP generation code! please answer the following questions.")
+print("Welcome to Chapter Test generation code! please answer the following questions.")
 
-title = str(input("Title of the DPP: "))
+title = str(input("Title of the Chapter: "))
 no_of_questions = int(input("No of questions you want to ask: "))
 
 # question_list = []
@@ -19,7 +19,7 @@ final_html_code = """
 <!DOCTYPE html>
 <html>
 <head>
-<title>Unchaai - DPP</title>
+<title>Unchaai - Chapter Test</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
@@ -240,7 +240,7 @@ $.ajax({
 url: 'https://script.google.com/macros/s/AKfycby-uchi8wXfa0Y0g0tKY9KeUbpRSMlGLnWgGmeMGwatPhrhqWI/exec',
 type: 'POST',
 data: {
-"Sheet_Type": "DPP",
+"Sheet_Type": "CT",
 "Sheet_Name": page_name,
 "Name": name,
 "Mobile_No": mobile_no,
