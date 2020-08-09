@@ -621,7 +621,7 @@ h1, h2, h3, h4, h5,
       .site-blocks-cover h1 {
         font-size: 2rem; }
 		.site-blocks-cover, .site-blocks-cover > .container > .row {
-	      min-height: 900px;
+	      min-height: 700px;
 	      /* height: default; */
 	  }
 	    .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover > .container > .row {
