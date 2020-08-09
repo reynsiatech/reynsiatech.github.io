@@ -1,1 +1,0 @@
-# reynsiatech.github.io
