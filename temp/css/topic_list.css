@@ -1,0 +1,253 @@
+a, li {
+    -webkit-transition: background 0.35s ease;
+    transition: background 0.35s ease;
+  }
+  
+  /*Base*/
+  * {
+    box-sizing: border-box;
+  }
+  
+  html,
+ /* body {
+    width: 100%;
+    height: 100%;
+  }*/
+  
+  /*Typography*/
+  html {
+    font: 16px Verdana;
+  }
+  
+  h1 {
+    font-size: 1.2em;
+  }
+  
+  li {
+    font-size: 1em;
+    list-style: none;
+    list-style-image: url("https://img.icons8.com/small/16/000000/youtube.png");
+  }
+  
+  /*Layout*/
+  /*Dropdown*/
+  .dropdown {
+    margin: 1.5em auto;
+    width: 40em;
+    border: 0.1em solid #c0cdd1;
+  }
+  
+  a {
+    display: block;
+    padding: 0.5em;
+    color: #000;
+    text-decoration: none;
+  }
+  a:focus, a:hover {
+    background: #ecf0f1;
+  }
+  a:active {
+    background: #fbfcfc;
+  }
+  
+  .fa {
+    float: right;
+  }
+  
+  /*List*/
+  ul {
+    display: none;
+    border-top: 0.1em solid #c0cdd1;
+  }
+  
+  li {
+    padding: 0.5em;
+    cursor: pointer;
+  }
+  li:not(:first-child) {
+    border-top: 0.1em dashed #dde4e6;
+  }
+ /* li:last-child {
+    color: #ad0000;
+  }*/
+  li:focus, li:hover {
+    background: #ecf0f1;
+  }
+  li:active {
+    background: #fbfcfc;
+  }
+  .row {
+  background-color: black;
+}
+
+p,
+.white {
+  color: white;
+  text-decoration: none;
+}
+
+.video-container {
+ /* position: relative;
+  padding-bottom: 0%;
+  padding-top: 40px;
+  height: 0;
+  overflow: hidden;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;*/
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+ /* position: absolute;
+  top: 0;
+  left: 0;
+  width: 40%;
+  height: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  text-align: center;*/
+  width: 40%;
+  height: 600px;
+}
+
+.responsive-buttons {
+  text-align: center;
+}
+
+.heading {
+  font-size: 26px;
+  margin-bottom: 30px;
+}
+
+.button-section {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+          flex-direction: row;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: middle;
+          align-items: middle;
+  text-align: center;
+  padding: 10px;
+}
+
+
+.btn {
+  background: #0077B5;
+  color: #fff;
+  display: inline-block;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: center;
+  text-overflow: ellipsis;
+  -webkit-transition: 0.2s box-shadow ease-in-out, 0.2s background-color ease-in-out;
+  transition: 0.2s box-shadow ease-in-out, 0.2s background-color ease-in-out;
+  white-space: nowrap;
+  padding: 1.4em 2em;
+}
+/* Add a black background color to the top navigation */
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .dropdown {width: 90%;}
+  .video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 98%;
+  height: 80%;
+}
+#videos{
+  height: 200px;
+}
+.text-center{
+  margin-left: 0%;
+
+}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .dropdown {width: 90%;}
+   .video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 98%;
+  height: 80%;
+}
+#videos{
+  height: 300px;
+}
+.text-center{
+  margin-left: 0%;
+
+}
+}
+
+/* Medium devices (landscape tablets, 868px and up) */
+@media only screen and (min-width: 868px) {
+  .dropdown {width: 40%;}
+   .video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 60%;
+  height: 50%;
+  margin-left: 10%;
+}
+#videos{
+  height: 300px;
+}
+.text-center{
+  margin-left: 10%;
+
+}
+.btn{
+  margin-right: 40%;
+}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+.dropdown {width: 40%;}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 60%;
+  height: 50%;
+  margin-left: 10%;
+}
+#videos{
+  height: 500px;
+}
+.text-center{
+  margin-left: 10%;
+
+}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+.dropdown {width: 40%;}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  width: 60%;
+  height: 50%;
+  margin-left: 10%;
+}
+#videos{
+  height: 500px;
+}
+.text-center{
+  margin-left: 10%;
+
+}
+}
+
